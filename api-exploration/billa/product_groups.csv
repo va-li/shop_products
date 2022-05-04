@@ -1,371 +1,371 @@
-product_group_name,product_group_id,parent_group_name,parent_group_id
-Obst & Gemüse,B2-1,,
-Trockenfrüchte & Nüsse,B2-14,Obst & Gemüse,B2-1
-Obst,B2-11,Obst & Gemüse,B2-1
-"Äpfel, Birnen & Trauben",B2-111,Obst,B2-11
-Exotisches Obst,B2-112,Obst,B2-11
-Steinobst & Beeren,B2-113,Obst,B2-11
-Zitrusfrüchte,B2-114,Obst,B2-11
-Gemüse,B2-12,Obst & Gemüse,B2-1
-Gartengemüse,B2-121,Gemüse,B2-12
-Zwiebel und Kartoffeln,B2-122,Gemüse,B2-12
-Kräuter,B2-123,Gemüse,B2-12
-Salate,B2-13,Obst & Gemüse,B2-1
-Salate,B2-131,Salate,B2-13
-Salate verpackt,B2-132,Salate,B2-13
-Brot & Gebäck,B2-2,,
-Knäckebrot & Zwieback,B2-23,Brot & Gebäck,B2-2
-Semmelwürfel & Brösel,B2-25,Brot & Gebäck,B2-2
-Aufbackbrötchen & Toast,B2-21,Brot & Gebäck,B2-2
-Aufbackbrötchen & -baguettes,B2-211,Aufbackbrötchen & Toast,B2-21
-Toastbrot,B2-212,Aufbackbrötchen & Toast,B2-21
-Brot & Gebäck,B2-22,Brot & Gebäck,B2-2
-Brot verpackt,B2-221,Brot & Gebäck,B2-22
-Ofenfrisches Brot,B2-222,Brot & Gebäck,B2-22
-Ofenfrisches Gebäck,B2-223,Brot & Gebäck,B2-22
-Kuchen & Co.,B2-24,Brot & Gebäck,B2-2
-Frischer Plunder & Strudel,B2-241,Kuchen & Co.,B2-24
-Frischer Kuchen,B2-242,Kuchen & Co.,B2-24
-"Kuchen, Strudel & Rouladen",B2-243,Kuchen & Co.,B2-24
-"Striezel, Brioche & Croissants",B2-244,Kuchen & Co.,B2-24
-"Golatschen, Muffins & Co.",B2-245,Kuchen & Co.,B2-24
-Krapfen & Brandteiggebäck,B2-246,Kuchen & Co.,B2-24
-Torten,B2-247,Kuchen & Co.,B2-24
-Getränke,B2-3,,
-Alkoholfreie Getränke,B2-31,Getränke,B2-3
-Eiskaffee,B2-311,Alkoholfreie Getränke,B2-31
-Eistee,B2-312,Alkoholfreie Getränke,B2-31
-Energydrinks,B2-313,Alkoholfreie Getränke,B2-31
-Frucht- & Gemüsesäfte,B2-314,Alkoholfreie Getränke,B2-31
-Kindergetränke,B2-315,Alkoholfreie Getränke,B2-31
-Limonaden,B2-316,Alkoholfreie Getränke,B2-31
-Mineralwasser,B2-317,Alkoholfreie Getränke,B2-31
-Mineralwasser mit Geschmack,B2-318,Alkoholfreie Getränke,B2-31
-Sirupe,B2-319,Alkoholfreie Getränke,B2-31
-Smoothies & Fresh Juice,B2-31A,Alkoholfreie Getränke,B2-31
-Bier & Radler,B2-32,Getränke,B2-3
-Alkoholfreies Bier,B2-321,Bier & Radler,B2-32
-Dosenbier,B2-322,Bier & Radler,B2-32
-Flaschenbier,B2-323,Bier & Radler,B2-32
-Radler,B2-324,Bier & Radler,B2-32
-"Kaffee, Tee & Co.",B2-33,Getränke,B2-3
-Kaffee,B2-331,"Kaffee, Tee & Co.",B2-33
-Kakao,B2-332,"Kaffee, Tee & Co.",B2-33
-Tee,B2-333,"Kaffee, Tee & Co.",B2-33
-Sekt & Champagner,B2-34,Getränke,B2-3
-Champagner,B2-341,Sekt & Champagner,B2-34
-Prosecco & Frizzante,B2-342,Sekt & Champagner,B2-34
-Sekt,B2-343,Sekt & Champagner,B2-34
-Cider,B2-344,Sekt & Champagner,B2-34
-Spirituosen,B2-35,Getränke,B2-3
-Schnaps & Likör,B2-351,Spirituosen,B2-35
-Gin,B2-352,Spirituosen,B2-35
-Aperitif & Digestif,B2-353,Spirituosen,B2-35
-Cognac & Whiskey,B2-354,Spirituosen,B2-35
-Vodka,B2-355,Spirituosen,B2-35
-Rum,B2-356,Spirituosen,B2-35
-Alkopops,B2-357,Spirituosen,B2-35
-Tequila,B2-358,Spirituosen,B2-35
-Alkoholfreie Spirituosen,B2-359,Spirituosen,B2-35
-Wein,B2-36,Getränke,B2-3
-Weißwein,B2-361,Wein,B2-36
-Rotwein & Rose,B2-362,Wein,B2-36
-Dessertwein,B2-363,Wein,B2-36
-Mineralwasser,B2-37,Getränke,B2-3
-still,B2-370,Mineralwasser,B2-37
-mild,B2-371,Mineralwasser,B2-37
-prickelnd,B2-372,Mineralwasser,B2-37
-Kühlwaren,B2-4,,
-Eier,B2-42,Kühlwaren,B2-4
-"Blätterteig, Strudelteig",B2-47,Kühlwaren,B2-4
-Fisch,B2-4A,Kühlwaren,B2-4
-Tofu,B2-4C,Kühlwaren,B2-4
-Schnelle Küche,B2-41,Kühlwaren,B2-4
-Menüschalen,B2-411,Schnelle Küche,B2-41
-Salate,B2-412,Schnelle Küche,B2-41
-Süßes,B2-413,Schnelle Küche,B2-41
-Teigwaren & Beilagen,B2-414,Schnelle Küche,B2-41
-Burger,B2-415,Schnelle Küche,B2-41
-Fleisch,B2-43,Kühlwaren,B2-4
-Huhn & Truthahn,B2-432,Fleisch,B2-43
-Schweinefleisch,B2-434,Fleisch,B2-43
-Rindfleisch,B2-435,Fleisch,B2-43
-"Käse, Aufstriche & Salate",B2-44,Kühlwaren,B2-4
-Aufstriche & Salate,B2-441,"Käse, Aufstriche & Salate",B2-44
-Aus der Feinkost,B2-442,"Käse, Aufstriche & Salate",B2-44
-Feta & Mozzarella,B2-443,"Käse, Aufstriche & Salate",B2-44
-Hart- & Weichkäse am Stück,B2-444,"Käse, Aufstriche & Salate",B2-44
-Hüttenkäse & Frischkäse,B2-445,"Käse, Aufstriche & Salate",B2-44
-Käsespezialitäten,B2-446,"Käse, Aufstriche & Salate",B2-44
-Parmesan & Reibkäse,B2-447,"Käse, Aufstriche & Salate",B2-44
-Schmelzkäse,B2-448,"Käse, Aufstriche & Salate",B2-44
-Schnittkäse,B2-449,"Käse, Aufstriche & Salate",B2-44
-Milchprodukte,B2-45,Kühlwaren,B2-4
-Butter,B2-451,Milchprodukte,B2-45
-Haltbarmilch & Kondensmilch,B2-452,Milchprodukte,B2-45
-Joghurt,B2-453,Milchprodukte,B2-45
-Margarine & Fette,B2-455,Milchprodukte,B2-45
-Milch,B2-456,Milchprodukte,B2-45
-Milchgetränke,B2-457,Milchprodukte,B2-45
-Milchsnacks,B2-458,Milchprodukte,B2-45
-Pudding & Desserts,B2-459,Milchprodukte,B2-45
-"Rahm, Obers & Topfen",B2-45A,Milchprodukte,B2-45
-Sprühsahne & Kaffeeobers,B2-45B,Milchprodukte,B2-45
-Feinkostplatten & Brötchen,B2-46,Kühlwaren,B2-4
-Belegte Brötchen,B2-461,Feinkostplatten & Brötchen,B2-46
-Aufschnittplatten,B2-462,Feinkostplatten & Brötchen,B2-46
-"Wurst, Schinken & Speck",B2-48,Kühlwaren,B2-4
-Aus der Feinkost,B2-481,"Wurst, Schinken & Speck",B2-48
-Salami,B2-482,"Wurst, Schinken & Speck",B2-48
-"Grammeln, Schmalz & Speck",B2-483,"Wurst, Schinken & Speck",B2-48
-Schinken,B2-484,"Wurst, Schinken & Speck",B2-48
-Cabanossi,B2-48A,"Wurst, Schinken & Speck",B2-48
-Wurstspezialitäten,B2-485,"Wurst, Schinken & Speck",B2-48
-Streichwurst & Pasteten,B2-486,"Wurst, Schinken & Speck",B2-48
-Truthahn und Putenwurst,B2-487,"Wurst, Schinken & Speck",B2-48
-Wurst & Stangenwurst,B2-488,"Wurst, Schinken & Speck",B2-48
-Würstel,B2-489,"Wurst, Schinken & Speck",B2-48
-Feinkost,B2-49,Kühlwaren,B2-4
-Käse,B2-490,Feinkost,B2-49
-Wurst,B2-491,Feinkost,B2-49
-"Salate, Aufstriche",B2-492,Feinkost,B2-49
-Tiefkühl,B2-5,,
-Gemüse & Kräuter,B2-55,Tiefkühl,B2-5
-Pommes Frites & Co.,B2-56,Tiefkühl,B2-5
-Eis,B2-51,Tiefkühl,B2-5
-Eisbecher,B2-511,Eis,B2-51
-Stanitzel & Lutscher,B2-512,Eis,B2-51
-Eiswaffeln,B2-513,Eis,B2-51
-Fertiggerichte,B2-53,Tiefkühl,B2-5
-Fleisch & Fisch,B2-531,Fertiggerichte,B2-53
-Geflügel,B2-532,Fertiggerichte,B2-53
-Knödel & Beilagen,B2-533,Fertiggerichte,B2-53
-Lasagne,B2-534,Fertiggerichte,B2-53
-Reis & Gemüse,B2-535,Fertiggerichte,B2-53
-"Pasta, Pfannen & Schmankerl",B2-537,Fertiggerichte,B2-53
-Fisch & Garnelen,B2-54,Tiefkühl,B2-5
-Fisch natur,B2-541,Fisch & Garnelen,B2-54
-Fisch paniert & gewürzt,B2-542,Fisch & Garnelen,B2-54
-Garnelen,B2-543,Fisch & Garnelen,B2-54
-Pizza & Baguette,B2-57,Tiefkühl,B2-5
-Baguettes,B2-571,Pizza & Baguette,B2-57
-Pizzen,B2-572,Pizza & Baguette,B2-57
-Desserts & Früchte,B2-58,Tiefkühl,B2-5
-Früchte,B2-581,Desserts & Früchte,B2-58
-Süßspeisen,B2-582,Desserts & Früchte,B2-58
-Torten,B2-583,Desserts & Früchte,B2-58
-Grundnahrungsmittel,B2-6,,
-Asia & Mexican Produkte,B2-61,Grundnahrungsmittel,B2-6
-Asia Produkte,B2-611,Asia & Mexican Produkte,B2-61
-India & Mexican Produkte,B2-612,Asia & Mexican Produkte,B2-61
-Baby,B2-62,Grundnahrungsmittel,B2-6
-Babynahrung im Glas,B2-621,Baby,B2-62
-Getränke & Tees,B2-625,Baby,B2-62
-Kleine Snacks,B2-623,Baby,B2-62
-Milchpulver & Milch,B2-622,Baby,B2-62
-Milch- & Getreidebreie,B2-624,Baby,B2-62
-Backen,B2-63,Grundnahrungsmittel,B2-6
-"Aromen, Glasuren & Streusel",B2-631,Backen,B2-63
-Backmischungen & Füllungen,B2-632,Backen,B2-63
-Backpulver & Hefe,B2-633,Backen,B2-63
-Mehl,B2-634,Backen,B2-63
-Eier,B2-635,Backen,B2-63
-Nüsse & Kerne,B2-636,Backen,B2-63
-Teige,B2-637,Backen,B2-63
-Trockenfrüchte,B2-638,Backen,B2-63
-Gelierhilfe & -Zucker,B2-639,Backen,B2-63
-Backformen & Zubehör,B2-63A,Backen,B2-63
-Essig & Öl,B2-64,Grundnahrungsmittel,B2-6
-Essig,B2-641,Essig & Öl,B2-64
-Öl,B2-642,Essig & Öl,B2-64
-Fertiggerichte,B2-65,Grundnahrungsmittel,B2-6
-Asia,B2-651,Fertiggerichte,B2-65
-Beutelsuppen,B2-652,Fertiggerichte,B2-65
-Suppenwürfel,B2-653,Fertiggerichte,B2-65
-Gekühlte Suppen,B2-654,Fertiggerichte,B2-65
-Dosensuppen,B2-655,Fertiggerichte,B2-65
-Menüs & Dosengerichte,B2-656,Fertiggerichte,B2-65
-Pasta & Risotto,B2-657,Fertiggerichte,B2-65
-Salate,B2-658,Fertiggerichte,B2-65
-Suppeneinlagen,B2-659,Fertiggerichte,B2-65
-Süßes,B2-65A,Fertiggerichte,B2-65
-Teigwaren & Beilagen,B2-65B,Fertiggerichte,B2-65
-Gewürze & Würzmittel,B2-66,Grundnahrungsmittel,B2-6
-Gewürze,B2-661,Gewürze & Würzmittel,B2-66
-Gewürzgläser & -Packungen,B2-662,Gewürze & Würzmittel,B2-66
-Gewürzmischungen,B2-663,Gewürze & Würzmittel,B2-66
-Gewürzmühlen,B2-664,Gewürze & Würzmittel,B2-66
-Salz,B2-665,Gewürze & Würzmittel,B2-66
-"Honig, Marmelade & Co.",B2-67,Grundnahrungsmittel,B2-6
-Honig,B2-671,"Honig, Marmelade & Co.",B2-67
-Marmeladen & Konfitüren,B2-672,"Honig, Marmelade & Co.",B2-67
-Süße Aufstriche,B2-673,"Honig, Marmelade & Co.",B2-67
-Konserven & Sauerwaren,B2-68,Grundnahrungsmittel,B2-6
-Aufstriche,B2-681,Konserven & Sauerwaren,B2-68
-Fischkonserven,B2-682,Konserven & Sauerwaren,B2-68
-Hülsenfrüchte,B2-683,Konserven & Sauerwaren,B2-68
-Obst & Kompotte,B2-684,Konserven & Sauerwaren,B2-68
-Sauerkraut,B2-685,Konserven & Sauerwaren,B2-68
-Sauerwaren,B2-686,Konserven & Sauerwaren,B2-68
-Tomatenprodukte,B2-687,Konserven & Sauerwaren,B2-68
-Kuchen & Co.,B2-69,Grundnahrungsmittel,B2-6
-Frischer Plunder & Strudel,B2-691,Kuchen & Co.,B2-69
-Frischer Kuchen,B2-692,Kuchen & Co.,B2-69
-"Kuchen, Strudel & Rouladen",B2-693,Kuchen & Co.,B2-69
-"Striezel, Brioche & Croissants",B2-694,Kuchen & Co.,B2-69
-"Golatschen, Muffins & Co.",B2-695,Kuchen & Co.,B2-69
-Krapfen & Brandteiggebäck,B2-696,Kuchen & Co.,B2-69
-Mehl & Getreideprodukte,B2-6A,Grundnahrungsmittel,B2-6
-Brotbackmischungen,B2-6A1,Mehl & Getreideprodukte,B2-6A
-Getreideprodukte,B2-6A2,Mehl & Getreideprodukte,B2-6A
-Mehl,B2-6A3,Mehl & Getreideprodukte,B2-6A
-Müsli & Cerealien,B2-6B,Grundnahrungsmittel,B2-6
-Cerealien,B2-6B1,Müsli & Cerealien,B2-6B
-Müsli,B2-6B2,Müsli & Cerealien,B2-6B
-Müsliriegel,B2-6B3,Müsli & Cerealien,B2-6B
-"Reis, Teigwaren & Sugo",B2-6C,Grundnahrungsmittel,B2-6
-Reis,B2-6C1,"Reis, Teigwaren & Sugo",B2-6C
-Sugo & Pesto,B2-6C2,"Reis, Teigwaren & Sugo",B2-6C
-Teigwaren,B2-6C3,"Reis, Teigwaren & Sugo",B2-6C
-Suppeneinlagen,B2-6C4,"Reis, Teigwaren & Sugo",B2-6C
-Saucen & Dressings,B2-6D,Grundnahrungsmittel,B2-6
-Dressings,B2-6D1,Saucen & Dressings,B2-6D
-Ketchup & Mayonnaise,B2-6D2,Saucen & Dressings,B2-6D
-Saucen,B2-6D3,Saucen & Dressings,B2-6D
-Senf & Kren,B2-6D4,Saucen & Dressings,B2-6D
-Spezielle Ernährung,B2-6E,Grundnahrungsmittel,B2-6
-Glutenfrei,B2-6E2,Spezielle Ernährung,B2-6E
-Laktosefrei,B2-6E3,Spezielle Ernährung,B2-6E
-Reiswaffeln & Vollwert,B2-6E4,Spezielle Ernährung,B2-6E
-Weight Watchers Produkte,B2-6E6,Spezielle Ernährung,B2-6E
-Nahrungsergänzung,B2-6E7,Spezielle Ernährung,B2-6E
-"Soja, Hafer & Reisdrinks",B2-6E8,Spezielle Ernährung,B2-6E
-Zucker & Süßstoffe,B2-6F,Grundnahrungsmittel,B2-6
-Zucker,B2-6F1,Zucker & Süßstoffe,B2-6F
-Süßstoffe,B2-6F2,Zucker & Süßstoffe,B2-6F
-Gelierhilfe & -Zucker,B2-6F3,Zucker & Süßstoffe,B2-6F
-Fixprodukte,B2-6G,Grundnahrungsmittel,B2-6
-Basisfixprodukte,B2-6G1,Fixprodukte,B2-6G
-Teige & Püree,B2-6G2,Fixprodukte,B2-6G
-Basis für Süßes,B2-6G3,Fixprodukte,B2-6G
-Süßes & Salziges,B2-7,,
-Biskotten & Eiswaffeln,B2-71,Süßes & Salziges,B2-7
-Müsliriegel,B2-73,Süßes & Salziges,B2-7
-Chips & Co.,B2-74,Süßes & Salziges,B2-7
-Chips,B2-741,Chips & Co.,B2-74
-Knabbereien,B2-742,Chips & Co.,B2-74
-Nüsse,B2-743,Chips & Co.,B2-74
-Nachos & Dips,B2-744,Chips & Co.,B2-74
-Snacks,B2-745,Chips & Co.,B2-74
-Süßes,B2-75,Süßes & Salziges,B2-7
-Feingebäck & Kekse,B2-751,Süßes,B2-75
-Schokoriegel,B2-752,Süßes,B2-75
-Schokoladentafeln,B2-753,Süßes,B2-75
-Schnitten & Waffeln,B2-754,Süßes,B2-75
-Kaugummi,B2-755,Süßes,B2-75
-Fruchtgummi,B2-756,Süßes,B2-75
-Zuckerl & Bonbons,B2-757,Süßes,B2-75
-Süße Spezialitäten,B2-758,Süßes,B2-75
-Bonbonniere & Spezialitäten,B2-759,Süßes,B2-75
-Eiswaffeln & Biskotten,B2-75A,Süßes,B2-75
-Pflege,B2-8,,
-Deodorants,B2-83,Pflege,B2-8
-Pflaster & Verbandsmaterial,B2-85,Pflege,B2-8
-Verhütungsmittel,B2-8B,Pflege,B2-8
-Fußpflege,B2-8C,Pflege,B2-8
-Strumpfhosen & Socken,B2-8D,Pflege,B2-8
-Baby,B2-81,Pflege,B2-8
-Babypflege,B2-811,Baby,B2-81
-Feuchttücher,B2-812,Baby,B2-81
-Windeln,B2-813,Baby,B2-81
-Damenhygiene,B2-82,Pflege,B2-8
-Slipeinlagen,B2-821,Damenhygiene,B2-82
-Binden,B2-822,Damenhygiene,B2-82
-Tampons,B2-823,Damenhygiene,B2-82
-Haarpflege & Haarfarben,B2-84,Pflege,B2-8
-Shampoo & Balsam,B2-841,Haarpflege & Haarfarben,B2-84
-Haarspray & Gel,B2-842,Haarpflege & Haarfarben,B2-84
-Haarfarben,B2-843,Haarpflege & Haarfarben,B2-84
-Haut- & Lippenpflege,B2-86,Pflege,B2-8
-Lippenpflege,B2-861,Haut- & Lippenpflege,B2-86
-Gesichtspflege,B2-862,Haut- & Lippenpflege,B2-86
-Hand- & Gesichtscremen,B2-863,Haut- & Lippenpflege,B2-86
-Bodylotion,B2-864,Haut- & Lippenpflege,B2-86
-Nagelpflege & Zubehör,B2-865,Haut- & Lippenpflege,B2-86
-Mund- & Zahnhygiene,B2-87,Pflege,B2-8
-Zahnbürsten & Aufsätze,B2-871,Mund- & Zahnhygiene,B2-87
-Zahnpasten,B2-872,Mund- & Zahnhygiene,B2-87
-Mundwasser & Kukident,B2-873,Mund- & Zahnhygiene,B2-87
-Zahnseide & Zahnstocher,B2-874,Mund- & Zahnhygiene,B2-87
-Rasierbedarf,B2-88,Pflege,B2-8
-Rasierer & Klingen,B2-881,Rasierbedarf,B2-88
-Enthaarungsmittel,B2-882,Rasierbedarf,B2-88
-Rasierschaum & -Gel,B2-883,Rasierbedarf,B2-88
-After Shave,B2-884,Rasierbedarf,B2-88
-Seife & Duschbäder,B2-89,Pflege,B2-8
-Duschgel,B2-891,Seife & Duschbäder,B2-89
-Duschbäder & Badezusätze,B2-892,Seife & Duschbäder,B2-89
-Seifen,B2-893,Seife & Duschbäder,B2-89
-Sonnen- & Gelsenschutzmittel,B2-8A,Pflege,B2-8
-Sonnenschutzmittel,B2-8A1,Sonnen- & Gelsenschutzmittel,B2-8A
-Apres Lotion & Selbstbräuner,B2-8A2,Sonnen- & Gelsenschutzmittel,B2-8A
-Gelsenschutzmittel,B2-8A3,Sonnen- & Gelsenschutzmittel,B2-8A
-Haushalt,B2-9,,
-Büro- & Schulartikel,B2-91,Haushalt,B2-9
-"Müllsäcke, Gefrierbeutel & Co.",B2-97,Haushalt,B2-9
-Schuhpflege,B2-9C,Haushalt,B2-9
-Insektenschutz,B2-9E,Haushalt,B2-9
-Spielwaren,B2-9F,Haushalt,B2-9
-Hygiene-Schutzartikel,B2-9G,Haushalt,B2-9
-Garten,B2-92,Haushalt,B2-9
-Pflanzenpflege,B2-922,Garten,B2-92
-Blumenerde,B2-925,Garten,B2-92
-Kleben & Befestigen,B2-93,Haushalt,B2-9
-Klebstoffe,B2-931,Kleben & Befestigen,B2-93
-Tesafilm & Klebebänder,B2-932,Kleben & Befestigen,B2-93
-Küchenartikel,B2-94,Haushalt,B2-9
-Gläser & Besteck,B2-942,Küchenartikel,B2-94
-Küchenhilfen,B2-943,Küchenartikel,B2-94
-Partyartikel,B2-949,Küchenartikel,B2-94
-Filter & Entkalker,B2-94A,Küchenartikel,B2-94
-Küchenrollen & WC-Papier,B2-95,Haushalt,B2-9
-WC-Papier,B2-951,Küchenrollen & WC-Papier,B2-95
-Feuchtes WC-Papier,B2-952,Küchenrollen & WC-Papier,B2-95
-Küchenrollen,B2-953,Küchenrollen & WC-Papier,B2-95
-Lampen & Batterien,B2-96,Haushalt,B2-9
-Batterien,B2-962,Lampen & Batterien,B2-96
-Raumsprays & Kerzen,B2-98,Haushalt,B2-9
-Raumsprays & Lufterfrischer,B2-981,Raumsprays & Kerzen,B2-98
-Duftkerzen & Kerzen,B2-982,Raumsprays & Kerzen,B2-98
-Grablichter,B2-983,Raumsprays & Kerzen,B2-98
-Reinigen & Pflegen,B2-99,Haushalt,B2-9
-Geschirrspülmittel,B2-991,Reinigen & Pflegen,B2-99
-Diverse Haushaltsreiniger,B2-992,Reinigen & Pflegen,B2-99
-WC- & Badreiniger,B2-993,Reinigen & Pflegen,B2-99
-Reinigungsgeräte & Tücher,B2-994,Reinigen & Pflegen,B2-99
-Taschentücher & Servietten,B2-9A,Haushalt,B2-9
-Taschentücher,B2-9A1,Taschentücher & Servietten,B2-9A
-Servietten,B2-9A2,Taschentücher & Servietten,B2-9A
-Waschmittel & Weichspüler,B2-9B,Haushalt,B2-9
-Waschmittel,B2-9B1,Waschmittel & Weichspüler,B2-9B
-Weichspüler,B2-9B2,Waschmittel & Weichspüler,B2-9B
-Flecken- & Vorwaschmittel,B2-9B3,Waschmittel & Weichspüler,B2-9B
-Pflege,B2-9B4,Waschmittel & Weichspüler,B2-9B
-Haustier,B2-A,,
-Nager,B2-A3,Haustier,B2-A
-Vögel,B2-A4,Haustier,B2-A
-Hunde,B2-A1,Haustier,B2-A
-Nassfutter,B2-A11,Hunde,B2-A1
-Trockenfutter,B2-A12,Hunde,B2-A1
-Hunde Snacks,B2-A13,Hunde,B2-A1
-Katzen,B2-A2,Haustier,B2-A
-Nassfutter,B2-A21,Katzen,B2-A2
-Trockenfutter,B2-A22,Katzen,B2-A2
-Katzenstreu,B2-A23,Katzen,B2-A2
-Katzen Snacks,B2-A24,Katzen,B2-A2
-Katzenzubehör,B2-A25,Katzen,B2-A2
-Geschenkideen,B2-E,,
-Geschenksideen,B2-E2,Geschenkideen,B2-E
-Sekt & Champagner,B2-E20,Geschenksideen,B2-E2
-Bonbonniere,B2-E21,Geschenksideen,B2-E2
-Spirituosen,B2-E24,Geschenksideen,B2-E2
+id,name,contained_in,is_leaf
+B2-1,Obst & Gemüse,[],False
+B2-14,Trockenfrüchte & Nüsse,['B2-1'],True
+B2-11,Obst,['B2-1'],False
+B2-111,"Äpfel, Birnen & Trauben","['B2-1', 'B2-11']",True
+B2-112,Exotisches Obst,"['B2-1', 'B2-11']",True
+B2-113,Steinobst & Beeren,"['B2-1', 'B2-11']",True
+B2-114,Zitrusfrüchte,"['B2-1', 'B2-11']",True
+B2-12,Gemüse,['B2-1'],False
+B2-121,Gartengemüse,"['B2-1', 'B2-12']",True
+B2-122,Zwiebel und Kartoffeln,"['B2-1', 'B2-12']",True
+B2-123,Kräuter,"['B2-1', 'B2-12']",True
+B2-13,Salate,['B2-1'],False
+B2-131,Salate,"['B2-1', 'B2-13']",True
+B2-132,Salate verpackt,"['B2-1', 'B2-13']",True
+B2-2,Brot & Gebäck,[],False
+B2-23,Knäckebrot & Zwieback,['B2-2'],True
+B2-25,Semmelwürfel & Brösel,['B2-2'],True
+B2-21,Aufbackbrötchen & Toast,['B2-2'],False
+B2-211,Aufbackbrötchen & -baguettes,"['B2-2', 'B2-21']",True
+B2-212,Toastbrot,"['B2-2', 'B2-21']",True
+B2-22,Brot & Gebäck,['B2-2'],False
+B2-221,Brot verpackt,"['B2-2', 'B2-22']",True
+B2-222,Ofenfrisches Brot,"['B2-2', 'B2-22']",True
+B2-223,Ofenfrisches Gebäck,"['B2-2', 'B2-22']",True
+B2-24,Kuchen & Co.,['B2-2'],False
+B2-241,Frischer Plunder & Strudel,"['B2-2', 'B2-24']",True
+B2-242,Frischer Kuchen,"['B2-2', 'B2-24']",True
+B2-243,"Kuchen, Strudel & Rouladen","['B2-2', 'B2-24']",True
+B2-244,"Striezel, Brioche & Croissants","['B2-2', 'B2-24']",True
+B2-245,"Golatschen, Muffins & Co.","['B2-2', 'B2-24']",True
+B2-246,Krapfen & Brandteiggebäck,"['B2-2', 'B2-24']",True
+B2-247,Torten,"['B2-2', 'B2-24']",True
+B2-3,Getränke,[],False
+B2-31,Alkoholfreie Getränke,['B2-3'],False
+B2-311,Eiskaffee,"['B2-3', 'B2-31']",True
+B2-312,Eistee,"['B2-3', 'B2-31']",True
+B2-313,Energydrinks,"['B2-3', 'B2-31']",True
+B2-314,Frucht- & Gemüsesäfte,"['B2-3', 'B2-31']",True
+B2-315,Kindergetränke,"['B2-3', 'B2-31']",True
+B2-316,Limonaden,"['B2-3', 'B2-31']",True
+B2-317,Mineralwasser,"['B2-3', 'B2-31']",True
+B2-318,Mineralwasser mit Geschmack,"['B2-3', 'B2-31']",True
+B2-319,Sirupe,"['B2-3', 'B2-31']",True
+B2-31A,Smoothies & Fresh Juice,"['B2-3', 'B2-31']",True
+B2-32,Bier & Radler,['B2-3'],False
+B2-321,Alkoholfreies Bier,"['B2-3', 'B2-32']",True
+B2-322,Dosenbier,"['B2-3', 'B2-32']",True
+B2-323,Flaschenbier,"['B2-3', 'B2-32']",True
+B2-324,Radler,"['B2-3', 'B2-32']",True
+B2-33,"Kaffee, Tee & Co.",['B2-3'],False
+B2-331,Kaffee,"['B2-3', 'B2-33']",True
+B2-332,Kakao,"['B2-3', 'B2-33']",True
+B2-333,Tee,"['B2-3', 'B2-33']",True
+B2-34,Sekt & Champagner,['B2-3'],False
+B2-341,Champagner,"['B2-3', 'B2-34']",True
+B2-342,Prosecco & Frizzante,"['B2-3', 'B2-34']",True
+B2-343,Sekt,"['B2-3', 'B2-34']",True
+B2-344,Cider,"['B2-3', 'B2-34']",True
+B2-35,Spirituosen,['B2-3'],False
+B2-351,Schnaps & Likör,"['B2-3', 'B2-35']",True
+B2-352,Gin,"['B2-3', 'B2-35']",True
+B2-353,Aperitif & Digestif,"['B2-3', 'B2-35']",True
+B2-354,Cognac & Whiskey,"['B2-3', 'B2-35']",True
+B2-355,Vodka,"['B2-3', 'B2-35']",True
+B2-356,Rum,"['B2-3', 'B2-35']",True
+B2-357,Alkopops,"['B2-3', 'B2-35']",True
+B2-358,Tequila,"['B2-3', 'B2-35']",True
+B2-359,Alkoholfreie Spirituosen,"['B2-3', 'B2-35']",True
+B2-36,Wein,['B2-3'],False
+B2-361,Weißwein,"['B2-3', 'B2-36']",True
+B2-362,Rotwein & Rose,"['B2-3', 'B2-36']",True
+B2-363,Dessertwein,"['B2-3', 'B2-36']",True
+B2-37,Mineralwasser,['B2-3'],False
+B2-370,still,"['B2-3', 'B2-37']",True
+B2-371,mild,"['B2-3', 'B2-37']",True
+B2-372,prickelnd,"['B2-3', 'B2-37']",True
+B2-4,Kühlwaren,[],False
+B2-42,Eier,['B2-4'],True
+B2-47,"Blätterteig, Strudelteig",['B2-4'],True
+B2-4A,Fisch,['B2-4'],True
+B2-4C,Tofu,['B2-4'],True
+B2-41,Schnelle Küche,['B2-4'],False
+B2-411,Menüschalen,"['B2-4', 'B2-41']",True
+B2-412,Salate,"['B2-4', 'B2-41']",True
+B2-413,Süßes,"['B2-4', 'B2-41']",True
+B2-414,Teigwaren & Beilagen,"['B2-4', 'B2-41']",True
+B2-415,Burger,"['B2-4', 'B2-41']",True
+B2-43,Fleisch,['B2-4'],False
+B2-432,Huhn & Truthahn,"['B2-4', 'B2-43']",True
+B2-434,Schweinefleisch,"['B2-4', 'B2-43']",True
+B2-435,Rindfleisch,"['B2-4', 'B2-43']",True
+B2-44,"Käse, Aufstriche & Salate",['B2-4'],False
+B2-441,Aufstriche & Salate,"['B2-4', 'B2-44']",True
+B2-442,Aus der Feinkost,"['B2-4', 'B2-44']",True
+B2-443,Feta & Mozzarella,"['B2-4', 'B2-44']",True
+B2-444,Hart- & Weichkäse am Stück,"['B2-4', 'B2-44']",True
+B2-445,Hüttenkäse & Frischkäse,"['B2-4', 'B2-44']",True
+B2-446,Käsespezialitäten,"['B2-4', 'B2-44']",True
+B2-447,Parmesan & Reibkäse,"['B2-4', 'B2-44']",True
+B2-448,Schmelzkäse,"['B2-4', 'B2-44']",True
+B2-449,Schnittkäse,"['B2-4', 'B2-44']",True
+B2-45,Milchprodukte,['B2-4'],False
+B2-451,Butter,"['B2-4', 'B2-45']",True
+B2-452,Haltbarmilch & Kondensmilch,"['B2-4', 'B2-45']",True
+B2-453,Joghurt,"['B2-4', 'B2-45']",True
+B2-455,Margarine & Fette,"['B2-4', 'B2-45']",True
+B2-456,Milch,"['B2-4', 'B2-45']",True
+B2-457,Milchgetränke,"['B2-4', 'B2-45']",True
+B2-458,Milchsnacks,"['B2-4', 'B2-45']",True
+B2-459,Pudding & Desserts,"['B2-4', 'B2-45']",True
+B2-45A,"Rahm, Obers & Topfen","['B2-4', 'B2-45']",True
+B2-45B,Sprühsahne & Kaffeeobers,"['B2-4', 'B2-45']",True
+B2-46,Feinkostplatten & Brötchen,['B2-4'],False
+B2-461,Belegte Brötchen,"['B2-4', 'B2-46']",True
+B2-462,Aufschnittplatten,"['B2-4', 'B2-46']",True
+B2-48,"Wurst, Schinken & Speck",['B2-4'],False
+B2-481,Aus der Feinkost,"['B2-4', 'B2-48']",True
+B2-482,Salami,"['B2-4', 'B2-48']",True
+B2-483,"Grammeln, Schmalz & Speck","['B2-4', 'B2-48']",True
+B2-484,Schinken,"['B2-4', 'B2-48']",True
+B2-48A,Cabanossi,"['B2-4', 'B2-48']",True
+B2-485,Wurstspezialitäten,"['B2-4', 'B2-48']",True
+B2-486,Streichwurst & Pasteten,"['B2-4', 'B2-48']",True
+B2-487,Truthahn und Putenwurst,"['B2-4', 'B2-48']",True
+B2-488,Wurst & Stangenwurst,"['B2-4', 'B2-48']",True
+B2-489,Würstel,"['B2-4', 'B2-48']",True
+B2-49,Feinkost,['B2-4'],False
+B2-490,Käse,"['B2-4', 'B2-49']",True
+B2-491,Wurst,"['B2-4', 'B2-49']",True
+B2-492,"Salate, Aufstriche","['B2-4', 'B2-49']",True
+B2-5,Tiefkühl,[],False
+B2-55,Gemüse & Kräuter,['B2-5'],True
+B2-56,Pommes Frites & Co.,['B2-5'],True
+B2-51,Eis,['B2-5'],False
+B2-511,Eisbecher,"['B2-5', 'B2-51']",True
+B2-512,Stanitzel & Lutscher,"['B2-5', 'B2-51']",True
+B2-513,Eiswaffeln,"['B2-5', 'B2-51']",True
+B2-53,Fertiggerichte,['B2-5'],False
+B2-531,Fleisch & Fisch,"['B2-5', 'B2-53']",True
+B2-532,Geflügel,"['B2-5', 'B2-53']",True
+B2-533,Knödel & Beilagen,"['B2-5', 'B2-53']",True
+B2-534,Lasagne,"['B2-5', 'B2-53']",True
+B2-535,Reis & Gemüse,"['B2-5', 'B2-53']",True
+B2-537,"Pasta, Pfannen & Schmankerl","['B2-5', 'B2-53']",True
+B2-54,Fisch & Garnelen,['B2-5'],False
+B2-541,Fisch natur,"['B2-5', 'B2-54']",True
+B2-542,Fisch paniert & gewürzt,"['B2-5', 'B2-54']",True
+B2-543,Garnelen,"['B2-5', 'B2-54']",True
+B2-57,Pizza & Baguette,['B2-5'],False
+B2-571,Baguettes,"['B2-5', 'B2-57']",True
+B2-572,Pizzen,"['B2-5', 'B2-57']",True
+B2-58,Desserts & Früchte,['B2-5'],False
+B2-581,Früchte,"['B2-5', 'B2-58']",True
+B2-582,Süßspeisen,"['B2-5', 'B2-58']",True
+B2-583,Torten,"['B2-5', 'B2-58']",True
+B2-6,Grundnahrungsmittel,[],False
+B2-61,Asia & Mexican Produkte,['B2-6'],False
+B2-611,Asia Produkte,"['B2-6', 'B2-61']",True
+B2-612,India & Mexican Produkte,"['B2-6', 'B2-61']",True
+B2-62,Baby,['B2-6'],False
+B2-621,Babynahrung im Glas,"['B2-6', 'B2-62']",True
+B2-625,Getränke & Tees,"['B2-6', 'B2-62']",True
+B2-623,Kleine Snacks,"['B2-6', 'B2-62']",True
+B2-622,Milchpulver & Milch,"['B2-6', 'B2-62']",True
+B2-624,Milch- & Getreidebreie,"['B2-6', 'B2-62']",True
+B2-63,Backen,['B2-6'],False
+B2-631,"Aromen, Glasuren & Streusel","['B2-6', 'B2-63']",True
+B2-632,Backmischungen & Füllungen,"['B2-6', 'B2-63']",True
+B2-633,Backpulver & Hefe,"['B2-6', 'B2-63']",True
+B2-634,Mehl,"['B2-6', 'B2-63']",True
+B2-635,Eier,"['B2-6', 'B2-63']",True
+B2-636,Nüsse & Kerne,"['B2-6', 'B2-63']",True
+B2-637,Teige,"['B2-6', 'B2-63']",True
+B2-638,Trockenfrüchte,"['B2-6', 'B2-63']",True
+B2-639,Gelierhilfe & -Zucker,"['B2-6', 'B2-63']",True
+B2-63A,Backformen & Zubehör,"['B2-6', 'B2-63']",True
+B2-64,Essig & Öl,['B2-6'],False
+B2-641,Essig,"['B2-6', 'B2-64']",True
+B2-642,Öl,"['B2-6', 'B2-64']",True
+B2-65,Fertiggerichte,['B2-6'],False
+B2-651,Asia,"['B2-6', 'B2-65']",True
+B2-652,Beutelsuppen,"['B2-6', 'B2-65']",True
+B2-653,Suppenwürfel,"['B2-6', 'B2-65']",True
+B2-654,Gekühlte Suppen,"['B2-6', 'B2-65']",True
+B2-655,Dosensuppen,"['B2-6', 'B2-65']",True
+B2-656,Menüs & Dosengerichte,"['B2-6', 'B2-65']",True
+B2-657,Pasta & Risotto,"['B2-6', 'B2-65']",True
+B2-658,Salate,"['B2-6', 'B2-65']",True
+B2-659,Suppeneinlagen,"['B2-6', 'B2-65']",True
+B2-65A,Süßes,"['B2-6', 'B2-65']",True
+B2-65B,Teigwaren & Beilagen,"['B2-6', 'B2-65']",True
+B2-66,Gewürze & Würzmittel,['B2-6'],False
+B2-661,Gewürze,"['B2-6', 'B2-66']",True
+B2-662,Gewürzgläser & -Packungen,"['B2-6', 'B2-66']",True
+B2-663,Gewürzmischungen,"['B2-6', 'B2-66']",True
+B2-664,Gewürzmühlen,"['B2-6', 'B2-66']",True
+B2-665,Salz,"['B2-6', 'B2-66']",True
+B2-67,"Honig, Marmelade & Co.",['B2-6'],False
+B2-671,Honig,"['B2-6', 'B2-67']",True
+B2-672,Marmeladen & Konfitüren,"['B2-6', 'B2-67']",True
+B2-673,Süße Aufstriche,"['B2-6', 'B2-67']",True
+B2-68,Konserven & Sauerwaren,['B2-6'],False
+B2-681,Aufstriche,"['B2-6', 'B2-68']",True
+B2-682,Fischkonserven,"['B2-6', 'B2-68']",True
+B2-683,Hülsenfrüchte,"['B2-6', 'B2-68']",True
+B2-684,Obst & Kompotte,"['B2-6', 'B2-68']",True
+B2-685,Sauerkraut,"['B2-6', 'B2-68']",True
+B2-686,Sauerwaren,"['B2-6', 'B2-68']",True
+B2-687,Tomatenprodukte,"['B2-6', 'B2-68']",True
+B2-69,Kuchen & Co.,['B2-6'],False
+B2-691,Frischer Plunder & Strudel,"['B2-6', 'B2-69']",True
+B2-692,Frischer Kuchen,"['B2-6', 'B2-69']",True
+B2-693,"Kuchen, Strudel & Rouladen","['B2-6', 'B2-69']",True
+B2-694,"Striezel, Brioche & Croissants","['B2-6', 'B2-69']",True
+B2-695,"Golatschen, Muffins & Co.","['B2-6', 'B2-69']",True
+B2-696,Krapfen & Brandteiggebäck,"['B2-6', 'B2-69']",True
+B2-6A,Mehl & Getreideprodukte,['B2-6'],False
+B2-6A1,Brotbackmischungen,"['B2-6', 'B2-6A']",True
+B2-6A2,Getreideprodukte,"['B2-6', 'B2-6A']",True
+B2-6A3,Mehl,"['B2-6', 'B2-6A']",True
+B2-6B,Müsli & Cerealien,['B2-6'],False
+B2-6B1,Cerealien,"['B2-6', 'B2-6B']",True
+B2-6B2,Müsli,"['B2-6', 'B2-6B']",True
+B2-6B3,Müsliriegel,"['B2-6', 'B2-6B']",True
+B2-6C,"Reis, Teigwaren & Sugo",['B2-6'],False
+B2-6C1,Reis,"['B2-6', 'B2-6C']",True
+B2-6C2,Sugo & Pesto,"['B2-6', 'B2-6C']",True
+B2-6C3,Teigwaren,"['B2-6', 'B2-6C']",True
+B2-6C4,Suppeneinlagen,"['B2-6', 'B2-6C']",True
+B2-6D,Saucen & Dressings,['B2-6'],False
+B2-6D1,Dressings,"['B2-6', 'B2-6D']",True
+B2-6D2,Ketchup & Mayonnaise,"['B2-6', 'B2-6D']",True
+B2-6D3,Saucen,"['B2-6', 'B2-6D']",True
+B2-6D4,Senf & Kren,"['B2-6', 'B2-6D']",True
+B2-6E,Spezielle Ernährung,['B2-6'],False
+B2-6E2,Glutenfrei,"['B2-6', 'B2-6E']",True
+B2-6E3,Laktosefrei,"['B2-6', 'B2-6E']",True
+B2-6E4,Reiswaffeln & Vollwert,"['B2-6', 'B2-6E']",True
+B2-6E6,Weight Watchers Produkte,"['B2-6', 'B2-6E']",True
+B2-6E7,Nahrungsergänzung,"['B2-6', 'B2-6E']",True
+B2-6E8,"Soja, Hafer & Reisdrinks","['B2-6', 'B2-6E']",True
+B2-6F,Zucker & Süßstoffe,['B2-6'],False
+B2-6F1,Zucker,"['B2-6', 'B2-6F']",True
+B2-6F2,Süßstoffe,"['B2-6', 'B2-6F']",True
+B2-6F3,Gelierhilfe & -Zucker,"['B2-6', 'B2-6F']",True
+B2-6G,Fixprodukte,['B2-6'],False
+B2-6G1,Basisfixprodukte,"['B2-6', 'B2-6G']",True
+B2-6G2,Teige & Püree,"['B2-6', 'B2-6G']",True
+B2-6G3,Basis für Süßes,"['B2-6', 'B2-6G']",True
+B2-7,Süßes & Salziges,[],False
+B2-71,Biskotten & Eiswaffeln,['B2-7'],True
+B2-73,Müsliriegel,['B2-7'],True
+B2-74,Chips & Co.,['B2-7'],False
+B2-741,Chips,"['B2-7', 'B2-74']",True
+B2-742,Knabbereien,"['B2-7', 'B2-74']",True
+B2-743,Nüsse,"['B2-7', 'B2-74']",True
+B2-744,Nachos & Dips,"['B2-7', 'B2-74']",True
+B2-745,Snacks,"['B2-7', 'B2-74']",True
+B2-75,Süßes,['B2-7'],False
+B2-751,Feingebäck & Kekse,"['B2-7', 'B2-75']",True
+B2-752,Schokoriegel,"['B2-7', 'B2-75']",True
+B2-753,Schokoladentafeln,"['B2-7', 'B2-75']",True
+B2-754,Schnitten & Waffeln,"['B2-7', 'B2-75']",True
+B2-755,Kaugummi,"['B2-7', 'B2-75']",True
+B2-756,Fruchtgummi,"['B2-7', 'B2-75']",True
+B2-757,Zuckerl & Bonbons,"['B2-7', 'B2-75']",True
+B2-758,Süße Spezialitäten,"['B2-7', 'B2-75']",True
+B2-759,Bonbonniere & Spezialitäten,"['B2-7', 'B2-75']",True
+B2-75A,Eiswaffeln & Biskotten,"['B2-7', 'B2-75']",True
+B2-8,Pflege,[],False
+B2-83,Deodorants,['B2-8'],True
+B2-85,Pflaster & Verbandsmaterial,['B2-8'],True
+B2-8B,Verhütungsmittel,['B2-8'],True
+B2-8C,Fußpflege,['B2-8'],True
+B2-8D,Strumpfhosen & Socken,['B2-8'],True
+B2-81,Baby,['B2-8'],False
+B2-811,Babypflege,"['B2-8', 'B2-81']",True
+B2-812,Feuchttücher,"['B2-8', 'B2-81']",True
+B2-813,Windeln,"['B2-8', 'B2-81']",True
+B2-82,Damenhygiene,['B2-8'],False
+B2-821,Slipeinlagen,"['B2-8', 'B2-82']",True
+B2-822,Binden,"['B2-8', 'B2-82']",True
+B2-823,Tampons,"['B2-8', 'B2-82']",True
+B2-84,Haarpflege & Haarfarben,['B2-8'],False
+B2-841,Shampoo & Balsam,"['B2-8', 'B2-84']",True
+B2-842,Haarspray & Gel,"['B2-8', 'B2-84']",True
+B2-843,Haarfarben,"['B2-8', 'B2-84']",True
+B2-86,Haut- & Lippenpflege,['B2-8'],False
+B2-861,Lippenpflege,"['B2-8', 'B2-86']",True
+B2-862,Gesichtspflege,"['B2-8', 'B2-86']",True
+B2-863,Hand- & Gesichtscremen,"['B2-8', 'B2-86']",True
+B2-864,Bodylotion,"['B2-8', 'B2-86']",True
+B2-865,Nagelpflege & Zubehör,"['B2-8', 'B2-86']",True
+B2-87,Mund- & Zahnhygiene,['B2-8'],False
+B2-871,Zahnbürsten & Aufsätze,"['B2-8', 'B2-87']",True
+B2-872,Zahnpasten,"['B2-8', 'B2-87']",True
+B2-873,Mundwasser & Kukident,"['B2-8', 'B2-87']",True
+B2-874,Zahnseide & Zahnstocher,"['B2-8', 'B2-87']",True
+B2-88,Rasierbedarf,['B2-8'],False
+B2-881,Rasierer & Klingen,"['B2-8', 'B2-88']",True
+B2-882,Enthaarungsmittel,"['B2-8', 'B2-88']",True
+B2-883,Rasierschaum & -Gel,"['B2-8', 'B2-88']",True
+B2-884,After Shave,"['B2-8', 'B2-88']",True
+B2-89,Seife & Duschbäder,['B2-8'],False
+B2-891,Duschgel,"['B2-8', 'B2-89']",True
+B2-892,Duschbäder & Badezusätze,"['B2-8', 'B2-89']",True
+B2-893,Seifen,"['B2-8', 'B2-89']",True
+B2-8A,Sonnen- & Gelsenschutzmittel,['B2-8'],False
+B2-8A1,Sonnenschutzmittel,"['B2-8', 'B2-8A']",True
+B2-8A2,Apres Lotion & Selbstbräuner,"['B2-8', 'B2-8A']",True
+B2-8A3,Gelsenschutzmittel,"['B2-8', 'B2-8A']",True
+B2-9,Haushalt,[],False
+B2-91,Büro- & Schulartikel,['B2-9'],True
+B2-97,"Müllsäcke, Gefrierbeutel & Co.",['B2-9'],True
+B2-9C,Schuhpflege,['B2-9'],True
+B2-9E,Insektenschutz,['B2-9'],True
+B2-9F,Spielwaren,['B2-9'],True
+B2-9G,Hygiene-Schutzartikel,['B2-9'],True
+B2-92,Garten,['B2-9'],False
+B2-922,Pflanzenpflege,"['B2-9', 'B2-92']",True
+B2-925,Blumenerde,"['B2-9', 'B2-92']",True
+B2-93,Kleben & Befestigen,['B2-9'],False
+B2-931,Klebstoffe,"['B2-9', 'B2-93']",True
+B2-932,Tesafilm & Klebebänder,"['B2-9', 'B2-93']",True
+B2-94,Küchenartikel,['B2-9'],False
+B2-942,Gläser & Besteck,"['B2-9', 'B2-94']",True
+B2-943,Küchenhilfen,"['B2-9', 'B2-94']",True
+B2-949,Partyartikel,"['B2-9', 'B2-94']",True
+B2-94A,Filter & Entkalker,"['B2-9', 'B2-94']",True
+B2-95,Küchenrollen & WC-Papier,['B2-9'],False
+B2-951,WC-Papier,"['B2-9', 'B2-95']",True
+B2-952,Feuchtes WC-Papier,"['B2-9', 'B2-95']",True
+B2-953,Küchenrollen,"['B2-9', 'B2-95']",True
+B2-96,Lampen & Batterien,['B2-9'],False
+B2-962,Batterien,"['B2-9', 'B2-96']",True
+B2-98,Raumsprays & Kerzen,['B2-9'],False
+B2-981,Raumsprays & Lufterfrischer,"['B2-9', 'B2-98']",True
+B2-982,Duftkerzen & Kerzen,"['B2-9', 'B2-98']",True
+B2-983,Grablichter,"['B2-9', 'B2-98']",True
+B2-99,Reinigen & Pflegen,['B2-9'],False
+B2-991,Geschirrspülmittel,"['B2-9', 'B2-99']",True
+B2-992,Diverse Haushaltsreiniger,"['B2-9', 'B2-99']",True
+B2-993,WC- & Badreiniger,"['B2-9', 'B2-99']",True
+B2-994,Reinigungsgeräte & Tücher,"['B2-9', 'B2-99']",True
+B2-9A,Taschentücher & Servietten,['B2-9'],False
+B2-9A1,Taschentücher,"['B2-9', 'B2-9A']",True
+B2-9A2,Servietten,"['B2-9', 'B2-9A']",True
+B2-9B,Waschmittel & Weichspüler,['B2-9'],False
+B2-9B1,Waschmittel,"['B2-9', 'B2-9B']",True
+B2-9B2,Weichspüler,"['B2-9', 'B2-9B']",True
+B2-9B3,Flecken- & Vorwaschmittel,"['B2-9', 'B2-9B']",True
+B2-9B4,Pflege,"['B2-9', 'B2-9B']",True
+B2-A,Haustier,[],False
+B2-A3,Nager,['B2-A'],True
+B2-A4,Vögel,['B2-A'],True
+B2-A1,Hunde,['B2-A'],False
+B2-A11,Nassfutter,"['B2-A', 'B2-A1']",True
+B2-A12,Trockenfutter,"['B2-A', 'B2-A1']",True
+B2-A13,Hunde Snacks,"['B2-A', 'B2-A1']",True
+B2-A2,Katzen,['B2-A'],False
+B2-A21,Nassfutter,"['B2-A', 'B2-A2']",True
+B2-A22,Trockenfutter,"['B2-A', 'B2-A2']",True
+B2-A23,Katzenstreu,"['B2-A', 'B2-A2']",True
+B2-A24,Katzen Snacks,"['B2-A', 'B2-A2']",True
+B2-A25,Katzenzubehör,"['B2-A', 'B2-A2']",True
+B2-E,Geschenkideen,[],False
+B2-E2,Geschenksideen,['B2-E'],False
+B2-E20,Sekt & Champagner,"['B2-E', 'B2-E2']",True
+B2-E21,Bonbonniere,"['B2-E', 'B2-E2']",True
+B2-E24,Spirituosen,"['B2-E', 'B2-E2']",True
