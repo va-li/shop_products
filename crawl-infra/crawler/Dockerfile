@@ -14,4 +14,4 @@ COPY . .
 
 RUN mkdir -p ./downloads/billa
 
-CMD scrapy crawl billa_products -O ./downloads/billa/$(date +"%Y%m%d_%H%M%S")_products.jl
+CMD scrapy crawl billa_product_details -O ./downloads/billa/$(date +"%Y%m%d_%H%M%S")_metadata_products.jl

@@ -9,15 +9,14 @@ class BillaProductDetailsSpider(scrapy.Spider):
         yield scrapy.Request('http://checkip.dyndns.org/', callback=self.log_ip)
         
         product_groups = None
-        with open('./resources/billa_product_groups_flat.json', 'r') as file:
+        with open('./resources/smallest_product_groups.json', 'r') as file:
             product_groups = json.load(file)
         
-        for g_name, g in product_groups.items():
-            if g['is_leaf']:
-                yield scrapy.Request(
-                    url=f'https://shop.billa.at/api/search/full?category={g["id"]}',
-                    callback=self.parse_search_result,
-                    meta={ 'product_group': g, 'page': 1 })
+        for g_id in product_groups:
+            yield scrapy.Request(
+                url=f'https://shop.billa.at/api/search/full?category={g_id}',
+                callback=self.parse_search_result,
+                meta={ 'product_group_id': g_id, 'page': 1 })
         
         ''' small set of prods for testing
         yield scrapy.Request(
@@ -32,7 +31,7 @@ class BillaProductDetailsSpider(scrapy.Spider):
         
     
     def parse_search_result(self, response):
-        product_group = response.meta['product_group']
+        product_group_id = response.meta['product_group_id']
         page = response.meta['page']
         
         json_response = json.loads(response.text)
@@ -40,22 +39,27 @@ class BillaProductDetailsSpider(scrapy.Spider):
         if not json_response['pagingInfo']['isLastPage']:
             next_page = page + 1
             yield scrapy.Request(
-                    url=f'https://shop.billa.at/api/search/full?category={product_group["id"]}?page={next_page}',
+                    url=f'https://shop.billa.at/api/search/full?category={product_group_id}&page={next_page}',
                     callback=self.parse_search_result,
-                    meta={ 'product_group': product_group, 'page': next_page })
+                    meta={ 'product_group_id': product_group_id, 'page': next_page })
         
-        for obj in json_response['tiles']: 
+        for obj in json_response['tiles']:
             try:
+                if obj['type'] != 'product':
+                    continue
+                
                 articleId = obj['data']['articleId']
+                
                 yield scrapy.Request(
                     url=f'https://shop.billa.at/api/articles/{articleId}',
                     callback=self.parse_product,
-                    meta={ 'product_group': product_group })
+                    meta={ 'product_group_id': product_group_id })
+                
             except KeyError as e:
-                self.logger.info(f'While searching articles in product group "{response.meta["product_group"]["id"]}", failed to parse article ids: {e}')
+                self.logger.info(f'While searching articles in product group "{response.meta["product_group_id"]}", failed to parse article ids: KeyError {e}')
                 continue
     
     def parse_product(self, response):
         json_response = json.loads(response.text)
-        json_response['productGroup'] = response.meta['product_group']
+        json_response['product_group_id'] = response.meta['product_group_id']
         yield json_response
