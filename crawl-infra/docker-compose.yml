@@ -7,7 +7,7 @@ services:
     depends_on:
       - openvpn-client
     volumes:
-      - crawler_downloads:/usr/src/crawler/downloads
+      - /home/vbauer/Mega/Projects/shop_products/crawler_downloads:/usr/src/crawler/downloads
 
   openvpn-client:
     image: ghcr.io/wfg/openvpn-client
@@ -21,6 +21,3 @@ services:
     volumes:
       - /home/vbauer/Mega/Projects/shop_products/crawl-infra/vpn:/data/vpn
     restart: unless-stopped
-
-volumes:
-  crawler_downloads:
