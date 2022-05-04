@@ -1,0 +1,4037 @@
+{
+    "Obst & Gemüse": {
+      "name": "Obst & Gemüse",
+      "fullPath": [
+        "Obst & Gemüse"
+      ],
+      "url": "https://shop.billa.at/warengruppe/obst-und-gemuese/B2-1",
+      "id": "B2-1",
+      "subGroups": {
+        "Trockenfrüchte & Nüsse": {
+          "name": "Trockenfrüchte & Nüsse",
+          "fullPath": [
+            "Obst & Gemüse",
+            "Trockenfrüchte & Nüsse"
+          ],
+          "url": "https://shop.billa.at/warengruppe/obst-und-gemuese/trockenfruechte-und-nuesse/B2-14",
+          "id": "B2-14",
+          "subGroups": null
+        },
+        "Obst": {
+          "name": "Obst",
+          "fullPath": [
+            "Obst & Gemüse",
+            "Obst"
+          ],
+          "url": "https://shop.billa.at/warengruppe/obst-und-gemuese/obst/B2-11",
+          "id": "B2-11",
+          "subGroups": {
+            "Äpfel, Birnen & Trauben": {
+              "name": "Äpfel, Birnen & Trauben",
+              "fullPath": [
+                "Obst & Gemüse",
+                "Obst",
+                "Äpfel, Birnen & Trauben"
+              ],
+              "url": "https://shop.billa.at/warengruppe/obst-und-gemuese/obst/aepfel-birnen-und-trauben/B2-111",
+              "id": "B2-111",
+              "subGroups": null
+            },
+            "Exotisches Obst": {
+              "name": "Exotisches Obst",
+              "fullPath": [
+                "Obst & Gemüse",
+                "Obst",
+                "Exotisches Obst"
+              ],
+              "url": "https://shop.billa.at/warengruppe/obst-und-gemuese/obst/exotisches-obst/B2-112",
+              "id": "B2-112",
+              "subGroups": null
+            },
+            "Steinobst & Beeren": {
+              "name": "Steinobst & Beeren",
+              "fullPath": [
+                "Obst & Gemüse",
+                "Obst",
+                "Steinobst & Beeren"
+              ],
+              "url": "https://shop.billa.at/warengruppe/obst-und-gemuese/obst/steinobst-und-beeren/B2-113",
+              "id": "B2-113",
+              "subGroups": null
+            },
+            "Zitrusfrüchte": {
+              "name": "Zitrusfrüchte",
+              "fullPath": [
+                "Obst & Gemüse",
+                "Obst",
+                "Zitrusfrüchte"
+              ],
+              "url": "https://shop.billa.at/warengruppe/obst-und-gemuese/obst/zitrusfruechte/B2-114",
+              "id": "B2-114",
+              "subGroups": null
+            }
+          }
+        },
+        "Gemüse": {
+          "name": "Gemüse",
+          "fullPath": [
+            "Obst & Gemüse",
+            "Gemüse"
+          ],
+          "url": "https://shop.billa.at/warengruppe/obst-und-gemuese/gemuese/B2-12",
+          "id": "B2-12",
+          "subGroups": {
+            "Gartengemüse": {
+              "name": "Gartengemüse",
+              "fullPath": [
+                "Obst & Gemüse",
+                "Gemüse",
+                "Gartengemüse"
+              ],
+              "url": "https://shop.billa.at/warengruppe/obst-und-gemuese/gemuese/gartengemuese/B2-121",
+              "id": "B2-121",
+              "subGroups": null
+            },
+            "Zwiebel und Kartoffeln": {
+              "name": "Zwiebel und Kartoffeln",
+              "fullPath": [
+                "Obst & Gemüse",
+                "Gemüse",
+                "Zwiebel und Kartoffeln"
+              ],
+              "url": "https://shop.billa.at/warengruppe/obst-und-gemuese/gemuese/zwiebel-und-kartoffeln/B2-122",
+              "id": "B2-122",
+              "subGroups": null
+            },
+            "Kräuter": {
+              "name": "Kräuter",
+              "fullPath": [
+                "Obst & Gemüse",
+                "Gemüse",
+                "Kräuter"
+              ],
+              "url": "https://shop.billa.at/warengruppe/obst-und-gemuese/gemuese/kraeuter/B2-123",
+              "id": "B2-123",
+              "subGroups": null
+            }
+          }
+        },
+        "Salate": {
+          "name": "Salate",
+          "fullPath": [
+            "Obst & Gemüse",
+            "Salate"
+          ],
+          "url": "https://shop.billa.at/warengruppe/obst-und-gemuese/salate3/B2-13",
+          "id": "B2-13",
+          "subGroups": {
+            "Salate": {
+              "name": "Salate",
+              "fullPath": [
+                "Obst & Gemüse",
+                "Salate",
+                "Salate"
+              ],
+              "url": "https://shop.billa.at/warengruppe/obst-und-gemuese/salate3/salate2/B2-131",
+              "id": "B2-131",
+              "subGroups": null
+            },
+            "Salate verpackt": {
+              "name": "Salate verpackt",
+              "fullPath": [
+                "Obst & Gemüse",
+                "Salate",
+                "Salate verpackt"
+              ],
+              "url": "https://shop.billa.at/warengruppe/obst-und-gemuese/salate3/salate-verpackt/B2-132",
+              "id": "B2-132",
+              "subGroups": null
+            }
+          }
+        }
+      }
+    },
+    "Brot & Gebäck": {
+      "name": "Brot & Gebäck",
+      "fullPath": [
+        "Brot & Gebäck"
+      ],
+      "url": "https://shop.billa.at/warengruppe/brot-und-gebaeck/B2-2",
+      "id": "B2-2",
+      "subGroups": {
+        "Knäckebrot & Zwieback": {
+          "name": "Knäckebrot & Zwieback",
+          "fullPath": [
+            "Brot & Gebäck",
+            "Knäckebrot & Zwieback"
+          ],
+          "url": "https://shop.billa.at/warengruppe/brot-und-gebaeck/knaeckebrot-und-zwieback/B2-23",
+          "id": "B2-23",
+          "subGroups": null
+        },
+        "Semmelwürfel & Brösel": {
+          "name": "Semmelwürfel & Brösel",
+          "fullPath": [
+            "Brot & Gebäck",
+            "Semmelwürfel & Brösel"
+          ],
+          "url": "https://shop.billa.at/warengruppe/brot-und-gebaeck/semmelwuerfel-und-broesel/B2-25",
+          "id": "B2-25",
+          "subGroups": null
+        },
+        "Aufbackbrötchen & Toast": {
+          "name": "Aufbackbrötchen & Toast",
+          "fullPath": [
+            "Brot & Gebäck",
+            "Aufbackbrötchen & Toast"
+          ],
+          "url": "https://shop.billa.at/warengruppe/brot-und-gebaeck/aufbackbroetchen-und-toast/B2-21",
+          "id": "B2-21",
+          "subGroups": {
+            "Aufbackbrötchen & -baguettes": {
+              "name": "Aufbackbrötchen & -baguettes",
+              "fullPath": [
+                "Brot & Gebäck",
+                "Aufbackbrötchen & Toast",
+                "Aufbackbrötchen & -baguettes"
+              ],
+              "url": "https://shop.billa.at/warengruppe/brot-und-gebaeck/aufbackbroetchen-und-toast/aufbackbroetchen-und--baguettes/B2-211",
+              "id": "B2-211",
+              "subGroups": null
+            },
+            "Toastbrot": {
+              "name": "Toastbrot",
+              "fullPath": [
+                "Brot & Gebäck",
+                "Aufbackbrötchen & Toast",
+                "Toastbrot"
+              ],
+              "url": "https://shop.billa.at/warengruppe/brot-und-gebaeck/aufbackbroetchen-und-toast/toastbrot/B2-212",
+              "id": "B2-212",
+              "subGroups": null
+            }
+          }
+        },
+        "Brot & Gebäck": {
+          "name": "Brot & Gebäck",
+          "fullPath": [
+            "Brot & Gebäck",
+            "Brot & Gebäck"
+          ],
+          "url": "https://shop.billa.at/warengruppe/brot-und-gebaeck/brot-und-gebaeck/B2-22",
+          "id": "B2-22",
+          "subGroups": {
+            "Brot verpackt": {
+              "name": "Brot verpackt",
+              "fullPath": [
+                "Brot & Gebäck",
+                "Brot & Gebäck",
+                "Brot verpackt"
+              ],
+              "url": "https://shop.billa.at/warengruppe/brot-und-gebaeck/brot-und-gebaeck/brot-verpackt/B2-221",
+              "id": "B2-221",
+              "subGroups": null
+            },
+            "Ofenfrisches Brot": {
+              "name": "Ofenfrisches Brot",
+              "fullPath": [
+                "Brot & Gebäck",
+                "Brot & Gebäck",
+                "Ofenfrisches Brot"
+              ],
+              "url": "https://shop.billa.at/warengruppe/brot-und-gebaeck/brot-und-gebaeck/ofenfrisches-brot/B2-222",
+              "id": "B2-222",
+              "subGroups": null
+            },
+            "Ofenfrisches Gebäck": {
+              "name": "Ofenfrisches Gebäck",
+              "fullPath": [
+                "Brot & Gebäck",
+                "Brot & Gebäck",
+                "Ofenfrisches Gebäck"
+              ],
+              "url": "https://shop.billa.at/warengruppe/brot-und-gebaeck/brot-und-gebaeck/ofenfrisches-gebaeck/B2-223",
+              "id": "B2-223",
+              "subGroups": null
+            }
+          }
+        },
+        "Kuchen & Co.": {
+          "name": "Kuchen & Co.",
+          "fullPath": [
+            "Brot & Gebäck",
+            "Kuchen & Co."
+          ],
+          "url": "https://shop.billa.at/warengruppe/brot-und-gebaeck/kuchen-und-co2/B2-24",
+          "id": "B2-24",
+          "subGroups": {
+            "Frischer Plunder & Strudel": {
+              "name": "Frischer Plunder & Strudel",
+              "fullPath": [
+                "Brot & Gebäck",
+                "Kuchen & Co.",
+                "Frischer Plunder & Strudel"
+              ],
+              "url": "https://shop.billa.at/warengruppe/brot-und-gebaeck/kuchen-und-co2/frischer-plunder-und-strudel2/B2-241",
+              "id": "B2-241",
+              "subGroups": null
+            },
+            "Frischer Kuchen": {
+              "name": "Frischer Kuchen",
+              "fullPath": [
+                "Brot & Gebäck",
+                "Kuchen & Co.",
+                "Frischer Kuchen"
+              ],
+              "url": "https://shop.billa.at/warengruppe/brot-und-gebaeck/kuchen-und-co2/frischer-kuchen/B2-242",
+              "id": "B2-242",
+              "subGroups": null
+            },
+            "Kuchen, Strudel & Rouladen": {
+              "name": "Kuchen, Strudel & Rouladen",
+              "fullPath": [
+                "Brot & Gebäck",
+                "Kuchen & Co.",
+                "Kuchen, Strudel & Rouladen"
+              ],
+              "url": "https://shop.billa.at/warengruppe/brot-und-gebaeck/kuchen-und-co2/kuchen-strudel-und-rouladen/B2-243",
+              "id": "B2-243",
+              "subGroups": null
+            },
+            "Striezel, Brioche & Croissants": {
+              "name": "Striezel, Brioche & Croissants",
+              "fullPath": [
+                "Brot & Gebäck",
+                "Kuchen & Co.",
+                "Striezel, Brioche & Croissants"
+              ],
+              "url": "https://shop.billa.at/warengruppe/brot-und-gebaeck/kuchen-und-co2/striezel-brioche-und-croissants/B2-244",
+              "id": "B2-244",
+              "subGroups": null
+            },
+            "Golatschen, Muffins & Co.": {
+              "name": "Golatschen, Muffins & Co.",
+              "fullPath": [
+                "Brot & Gebäck",
+                "Kuchen & Co.",
+                "Golatschen, Muffins & Co."
+              ],
+              "url": "https://shop.billa.at/warengruppe/brot-und-gebaeck/kuchen-und-co2/golatschen-muffins-und-co/B2-245",
+              "id": "B2-245",
+              "subGroups": null
+            },
+            "Krapfen & Brandteiggebäck": {
+              "name": "Krapfen & Brandteiggebäck",
+              "fullPath": [
+                "Brot & Gebäck",
+                "Kuchen & Co.",
+                "Krapfen & Brandteiggebäck"
+              ],
+              "url": "https://shop.billa.at/warengruppe/brot-und-gebaeck/kuchen-und-co2/krapfen-und-brandteiggebaeck/B2-246",
+              "id": "B2-246",
+              "subGroups": null
+            },
+            "Torten": {
+              "name": "Torten",
+              "fullPath": [
+                "Brot & Gebäck",
+                "Kuchen & Co.",
+                "Torten"
+              ],
+              "url": "https://shop.billa.at/warengruppe/brot-und-gebaeck/kuchen-und-co2/torten/B2-247",
+              "id": "B2-247",
+              "subGroups": null
+            }
+          }
+        }
+      }
+    },
+    "Getränke": {
+      "name": "Getränke",
+      "fullPath": [
+        "Getränke"
+      ],
+      "url": "https://shop.billa.at/warengruppe/getraenke/B2-3",
+      "id": "B2-3",
+      "subGroups": {
+        "Alkoholfreie Getränke": {
+          "name": "Alkoholfreie Getränke",
+          "fullPath": [
+            "Getränke",
+            "Alkoholfreie Getränke"
+          ],
+          "url": "https://shop.billa.at/warengruppe/getraenke/alkoholfreie-getraenke/B2-31",
+          "id": "B2-31",
+          "subGroups": {
+            "Eiskaffee": {
+              "name": "Eiskaffee",
+              "fullPath": [
+                "Getränke",
+                "Alkoholfreie Getränke",
+                "Eiskaffee"
+              ],
+              "url": "https://shop.billa.at/warengruppe/getraenke/alkoholfreie-getraenke/eiskaffee/B2-311",
+              "id": "B2-311",
+              "subGroups": null
+            },
+            "Eistee": {
+              "name": "Eistee",
+              "fullPath": [
+                "Getränke",
+                "Alkoholfreie Getränke",
+                "Eistee"
+              ],
+              "url": "https://shop.billa.at/warengruppe/getraenke/alkoholfreie-getraenke/eistee/B2-312",
+              "id": "B2-312",
+              "subGroups": null
+            },
+            "Energydrinks": {
+              "name": "Energydrinks",
+              "fullPath": [
+                "Getränke",
+                "Alkoholfreie Getränke",
+                "Energydrinks"
+              ],
+              "url": "https://shop.billa.at/warengruppe/getraenke/alkoholfreie-getraenke/energydrinks/B2-313",
+              "id": "B2-313",
+              "subGroups": null
+            },
+            "Frucht- & Gemüsesäfte": {
+              "name": "Frucht- & Gemüsesäfte",
+              "fullPath": [
+                "Getränke",
+                "Alkoholfreie Getränke",
+                "Frucht- & Gemüsesäfte"
+              ],
+              "url": "https://shop.billa.at/warengruppe/getraenke/alkoholfreie-getraenke/frucht--und-gemuesesaefte/B2-314",
+              "id": "B2-314",
+              "subGroups": null
+            },
+            "Kindergetränke": {
+              "name": "Kindergetränke",
+              "fullPath": [
+                "Getränke",
+                "Alkoholfreie Getränke",
+                "Kindergetränke"
+              ],
+              "url": "https://shop.billa.at/warengruppe/getraenke/alkoholfreie-getraenke/kindergetraenke/B2-315",
+              "id": "B2-315",
+              "subGroups": null
+            },
+            "Limonaden": {
+              "name": "Limonaden",
+              "fullPath": [
+                "Getränke",
+                "Alkoholfreie Getränke",
+                "Limonaden"
+              ],
+              "url": "https://shop.billa.at/warengruppe/getraenke/alkoholfreie-getraenke/limonaden/B2-316",
+              "id": "B2-316",
+              "subGroups": null
+            },
+            "Mineralwasser": {
+              "name": "Mineralwasser",
+              "fullPath": [
+                "Getränke",
+                "Alkoholfreie Getränke",
+                "Mineralwasser"
+              ],
+              "url": "https://shop.billa.at/warengruppe/getraenke/alkoholfreie-getraenke/mineralwasser2/B2-317",
+              "id": "B2-317",
+              "subGroups": null
+            },
+            "Mineralwasser mit Geschmack": {
+              "name": "Mineralwasser mit Geschmack",
+              "fullPath": [
+                "Getränke",
+                "Alkoholfreie Getränke",
+                "Mineralwasser mit Geschmack"
+              ],
+              "url": "https://shop.billa.at/warengruppe/getraenke/alkoholfreie-getraenke/mineralwasser-mit-geschmack/B2-318",
+              "id": "B2-318",
+              "subGroups": null
+            },
+            "Sirupe": {
+              "name": "Sirupe",
+              "fullPath": [
+                "Getränke",
+                "Alkoholfreie Getränke",
+                "Sirupe"
+              ],
+              "url": "https://shop.billa.at/warengruppe/getraenke/alkoholfreie-getraenke/sirupe/B2-319",
+              "id": "B2-319",
+              "subGroups": null
+            },
+            "Smoothies & Fresh Juice": {
+              "name": "Smoothies & Fresh Juice",
+              "fullPath": [
+                "Getränke",
+                "Alkoholfreie Getränke",
+                "Smoothies & Fresh Juice"
+              ],
+              "url": "https://shop.billa.at/warengruppe/getraenke/alkoholfreie-getraenke/smoothies-und-fresh-juice/B2-31A",
+              "id": "B2-31A",
+              "subGroups": null
+            }
+          }
+        },
+        "Bier & Radler": {
+          "name": "Bier & Radler",
+          "fullPath": [
+            "Getränke",
+            "Bier & Radler"
+          ],
+          "url": "https://shop.billa.at/warengruppe/getraenke/bier-und-radler/B2-32",
+          "id": "B2-32",
+          "subGroups": {
+            "Alkoholfreies Bier": {
+              "name": "Alkoholfreies Bier",
+              "fullPath": [
+                "Getränke",
+                "Bier & Radler",
+                "Alkoholfreies Bier"
+              ],
+              "url": "https://shop.billa.at/warengruppe/getraenke/bier-und-radler/alkoholfreies-bier/B2-321",
+              "id": "B2-321",
+              "subGroups": null
+            },
+            "Dosenbier": {
+              "name": "Dosenbier",
+              "fullPath": [
+                "Getränke",
+                "Bier & Radler",
+                "Dosenbier"
+              ],
+              "url": "https://shop.billa.at/warengruppe/getraenke/bier-und-radler/dosenbier/B2-322",
+              "id": "B2-322",
+              "subGroups": null
+            },
+            "Flaschenbier": {
+              "name": "Flaschenbier",
+              "fullPath": [
+                "Getränke",
+                "Bier & Radler",
+                "Flaschenbier"
+              ],
+              "url": "https://shop.billa.at/warengruppe/getraenke/bier-und-radler/flaschenbier/B2-323",
+              "id": "B2-323",
+              "subGroups": null
+            },
+            "Radler": {
+              "name": "Radler",
+              "fullPath": [
+                "Getränke",
+                "Bier & Radler",
+                "Radler"
+              ],
+              "url": "https://shop.billa.at/warengruppe/getraenke/bier-und-radler/radler/B2-324",
+              "id": "B2-324",
+              "subGroups": null
+            }
+          }
+        },
+        "Kaffee, Tee & Co.": {
+          "name": "Kaffee, Tee & Co.",
+          "fullPath": [
+            "Getränke",
+            "Kaffee, Tee & Co."
+          ],
+          "url": "https://shop.billa.at/warengruppe/getraenke/kaffee-tee-und-co/B2-33",
+          "id": "B2-33",
+          "subGroups": {
+            "Kaffee": {
+              "name": "Kaffee",
+              "fullPath": [
+                "Getränke",
+                "Kaffee, Tee & Co.",
+                "Kaffee"
+              ],
+              "url": "https://shop.billa.at/warengruppe/getraenke/kaffee-tee-und-co/kaffee/B2-331",
+              "id": "B2-331",
+              "subGroups": null
+            },
+            "Kakao": {
+              "name": "Kakao",
+              "fullPath": [
+                "Getränke",
+                "Kaffee, Tee & Co.",
+                "Kakao"
+              ],
+              "url": "https://shop.billa.at/warengruppe/getraenke/kaffee-tee-und-co/kakao/B2-332",
+              "id": "B2-332",
+              "subGroups": null
+            },
+            "Tee": {
+              "name": "Tee",
+              "fullPath": [
+                "Getränke",
+                "Kaffee, Tee & Co.",
+                "Tee"
+              ],
+              "url": "https://shop.billa.at/warengruppe/getraenke/kaffee-tee-und-co/tee/B2-333",
+              "id": "B2-333",
+              "subGroups": null
+            }
+          }
+        },
+        "Sekt & Champagner": {
+          "name": "Sekt & Champagner",
+          "fullPath": [
+            "Getränke",
+            "Sekt & Champagner"
+          ],
+          "url": "https://shop.billa.at/warengruppe/getraenke/sekt-und-champagner/B2-34",
+          "id": "B2-34",
+          "subGroups": {
+            "Champagner": {
+              "name": "Champagner",
+              "fullPath": [
+                "Getränke",
+                "Sekt & Champagner",
+                "Champagner"
+              ],
+              "url": "https://shop.billa.at/warengruppe/getraenke/sekt-und-champagner/champagner/B2-341",
+              "id": "B2-341",
+              "subGroups": null
+            },
+            "Prosecco & Frizzante": {
+              "name": "Prosecco & Frizzante",
+              "fullPath": [
+                "Getränke",
+                "Sekt & Champagner",
+                "Prosecco & Frizzante"
+              ],
+              "url": "https://shop.billa.at/warengruppe/getraenke/sekt-und-champagner/prosecco-und-frizzante/B2-342",
+              "id": "B2-342",
+              "subGroups": null
+            },
+            "Sekt": {
+              "name": "Sekt",
+              "fullPath": [
+                "Getränke",
+                "Sekt & Champagner",
+                "Sekt"
+              ],
+              "url": "https://shop.billa.at/warengruppe/getraenke/sekt-und-champagner/sekt/B2-343",
+              "id": "B2-343",
+              "subGroups": null
+            },
+            "Cider": {
+              "name": "Cider",
+              "fullPath": [
+                "Getränke",
+                "Sekt & Champagner",
+                "Cider"
+              ],
+              "url": "https://shop.billa.at/warengruppe/getraenke/sekt-und-champagner/cider/B2-344",
+              "id": "B2-344",
+              "subGroups": null
+            }
+          }
+        },
+        "Spirituosen": {
+          "name": "Spirituosen",
+          "fullPath": [
+            "Getränke",
+            "Spirituosen"
+          ],
+          "url": "https://shop.billa.at/warengruppe/getraenke/spirituosen2/B2-35",
+          "id": "B2-35",
+          "subGroups": {
+            "Schnaps & Likör": {
+              "name": "Schnaps & Likör",
+              "fullPath": [
+                "Getränke",
+                "Spirituosen",
+                "Schnaps & Likör"
+              ],
+              "url": "https://shop.billa.at/warengruppe/getraenke/spirituosen2/schnaps-und-likoer/B2-351",
+              "id": "B2-351",
+              "subGroups": null
+            },
+            "Gin": {
+              "name": "Gin",
+              "fullPath": [
+                "Getränke",
+                "Spirituosen",
+                "Gin"
+              ],
+              "url": "https://shop.billa.at/warengruppe/getraenke/spirituosen2/gin/B2-352",
+              "id": "B2-352",
+              "subGroups": null
+            },
+            "Aperitif & Digestif": {
+              "name": "Aperitif & Digestif",
+              "fullPath": [
+                "Getränke",
+                "Spirituosen",
+                "Aperitif & Digestif"
+              ],
+              "url": "https://shop.billa.at/warengruppe/getraenke/spirituosen2/aperitif-und-digestif/B2-353",
+              "id": "B2-353",
+              "subGroups": null
+            },
+            "Cognac & Whiskey": {
+              "name": "Cognac & Whiskey",
+              "fullPath": [
+                "Getränke",
+                "Spirituosen",
+                "Cognac & Whiskey"
+              ],
+              "url": "https://shop.billa.at/warengruppe/getraenke/spirituosen2/cognac-und-whiskey/B2-354",
+              "id": "B2-354",
+              "subGroups": null
+            },
+            "Vodka": {
+              "name": "Vodka",
+              "fullPath": [
+                "Getränke",
+                "Spirituosen",
+                "Vodka"
+              ],
+              "url": "https://shop.billa.at/warengruppe/getraenke/spirituosen2/vodka/B2-355",
+              "id": "B2-355",
+              "subGroups": null
+            },
+            "Rum": {
+              "name": "Rum",
+              "fullPath": [
+                "Getränke",
+                "Spirituosen",
+                "Rum"
+              ],
+              "url": "https://shop.billa.at/warengruppe/getraenke/spirituosen2/rum/B2-356",
+              "id": "B2-356",
+              "subGroups": null
+            },
+            "Alkopops": {
+              "name": "Alkopops",
+              "fullPath": [
+                "Getränke",
+                "Spirituosen",
+                "Alkopops"
+              ],
+              "url": "https://shop.billa.at/warengruppe/getraenke/spirituosen2/alkopops/B2-357",
+              "id": "B2-357",
+              "subGroups": null
+            },
+            "Tequila": {
+              "name": "Tequila",
+              "fullPath": [
+                "Getränke",
+                "Spirituosen",
+                "Tequila"
+              ],
+              "url": "https://shop.billa.at/warengruppe/getraenke/spirituosen2/tequila/B2-358",
+              "id": "B2-358",
+              "subGroups": null
+            },
+            "Alkoholfreie Spirituosen": {
+              "name": "Alkoholfreie Spirituosen",
+              "fullPath": [
+                "Getränke",
+                "Spirituosen",
+                "Alkoholfreie Spirituosen"
+              ],
+              "url": "https://shop.billa.at/warengruppe/getraenke/spirituosen2/alkoholfreie-spirituosen/B2-359",
+              "id": "B2-359",
+              "subGroups": null
+            }
+          }
+        },
+        "Wein": {
+          "name": "Wein",
+          "fullPath": [
+            "Getränke",
+            "Wein"
+          ],
+          "url": "https://shop.billa.at/warengruppe/getraenke/wein/B2-36",
+          "id": "B2-36",
+          "subGroups": {
+            "Weißwein": {
+              "name": "Weißwein",
+              "fullPath": [
+                "Getränke",
+                "Wein",
+                "Weißwein"
+              ],
+              "url": "https://shop.billa.at/warengruppe/getraenke/wein/weisswein/B2-361",
+              "id": "B2-361",
+              "subGroups": null
+            },
+            "Rotwein & Rose": {
+              "name": "Rotwein & Rose",
+              "fullPath": [
+                "Getränke",
+                "Wein",
+                "Rotwein & Rose"
+              ],
+              "url": "https://shop.billa.at/warengruppe/getraenke/wein/rotwein-und-rose/B2-362",
+              "id": "B2-362",
+              "subGroups": null
+            },
+            "Dessertwein": {
+              "name": "Dessertwein",
+              "fullPath": [
+                "Getränke",
+                "Wein",
+                "Dessertwein"
+              ],
+              "url": "https://shop.billa.at/warengruppe/getraenke/wein/dessertwein/B2-363",
+              "id": "B2-363",
+              "subGroups": null
+            }
+          }
+        },
+        "Mineralwasser": {
+          "name": "Mineralwasser",
+          "fullPath": [
+            "Getränke",
+            "Mineralwasser"
+          ],
+          "url": "https://shop.billa.at/warengruppe/getraenke/mineralwasser/B2-37",
+          "id": "B2-37",
+          "subGroups": {
+            "still": {
+              "name": "still",
+              "fullPath": [
+                "Getränke",
+                "Mineralwasser",
+                "still"
+              ],
+              "url": "https://shop.billa.at/warengruppe/getraenke/mineralwasser/still/B2-370",
+              "id": "B2-370",
+              "subGroups": null
+            },
+            "mild": {
+              "name": "mild",
+              "fullPath": [
+                "Getränke",
+                "Mineralwasser",
+                "mild"
+              ],
+              "url": "https://shop.billa.at/warengruppe/getraenke/mineralwasser/mild/B2-371",
+              "id": "B2-371",
+              "subGroups": null
+            },
+            "prickelnd": {
+              "name": "prickelnd",
+              "fullPath": [
+                "Getränke",
+                "Mineralwasser",
+                "prickelnd"
+              ],
+              "url": "https://shop.billa.at/warengruppe/getraenke/mineralwasser/prickelnd/B2-372",
+              "id": "B2-372",
+              "subGroups": null
+            }
+          }
+        }
+      }
+    },
+    "Kühlwaren": {
+      "name": "Kühlwaren",
+      "fullPath": [
+        "Kühlwaren"
+      ],
+      "url": "https://shop.billa.at/warengruppe/kuehlwaren/B2-4",
+      "id": "B2-4",
+      "subGroups": {
+        "Eier": {
+          "name": "Eier",
+          "fullPath": [
+            "Kühlwaren",
+            "Eier"
+          ],
+          "url": "https://shop.billa.at/warengruppe/kuehlwaren/eier/B2-42",
+          "id": "B2-42",
+          "subGroups": null
+        },
+        "Blätterteig, Strudelteig": {
+          "name": "Blätterteig, Strudelteig",
+          "fullPath": [
+            "Kühlwaren",
+            "Blätterteig, Strudelteig"
+          ],
+          "url": "https://shop.billa.at/warengruppe/kuehlwaren/blaetterteig-strudelteig/B2-47",
+          "id": "B2-47",
+          "subGroups": null
+        },
+        "Fisch": {
+          "name": "Fisch",
+          "fullPath": [
+            "Kühlwaren",
+            "Fisch"
+          ],
+          "url": "https://shop.billa.at/warengruppe/kuehlwaren/fisch/B2-4A",
+          "id": "B2-4A",
+          "subGroups": null
+        },
+        "Tofu": {
+          "name": "Tofu",
+          "fullPath": [
+            "Kühlwaren",
+            "Tofu"
+          ],
+          "url": "https://shop.billa.at/warengruppe/kuehlwaren/tofu/B2-4C",
+          "id": "B2-4C",
+          "subGroups": null
+        },
+        "Schnelle Küche": {
+          "name": "Schnelle Küche",
+          "fullPath": [
+            "Kühlwaren",
+            "Schnelle Küche"
+          ],
+          "url": "https://shop.billa.at/warengruppe/kuehlwaren/schnelle-kueche/B2-41",
+          "id": "B2-41",
+          "subGroups": {
+            "Menüschalen": {
+              "name": "Menüschalen",
+              "fullPath": [
+                "Kühlwaren",
+                "Schnelle Küche",
+                "Menüschalen"
+              ],
+              "url": "https://shop.billa.at/warengruppe/kuehlwaren/schnelle-kueche/menueschalen/B2-411",
+              "id": "B2-411",
+              "subGroups": null
+            },
+            "Salate": {
+              "name": "Salate",
+              "fullPath": [
+                "Kühlwaren",
+                "Schnelle Küche",
+                "Salate"
+              ],
+              "url": "https://shop.billa.at/warengruppe/kuehlwaren/schnelle-kueche/salate4/B2-412",
+              "id": "B2-412",
+              "subGroups": null
+            },
+            "Süßes": {
+              "name": "Süßes",
+              "fullPath": [
+                "Kühlwaren",
+                "Schnelle Küche",
+                "Süßes"
+              ],
+              "url": "https://shop.billa.at/warengruppe/kuehlwaren/schnelle-kueche/suesses3/B2-413",
+              "id": "B2-413",
+              "subGroups": null
+            },
+            "Teigwaren & Beilagen": {
+              "name": "Teigwaren & Beilagen",
+              "fullPath": [
+                "Kühlwaren",
+                "Schnelle Küche",
+                "Teigwaren & Beilagen"
+              ],
+              "url": "https://shop.billa.at/warengruppe/kuehlwaren/schnelle-kueche/teigwaren-und-beilagen2/B2-414",
+              "id": "B2-414",
+              "subGroups": null
+            },
+            "Burger": {
+              "name": "Burger",
+              "fullPath": [
+                "Kühlwaren",
+                "Schnelle Küche",
+                "Burger"
+              ],
+              "url": "https://shop.billa.at/warengruppe/kuehlwaren/schnelle-kueche/burger/B2-415",
+              "id": "B2-415",
+              "subGroups": null
+            }
+          }
+        },
+        "Fleisch": {
+          "name": "Fleisch",
+          "fullPath": [
+            "Kühlwaren",
+            "Fleisch"
+          ],
+          "url": "https://shop.billa.at/warengruppe/kuehlwaren/fleisch/B2-43",
+          "id": "B2-43",
+          "subGroups": {
+            "Huhn & Truthahn": {
+              "name": "Huhn & Truthahn",
+              "fullPath": [
+                "Kühlwaren",
+                "Fleisch",
+                "Huhn & Truthahn"
+              ],
+              "url": "https://shop.billa.at/warengruppe/kuehlwaren/fleisch/huhn-und-truthahn/B2-432",
+              "id": "B2-432",
+              "subGroups": null
+            },
+            "Schweinefleisch": {
+              "name": "Schweinefleisch",
+              "fullPath": [
+                "Kühlwaren",
+                "Fleisch",
+                "Schweinefleisch"
+              ],
+              "url": "https://shop.billa.at/warengruppe/kuehlwaren/fleisch/schweinefleisch/B2-434",
+              "id": "B2-434",
+              "subGroups": null
+            },
+            "Rindfleisch": {
+              "name": "Rindfleisch",
+              "fullPath": [
+                "Kühlwaren",
+                "Fleisch",
+                "Rindfleisch"
+              ],
+              "url": "https://shop.billa.at/warengruppe/kuehlwaren/fleisch/rindfleisch/B2-435",
+              "id": "B2-435",
+              "subGroups": null
+            }
+          }
+        },
+        "Käse, Aufstriche & Salate": {
+          "name": "Käse, Aufstriche & Salate",
+          "fullPath": [
+            "Kühlwaren",
+            "Käse, Aufstriche & Salate"
+          ],
+          "url": "https://shop.billa.at/warengruppe/kuehlwaren/kaese-aufstriche-und-salate/B2-44",
+          "id": "B2-44",
+          "subGroups": {
+            "Aufstriche & Salate": {
+              "name": "Aufstriche & Salate",
+              "fullPath": [
+                "Kühlwaren",
+                "Käse, Aufstriche & Salate",
+                "Aufstriche & Salate"
+              ],
+              "url": "https://shop.billa.at/warengruppe/kuehlwaren/kaese-aufstriche-und-salate/aufstriche-und-salate/B2-441",
+              "id": "B2-441",
+              "subGroups": null
+            },
+            "Aus der Feinkost": {
+              "name": "Aus der Feinkost",
+              "fullPath": [
+                "Kühlwaren",
+                "Käse, Aufstriche & Salate",
+                "Aus der Feinkost"
+              ],
+              "url": "https://shop.billa.at/warengruppe/kuehlwaren/kaese-aufstriche-und-salate/aus-der-feinkost2/B2-442",
+              "id": "B2-442",
+              "subGroups": null
+            },
+            "Feta & Mozzarella": {
+              "name": "Feta & Mozzarella",
+              "fullPath": [
+                "Kühlwaren",
+                "Käse, Aufstriche & Salate",
+                "Feta & Mozzarella"
+              ],
+              "url": "https://shop.billa.at/warengruppe/kuehlwaren/kaese-aufstriche-und-salate/feta-und-mozzarella/B2-443",
+              "id": "B2-443",
+              "subGroups": null
+            },
+            "Hart- & Weichkäse am Stück": {
+              "name": "Hart- & Weichkäse am Stück",
+              "fullPath": [
+                "Kühlwaren",
+                "Käse, Aufstriche & Salate",
+                "Hart- & Weichkäse am Stück"
+              ],
+              "url": "https://shop.billa.at/warengruppe/kuehlwaren/kaese-aufstriche-und-salate/hart--und-weichkaese-am-stueck/B2-444",
+              "id": "B2-444",
+              "subGroups": null
+            },
+            "Hüttenkäse & Frischkäse": {
+              "name": "Hüttenkäse & Frischkäse",
+              "fullPath": [
+                "Kühlwaren",
+                "Käse, Aufstriche & Salate",
+                "Hüttenkäse & Frischkäse"
+              ],
+              "url": "https://shop.billa.at/warengruppe/kuehlwaren/kaese-aufstriche-und-salate/huettenkaese-und-frischkaese/B2-445",
+              "id": "B2-445",
+              "subGroups": null
+            },
+            "Käsespezialitäten": {
+              "name": "Käsespezialitäten",
+              "fullPath": [
+                "Kühlwaren",
+                "Käse, Aufstriche & Salate",
+                "Käsespezialitäten"
+              ],
+              "url": "https://shop.billa.at/warengruppe/kuehlwaren/kaese-aufstriche-und-salate/kaesespezialitaeten/B2-446",
+              "id": "B2-446",
+              "subGroups": null
+            },
+            "Parmesan & Reibkäse": {
+              "name": "Parmesan & Reibkäse",
+              "fullPath": [
+                "Kühlwaren",
+                "Käse, Aufstriche & Salate",
+                "Parmesan & Reibkäse"
+              ],
+              "url": "https://shop.billa.at/warengruppe/kuehlwaren/kaese-aufstriche-und-salate/parmesan-und-reibkaese/B2-447",
+              "id": "B2-447",
+              "subGroups": null
+            },
+            "Schmelzkäse": {
+              "name": "Schmelzkäse",
+              "fullPath": [
+                "Kühlwaren",
+                "Käse, Aufstriche & Salate",
+                "Schmelzkäse"
+              ],
+              "url": "https://shop.billa.at/warengruppe/kuehlwaren/kaese-aufstriche-und-salate/schmelzkaese/B2-448",
+              "id": "B2-448",
+              "subGroups": null
+            },
+            "Schnittkäse": {
+              "name": "Schnittkäse",
+              "fullPath": [
+                "Kühlwaren",
+                "Käse, Aufstriche & Salate",
+                "Schnittkäse"
+              ],
+              "url": "https://shop.billa.at/warengruppe/kuehlwaren/kaese-aufstriche-und-salate/schnittkaese/B2-449",
+              "id": "B2-449",
+              "subGroups": null
+            }
+          }
+        },
+        "Milchprodukte": {
+          "name": "Milchprodukte",
+          "fullPath": [
+            "Kühlwaren",
+            "Milchprodukte"
+          ],
+          "url": "https://shop.billa.at/warengruppe/kuehlwaren/milchprodukte/B2-45",
+          "id": "B2-45",
+          "subGroups": {
+            "Butter": {
+              "name": "Butter",
+              "fullPath": [
+                "Kühlwaren",
+                "Milchprodukte",
+                "Butter"
+              ],
+              "url": "https://shop.billa.at/warengruppe/kuehlwaren/milchprodukte/butter/B2-451",
+              "id": "B2-451",
+              "subGroups": null
+            },
+            "Haltbarmilch & Kondensmilch": {
+              "name": "Haltbarmilch & Kondensmilch",
+              "fullPath": [
+                "Kühlwaren",
+                "Milchprodukte",
+                "Haltbarmilch & Kondensmilch"
+              ],
+              "url": "https://shop.billa.at/warengruppe/kuehlwaren/milchprodukte/haltbarmilch-und-kondensmilch/B2-452",
+              "id": "B2-452",
+              "subGroups": null
+            },
+            "Joghurt": {
+              "name": "Joghurt",
+              "fullPath": [
+                "Kühlwaren",
+                "Milchprodukte",
+                "Joghurt"
+              ],
+              "url": "https://shop.billa.at/warengruppe/kuehlwaren/milchprodukte/joghurt/B2-453",
+              "id": "B2-453",
+              "subGroups": null
+            },
+            "Margarine & Fette": {
+              "name": "Margarine & Fette",
+              "fullPath": [
+                "Kühlwaren",
+                "Milchprodukte",
+                "Margarine & Fette"
+              ],
+              "url": "https://shop.billa.at/warengruppe/kuehlwaren/milchprodukte/margarine-und-fette/B2-455",
+              "id": "B2-455",
+              "subGroups": null
+            },
+            "Milch": {
+              "name": "Milch",
+              "fullPath": [
+                "Kühlwaren",
+                "Milchprodukte",
+                "Milch"
+              ],
+              "url": "https://shop.billa.at/warengruppe/kuehlwaren/milchprodukte/milch/B2-456",
+              "id": "B2-456",
+              "subGroups": null
+            },
+            "Milchgetränke": {
+              "name": "Milchgetränke",
+              "fullPath": [
+                "Kühlwaren",
+                "Milchprodukte",
+                "Milchgetränke"
+              ],
+              "url": "https://shop.billa.at/warengruppe/kuehlwaren/milchprodukte/milchgetraenke/B2-457",
+              "id": "B2-457",
+              "subGroups": null
+            },
+            "Milchsnacks": {
+              "name": "Milchsnacks",
+              "fullPath": [
+                "Kühlwaren",
+                "Milchprodukte",
+                "Milchsnacks"
+              ],
+              "url": "https://shop.billa.at/warengruppe/kuehlwaren/milchprodukte/milchsnacks/B2-458",
+              "id": "B2-458",
+              "subGroups": null
+            },
+            "Pudding & Desserts": {
+              "name": "Pudding & Desserts",
+              "fullPath": [
+                "Kühlwaren",
+                "Milchprodukte",
+                "Pudding & Desserts"
+              ],
+              "url": "https://shop.billa.at/warengruppe/kuehlwaren/milchprodukte/pudding-und-desserts/B2-459",
+              "id": "B2-459",
+              "subGroups": null
+            },
+            "Rahm, Obers & Topfen": {
+              "name": "Rahm, Obers & Topfen",
+              "fullPath": [
+                "Kühlwaren",
+                "Milchprodukte",
+                "Rahm, Obers & Topfen"
+              ],
+              "url": "https://shop.billa.at/warengruppe/kuehlwaren/milchprodukte/rahm-obers-und-topfen/B2-45A",
+              "id": "B2-45A",
+              "subGroups": null
+            },
+            "Sprühsahne & Kaffeeobers": {
+              "name": "Sprühsahne & Kaffeeobers",
+              "fullPath": [
+                "Kühlwaren",
+                "Milchprodukte",
+                "Sprühsahne & Kaffeeobers"
+              ],
+              "url": "https://shop.billa.at/warengruppe/kuehlwaren/milchprodukte/spruehsahne-und-kaffeeobers/B2-45B",
+              "id": "B2-45B",
+              "subGroups": null
+            }
+          }
+        },
+        "Feinkostplatten & Brötchen": {
+          "name": "Feinkostplatten & Brötchen",
+          "fullPath": [
+            "Kühlwaren",
+            "Feinkostplatten & Brötchen"
+          ],
+          "url": "https://shop.billa.at/warengruppe/kuehlwaren/feinkostplatten-und-broetchen/B2-46",
+          "id": "B2-46",
+          "subGroups": {
+            "Belegte Brötchen": {
+              "name": "Belegte Brötchen",
+              "fullPath": [
+                "Kühlwaren",
+                "Feinkostplatten & Brötchen",
+                "Belegte Brötchen"
+              ],
+              "url": "https://shop.billa.at/warengruppe/kuehlwaren/feinkostplatten-und-broetchen/belegte-broetchen/B2-461",
+              "id": "B2-461",
+              "subGroups": null
+            },
+            "Aufschnittplatten": {
+              "name": "Aufschnittplatten",
+              "fullPath": [
+                "Kühlwaren",
+                "Feinkostplatten & Brötchen",
+                "Aufschnittplatten"
+              ],
+              "url": "https://shop.billa.at/warengruppe/kuehlwaren/feinkostplatten-und-broetchen/aufschnittplatten/B2-462",
+              "id": "B2-462",
+              "subGroups": null
+            }
+          }
+        },
+        "Wurst, Schinken & Speck": {
+          "name": "Wurst, Schinken & Speck",
+          "fullPath": [
+            "Kühlwaren",
+            "Wurst, Schinken & Speck"
+          ],
+          "url": "https://shop.billa.at/warengruppe/kuehlwaren/wurst-schinken-und-speck/B2-48",
+          "id": "B2-48",
+          "subGroups": {
+            "Aus der Feinkost": {
+              "name": "Aus der Feinkost",
+              "fullPath": [
+                "Kühlwaren",
+                "Wurst, Schinken & Speck",
+                "Aus der Feinkost"
+              ],
+              "url": "https://shop.billa.at/warengruppe/kuehlwaren/wurst-schinken-und-speck/aus-der-feinkost/B2-481",
+              "id": "B2-481",
+              "subGroups": null
+            },
+            "Salami": {
+              "name": "Salami",
+              "fullPath": [
+                "Kühlwaren",
+                "Wurst, Schinken & Speck",
+                "Salami"
+              ],
+              "url": "https://shop.billa.at/warengruppe/kuehlwaren/wurst-schinken-und-speck/salami/B2-482",
+              "id": "B2-482",
+              "subGroups": null
+            },
+            "Grammeln, Schmalz & Speck": {
+              "name": "Grammeln, Schmalz & Speck",
+              "fullPath": [
+                "Kühlwaren",
+                "Wurst, Schinken & Speck",
+                "Grammeln, Schmalz & Speck"
+              ],
+              "url": "https://shop.billa.at/warengruppe/kuehlwaren/wurst-schinken-und-speck/grammeln-schmalz-und-speck/B2-483",
+              "id": "B2-483",
+              "subGroups": null
+            },
+            "Schinken": {
+              "name": "Schinken",
+              "fullPath": [
+                "Kühlwaren",
+                "Wurst, Schinken & Speck",
+                "Schinken"
+              ],
+              "url": "https://shop.billa.at/warengruppe/kuehlwaren/wurst-schinken-und-speck/schinken/B2-484",
+              "id": "B2-484",
+              "subGroups": null
+            },
+            "Cabanossi": {
+              "name": "Cabanossi",
+              "fullPath": [
+                "Kühlwaren",
+                "Wurst, Schinken & Speck",
+                "Cabanossi"
+              ],
+              "url": "https://shop.billa.at/warengruppe/kuehlwaren/wurst-schinken-und-speck/cabanossi/B2-48A",
+              "id": "B2-48A",
+              "subGroups": null
+            },
+            "Wurstspezialitäten": {
+              "name": "Wurstspezialitäten",
+              "fullPath": [
+                "Kühlwaren",
+                "Wurst, Schinken & Speck",
+                "Wurstspezialitäten"
+              ],
+              "url": "https://shop.billa.at/warengruppe/kuehlwaren/wurst-schinken-und-speck/wurstspezialitaeten/B2-485",
+              "id": "B2-485",
+              "subGroups": null
+            },
+            "Streichwurst & Pasteten": {
+              "name": "Streichwurst & Pasteten",
+              "fullPath": [
+                "Kühlwaren",
+                "Wurst, Schinken & Speck",
+                "Streichwurst & Pasteten"
+              ],
+              "url": "https://shop.billa.at/warengruppe/kuehlwaren/wurst-schinken-und-speck/streichwurst-und-pasteten/B2-486",
+              "id": "B2-486",
+              "subGroups": null
+            },
+            "Truthahn und Putenwurst": {
+              "name": "Truthahn und Putenwurst",
+              "fullPath": [
+                "Kühlwaren",
+                "Wurst, Schinken & Speck",
+                "Truthahn und Putenwurst"
+              ],
+              "url": "https://shop.billa.at/warengruppe/kuehlwaren/wurst-schinken-und-speck/truthahn-und-putenwurst/B2-487",
+              "id": "B2-487",
+              "subGroups": null
+            },
+            "Wurst & Stangenwurst": {
+              "name": "Wurst & Stangenwurst",
+              "fullPath": [
+                "Kühlwaren",
+                "Wurst, Schinken & Speck",
+                "Wurst & Stangenwurst"
+              ],
+              "url": "https://shop.billa.at/warengruppe/kuehlwaren/wurst-schinken-und-speck/wurst-und-stangenwurst/B2-488",
+              "id": "B2-488",
+              "subGroups": null
+            },
+            "Würstel": {
+              "name": "Würstel",
+              "fullPath": [
+                "Kühlwaren",
+                "Wurst, Schinken & Speck",
+                "Würstel"
+              ],
+              "url": "https://shop.billa.at/warengruppe/kuehlwaren/wurst-schinken-und-speck/wuerstel/B2-489",
+              "id": "B2-489",
+              "subGroups": null
+            }
+          }
+        },
+        "Feinkost": {
+          "name": "Feinkost",
+          "fullPath": [
+            "Kühlwaren",
+            "Feinkost"
+          ],
+          "url": "https://shop.billa.at/warengruppe/kuehlwaren/feinkost/B2-49",
+          "id": "B2-49",
+          "subGroups": {
+            "Käse": {
+              "name": "Käse",
+              "fullPath": [
+                "Kühlwaren",
+                "Feinkost",
+                "Käse"
+              ],
+              "url": "https://shop.billa.at/warengruppe/kuehlwaren/feinkost/kaese/B2-490",
+              "id": "B2-490",
+              "subGroups": null
+            },
+            "Wurst": {
+              "name": "Wurst",
+              "fullPath": [
+                "Kühlwaren",
+                "Feinkost",
+                "Wurst"
+              ],
+              "url": "https://shop.billa.at/warengruppe/kuehlwaren/feinkost/wurst/B2-491",
+              "id": "B2-491",
+              "subGroups": null
+            },
+            "Salate, Aufstriche": {
+              "name": "Salate, Aufstriche",
+              "fullPath": [
+                "Kühlwaren",
+                "Feinkost",
+                "Salate, Aufstriche"
+              ],
+              "url": "https://shop.billa.at/warengruppe/kuehlwaren/feinkost/salate-aufstriche/B2-492",
+              "id": "B2-492",
+              "subGroups": null
+            }
+          }
+        }
+      }
+    },
+    "Tiefkühl": {
+      "name": "Tiefkühl",
+      "fullPath": [
+        "Tiefkühl"
+      ],
+      "url": "https://shop.billa.at/warengruppe/tiefkuehl/B2-5",
+      "id": "B2-5",
+      "subGroups": {
+        "Gemüse & Kräuter": {
+          "name": "Gemüse & Kräuter",
+          "fullPath": [
+            "Tiefkühl",
+            "Gemüse & Kräuter"
+          ],
+          "url": "https://shop.billa.at/warengruppe/tiefkuehl/gemuese-und-kraeuter/B2-55",
+          "id": "B2-55",
+          "subGroups": null
+        },
+        "Pommes Frites & Co.": {
+          "name": "Pommes Frites & Co.",
+          "fullPath": [
+            "Tiefkühl",
+            "Pommes Frites & Co."
+          ],
+          "url": "https://shop.billa.at/warengruppe/tiefkuehl/pommes-frites-und-co/B2-56",
+          "id": "B2-56",
+          "subGroups": null
+        },
+        "Eis": {
+          "name": "Eis",
+          "fullPath": [
+            "Tiefkühl",
+            "Eis"
+          ],
+          "url": "https://shop.billa.at/warengruppe/tiefkuehl/eis/B2-51",
+          "id": "B2-51",
+          "subGroups": {
+            "Eisbecher": {
+              "name": "Eisbecher",
+              "fullPath": [
+                "Tiefkühl",
+                "Eis",
+                "Eisbecher"
+              ],
+              "url": "https://shop.billa.at/warengruppe/tiefkuehl/eis/eisbecher/B2-511",
+              "id": "B2-511",
+              "subGroups": null
+            },
+            "Stanitzel & Lutscher": {
+              "name": "Stanitzel & Lutscher",
+              "fullPath": [
+                "Tiefkühl",
+                "Eis",
+                "Stanitzel & Lutscher"
+              ],
+              "url": "https://shop.billa.at/warengruppe/tiefkuehl/eis/stanitzel-und-lutscher/B2-512",
+              "id": "B2-512",
+              "subGroups": null
+            },
+            "Eiswaffeln": {
+              "name": "Eiswaffeln",
+              "fullPath": [
+                "Tiefkühl",
+                "Eis",
+                "Eiswaffeln"
+              ],
+              "url": "https://shop.billa.at/warengruppe/tiefkuehl/eis/eiswaffeln/B2-513",
+              "id": "B2-513",
+              "subGroups": null
+            }
+          }
+        },
+        "Fertiggerichte": {
+          "name": "Fertiggerichte",
+          "fullPath": [
+            "Tiefkühl",
+            "Fertiggerichte"
+          ],
+          "url": "https://shop.billa.at/warengruppe/tiefkuehl/fertiggerichte/B2-53",
+          "id": "B2-53",
+          "subGroups": {
+            "Fleisch & Fisch": {
+              "name": "Fleisch & Fisch",
+              "fullPath": [
+                "Tiefkühl",
+                "Fertiggerichte",
+                "Fleisch & Fisch"
+              ],
+              "url": "https://shop.billa.at/warengruppe/tiefkuehl/fertiggerichte/fleisch-und-fisch/B2-531",
+              "id": "B2-531",
+              "subGroups": null
+            },
+            "Geflügel": {
+              "name": "Geflügel",
+              "fullPath": [
+                "Tiefkühl",
+                "Fertiggerichte",
+                "Geflügel"
+              ],
+              "url": "https://shop.billa.at/warengruppe/tiefkuehl/fertiggerichte/gefluegel/B2-532",
+              "id": "B2-532",
+              "subGroups": null
+            },
+            "Knödel & Beilagen": {
+              "name": "Knödel & Beilagen",
+              "fullPath": [
+                "Tiefkühl",
+                "Fertiggerichte",
+                "Knödel & Beilagen"
+              ],
+              "url": "https://shop.billa.at/warengruppe/tiefkuehl/fertiggerichte/knoedel-und-beilagen/B2-533",
+              "id": "B2-533",
+              "subGroups": null
+            },
+            "Lasagne": {
+              "name": "Lasagne",
+              "fullPath": [
+                "Tiefkühl",
+                "Fertiggerichte",
+                "Lasagne"
+              ],
+              "url": "https://shop.billa.at/warengruppe/tiefkuehl/fertiggerichte/lasagne/B2-534",
+              "id": "B2-534",
+              "subGroups": null
+            },
+            "Reis & Gemüse": {
+              "name": "Reis & Gemüse",
+              "fullPath": [
+                "Tiefkühl",
+                "Fertiggerichte",
+                "Reis & Gemüse"
+              ],
+              "url": "https://shop.billa.at/warengruppe/tiefkuehl/fertiggerichte/reis-und-gemuese/B2-535",
+              "id": "B2-535",
+              "subGroups": null
+            },
+            "Pasta, Pfannen & Schmankerl": {
+              "name": "Pasta, Pfannen & Schmankerl",
+              "fullPath": [
+                "Tiefkühl",
+                "Fertiggerichte",
+                "Pasta, Pfannen & Schmankerl"
+              ],
+              "url": "https://shop.billa.at/warengruppe/tiefkuehl/fertiggerichte/pasta-pfannen-und-schmankerl/B2-537",
+              "id": "B2-537",
+              "subGroups": null
+            }
+          }
+        },
+        "Fisch & Garnelen": {
+          "name": "Fisch & Garnelen",
+          "fullPath": [
+            "Tiefkühl",
+            "Fisch & Garnelen"
+          ],
+          "url": "https://shop.billa.at/warengruppe/tiefkuehl/fisch-und-garnelen/B2-54",
+          "id": "B2-54",
+          "subGroups": {
+            "Fisch natur": {
+              "name": "Fisch natur",
+              "fullPath": [
+                "Tiefkühl",
+                "Fisch & Garnelen",
+                "Fisch natur"
+              ],
+              "url": "https://shop.billa.at/warengruppe/tiefkuehl/fisch-und-garnelen/fisch-natur/B2-541",
+              "id": "B2-541",
+              "subGroups": null
+            },
+            "Fisch paniert & gewürzt": {
+              "name": "Fisch paniert & gewürzt",
+              "fullPath": [
+                "Tiefkühl",
+                "Fisch & Garnelen",
+                "Fisch paniert & gewürzt"
+              ],
+              "url": "https://shop.billa.at/warengruppe/tiefkuehl/fisch-und-garnelen/fisch-paniert-und-gewuerzt/B2-542",
+              "id": "B2-542",
+              "subGroups": null
+            },
+            "Garnelen": {
+              "name": "Garnelen",
+              "fullPath": [
+                "Tiefkühl",
+                "Fisch & Garnelen",
+                "Garnelen"
+              ],
+              "url": "https://shop.billa.at/warengruppe/tiefkuehl/fisch-und-garnelen/garnelen/B2-543",
+              "id": "B2-543",
+              "subGroups": null
+            }
+          }
+        },
+        "Pizza & Baguette": {
+          "name": "Pizza & Baguette",
+          "fullPath": [
+            "Tiefkühl",
+            "Pizza & Baguette"
+          ],
+          "url": "https://shop.billa.at/warengruppe/tiefkuehl/pizza-und-baguette/B2-57",
+          "id": "B2-57",
+          "subGroups": {
+            "Baguettes": {
+              "name": "Baguettes",
+              "fullPath": [
+                "Tiefkühl",
+                "Pizza & Baguette",
+                "Baguettes"
+              ],
+              "url": "https://shop.billa.at/warengruppe/tiefkuehl/pizza-und-baguette/baguettes/B2-571",
+              "id": "B2-571",
+              "subGroups": null
+            },
+            "Pizzen": {
+              "name": "Pizzen",
+              "fullPath": [
+                "Tiefkühl",
+                "Pizza & Baguette",
+                "Pizzen"
+              ],
+              "url": "https://shop.billa.at/warengruppe/tiefkuehl/pizza-und-baguette/pizzen/B2-572",
+              "id": "B2-572",
+              "subGroups": null
+            }
+          }
+        },
+        "Desserts & Früchte": {
+          "name": "Desserts & Früchte",
+          "fullPath": [
+            "Tiefkühl",
+            "Desserts & Früchte"
+          ],
+          "url": "https://shop.billa.at/warengruppe/tiefkuehl/desserts-und-fruechte/B2-58",
+          "id": "B2-58",
+          "subGroups": {
+            "Früchte": {
+              "name": "Früchte",
+              "fullPath": [
+                "Tiefkühl",
+                "Desserts & Früchte",
+                "Früchte"
+              ],
+              "url": "https://shop.billa.at/warengruppe/tiefkuehl/desserts-und-fruechte/fruechte/B2-581",
+              "id": "B2-581",
+              "subGroups": null
+            },
+            "Süßspeisen": {
+              "name": "Süßspeisen",
+              "fullPath": [
+                "Tiefkühl",
+                "Desserts & Früchte",
+                "Süßspeisen"
+              ],
+              "url": "https://shop.billa.at/warengruppe/tiefkuehl/desserts-und-fruechte/suessspeisen/B2-582",
+              "id": "B2-582",
+              "subGroups": null
+            },
+            "Torten": {
+              "name": "Torten",
+              "fullPath": [
+                "Tiefkühl",
+                "Desserts & Früchte",
+                "Torten"
+              ],
+              "url": "https://shop.billa.at/warengruppe/tiefkuehl/desserts-und-fruechte/torten2/B2-583",
+              "id": "B2-583",
+              "subGroups": null
+            }
+          }
+        }
+      }
+    },
+    "Grundnahrungsmittel": {
+      "name": "Grundnahrungsmittel",
+      "fullPath": [
+        "Grundnahrungsmittel"
+      ],
+      "url": "https://shop.billa.at/warengruppe/grundnahrungsmittel/B2-6",
+      "id": "B2-6",
+      "subGroups": {
+        "Asia & Mexican Produkte": {
+          "name": "Asia & Mexican Produkte",
+          "fullPath": [
+            "Grundnahrungsmittel",
+            "Asia & Mexican Produkte"
+          ],
+          "url": "https://shop.billa.at/warengruppe/grundnahrungsmittel/asia-und-mexican-produkte/B2-61",
+          "id": "B2-61",
+          "subGroups": {
+            "Asia Produkte": {
+              "name": "Asia Produkte",
+              "fullPath": [
+                "Grundnahrungsmittel",
+                "Asia & Mexican Produkte",
+                "Asia Produkte"
+              ],
+              "url": "https://shop.billa.at/warengruppe/grundnahrungsmittel/asia-und-mexican-produkte/asia-produkte/B2-611",
+              "id": "B2-611",
+              "subGroups": null
+            },
+            "India & Mexican Produkte": {
+              "name": "India & Mexican Produkte",
+              "fullPath": [
+                "Grundnahrungsmittel",
+                "Asia & Mexican Produkte",
+                "India & Mexican Produkte"
+              ],
+              "url": "https://shop.billa.at/warengruppe/grundnahrungsmittel/asia-und-mexican-produkte/india-und-mexican-produkte/B2-612",
+              "id": "B2-612",
+              "subGroups": null
+            }
+          }
+        },
+        "Baby": {
+          "name": "Baby",
+          "fullPath": [
+            "Grundnahrungsmittel",
+            "Baby"
+          ],
+          "url": "https://shop.billa.at/warengruppe/grundnahrungsmittel/baby/B2-62",
+          "id": "B2-62",
+          "subGroups": {
+            "Babynahrung im Glas": {
+              "name": "Babynahrung im Glas",
+              "fullPath": [
+                "Grundnahrungsmittel",
+                "Baby",
+                "Babynahrung im Glas"
+              ],
+              "url": "https://shop.billa.at/warengruppe/grundnahrungsmittel/baby/babynahrung-im-glas/B2-621",
+              "id": "B2-621",
+              "subGroups": null
+            },
+            "Getränke & Tees": {
+              "name": "Getränke & Tees",
+              "fullPath": [
+                "Grundnahrungsmittel",
+                "Baby",
+                "Getränke & Tees"
+              ],
+              "url": "https://shop.billa.at/warengruppe/grundnahrungsmittel/baby/getraenke-und-tees/B2-625",
+              "id": "B2-625",
+              "subGroups": null
+            },
+            "Kleine Snacks": {
+              "name": "Kleine Snacks",
+              "fullPath": [
+                "Grundnahrungsmittel",
+                "Baby",
+                "Kleine Snacks"
+              ],
+              "url": "https://shop.billa.at/warengruppe/grundnahrungsmittel/baby/kleine-snacks/B2-623",
+              "id": "B2-623",
+              "subGroups": null
+            },
+            "Milchpulver & Milch": {
+              "name": "Milchpulver & Milch",
+              "fullPath": [
+                "Grundnahrungsmittel",
+                "Baby",
+                "Milchpulver & Milch"
+              ],
+              "url": "https://shop.billa.at/warengruppe/grundnahrungsmittel/baby/milchpulver-und-milch/B2-622",
+              "id": "B2-622",
+              "subGroups": null
+            },
+            "Milch- & Getreidebreie": {
+              "name": "Milch- & Getreidebreie",
+              "fullPath": [
+                "Grundnahrungsmittel",
+                "Baby",
+                "Milch- & Getreidebreie"
+              ],
+              "url": "https://shop.billa.at/warengruppe/grundnahrungsmittel/baby/milch--und-getreidebreie/B2-624",
+              "id": "B2-624",
+              "subGroups": null
+            }
+          }
+        },
+        "Backen": {
+          "name": "Backen",
+          "fullPath": [
+            "Grundnahrungsmittel",
+            "Backen"
+          ],
+          "url": "https://shop.billa.at/warengruppe/grundnahrungsmittel/backen/B2-63",
+          "id": "B2-63",
+          "subGroups": {
+            "Aromen, Glasuren & Streusel": {
+              "name": "Aromen, Glasuren & Streusel",
+              "fullPath": [
+                "Grundnahrungsmittel",
+                "Backen",
+                "Aromen, Glasuren & Streusel"
+              ],
+              "url": "https://shop.billa.at/warengruppe/grundnahrungsmittel/backen/aromen-glasuren-und-streusel/B2-631",
+              "id": "B2-631",
+              "subGroups": null
+            },
+            "Backmischungen & Füllungen": {
+              "name": "Backmischungen & Füllungen",
+              "fullPath": [
+                "Grundnahrungsmittel",
+                "Backen",
+                "Backmischungen & Füllungen"
+              ],
+              "url": "https://shop.billa.at/warengruppe/grundnahrungsmittel/backen/backmischungen-und-fuellungen/B2-632",
+              "id": "B2-632",
+              "subGroups": null
+            },
+            "Backpulver & Hefe": {
+              "name": "Backpulver & Hefe",
+              "fullPath": [
+                "Grundnahrungsmittel",
+                "Backen",
+                "Backpulver & Hefe"
+              ],
+              "url": "https://shop.billa.at/warengruppe/grundnahrungsmittel/backen/backpulver-und-hefe/B2-633",
+              "id": "B2-633",
+              "subGroups": null
+            },
+            "Mehl": {
+              "name": "Mehl",
+              "fullPath": [
+                "Grundnahrungsmittel",
+                "Backen",
+                "Mehl"
+              ],
+              "url": "https://shop.billa.at/warengruppe/grundnahrungsmittel/backen/mehl/B2-634",
+              "id": "B2-634",
+              "subGroups": null
+            },
+            "Eier": {
+              "name": "Eier",
+              "fullPath": [
+                "Grundnahrungsmittel",
+                "Backen",
+                "Eier"
+              ],
+              "url": "https://shop.billa.at/warengruppe/grundnahrungsmittel/backen/eier2/B2-635",
+              "id": "B2-635",
+              "subGroups": null
+            },
+            "Nüsse & Kerne": {
+              "name": "Nüsse & Kerne",
+              "fullPath": [
+                "Grundnahrungsmittel",
+                "Backen",
+                "Nüsse & Kerne"
+              ],
+              "url": "https://shop.billa.at/warengruppe/grundnahrungsmittel/backen/nuesse-und-kerne/B2-636",
+              "id": "B2-636",
+              "subGroups": null
+            },
+            "Teige": {
+              "name": "Teige",
+              "fullPath": [
+                "Grundnahrungsmittel",
+                "Backen",
+                "Teige"
+              ],
+              "url": "https://shop.billa.at/warengruppe/grundnahrungsmittel/backen/teige/B2-637",
+              "id": "B2-637",
+              "subGroups": null
+            },
+            "Trockenfrüchte": {
+              "name": "Trockenfrüchte",
+              "fullPath": [
+                "Grundnahrungsmittel",
+                "Backen",
+                "Trockenfrüchte"
+              ],
+              "url": "https://shop.billa.at/warengruppe/grundnahrungsmittel/backen/trockenfruechte/B2-638",
+              "id": "B2-638",
+              "subGroups": null
+            },
+            "Gelierhilfe & -Zucker": {
+              "name": "Gelierhilfe & -Zucker",
+              "fullPath": [
+                "Grundnahrungsmittel",
+                "Backen",
+                "Gelierhilfe & -Zucker"
+              ],
+              "url": "https://shop.billa.at/warengruppe/grundnahrungsmittel/backen/gelierhilfe-und--zucker2/B2-639",
+              "id": "B2-639",
+              "subGroups": null
+            },
+            "Backformen & Zubehör": {
+              "name": "Backformen & Zubehör",
+              "fullPath": [
+                "Grundnahrungsmittel",
+                "Backen",
+                "Backformen & Zubehör"
+              ],
+              "url": "https://shop.billa.at/warengruppe/grundnahrungsmittel/backen/backformen-und-zubehoer/B2-63A",
+              "id": "B2-63A",
+              "subGroups": null
+            }
+          }
+        },
+        "Essig & Öl": {
+          "name": "Essig & Öl",
+          "fullPath": [
+            "Grundnahrungsmittel",
+            "Essig & Öl"
+          ],
+          "url": "https://shop.billa.at/warengruppe/grundnahrungsmittel/essig-und-oel/B2-64",
+          "id": "B2-64",
+          "subGroups": {
+            "Essig": {
+              "name": "Essig",
+              "fullPath": [
+                "Grundnahrungsmittel",
+                "Essig & Öl",
+                "Essig"
+              ],
+              "url": "https://shop.billa.at/warengruppe/grundnahrungsmittel/essig-und-oel/essig/B2-641",
+              "id": "B2-641",
+              "subGroups": null
+            },
+            "Öl": {
+              "name": "Öl",
+              "fullPath": [
+                "Grundnahrungsmittel",
+                "Essig & Öl",
+                "Öl"
+              ],
+              "url": "https://shop.billa.at/warengruppe/grundnahrungsmittel/essig-und-oel/oel/B2-642",
+              "id": "B2-642",
+              "subGroups": null
+            }
+          }
+        },
+        "Fertiggerichte": {
+          "name": "Fertiggerichte",
+          "fullPath": [
+            "Grundnahrungsmittel",
+            "Fertiggerichte"
+          ],
+          "url": "https://shop.billa.at/warengruppe/grundnahrungsmittel/fertiggerichte2/B2-65",
+          "id": "B2-65",
+          "subGroups": {
+            "Asia": {
+              "name": "Asia",
+              "fullPath": [
+                "Grundnahrungsmittel",
+                "Fertiggerichte",
+                "Asia"
+              ],
+              "url": "https://shop.billa.at/warengruppe/grundnahrungsmittel/fertiggerichte2/asia/B2-651",
+              "id": "B2-651",
+              "subGroups": null
+            },
+            "Beutelsuppen": {
+              "name": "Beutelsuppen",
+              "fullPath": [
+                "Grundnahrungsmittel",
+                "Fertiggerichte",
+                "Beutelsuppen"
+              ],
+              "url": "https://shop.billa.at/warengruppe/grundnahrungsmittel/fertiggerichte2/beutelsuppen/B2-652",
+              "id": "B2-652",
+              "subGroups": null
+            },
+            "Suppenwürfel": {
+              "name": "Suppenwürfel",
+              "fullPath": [
+                "Grundnahrungsmittel",
+                "Fertiggerichte",
+                "Suppenwürfel"
+              ],
+              "url": "https://shop.billa.at/warengruppe/grundnahrungsmittel/fertiggerichte2/suppenwuerfel/B2-653",
+              "id": "B2-653",
+              "subGroups": null
+            },
+            "Gekühlte Suppen": {
+              "name": "Gekühlte Suppen",
+              "fullPath": [
+                "Grundnahrungsmittel",
+                "Fertiggerichte",
+                "Gekühlte Suppen"
+              ],
+              "url": "https://shop.billa.at/warengruppe/grundnahrungsmittel/fertiggerichte2/gekuehlte-suppen/B2-654",
+              "id": "B2-654",
+              "subGroups": null
+            },
+            "Dosensuppen": {
+              "name": "Dosensuppen",
+              "fullPath": [
+                "Grundnahrungsmittel",
+                "Fertiggerichte",
+                "Dosensuppen"
+              ],
+              "url": "https://shop.billa.at/warengruppe/grundnahrungsmittel/fertiggerichte2/dosensuppen/B2-655",
+              "id": "B2-655",
+              "subGroups": null
+            },
+            "Menüs & Dosengerichte": {
+              "name": "Menüs & Dosengerichte",
+              "fullPath": [
+                "Grundnahrungsmittel",
+                "Fertiggerichte",
+                "Menüs & Dosengerichte"
+              ],
+              "url": "https://shop.billa.at/warengruppe/grundnahrungsmittel/fertiggerichte2/menues-und-dosengerichte/B2-656",
+              "id": "B2-656",
+              "subGroups": null
+            },
+            "Pasta & Risotto": {
+              "name": "Pasta & Risotto",
+              "fullPath": [
+                "Grundnahrungsmittel",
+                "Fertiggerichte",
+                "Pasta & Risotto"
+              ],
+              "url": "https://shop.billa.at/warengruppe/grundnahrungsmittel/fertiggerichte2/pasta-und-risotto/B2-657",
+              "id": "B2-657",
+              "subGroups": null
+            },
+            "Salate": {
+              "name": "Salate",
+              "fullPath": [
+                "Grundnahrungsmittel",
+                "Fertiggerichte",
+                "Salate"
+              ],
+              "url": "https://shop.billa.at/warengruppe/grundnahrungsmittel/fertiggerichte2/salate/B2-658",
+              "id": "B2-658",
+              "subGroups": null
+            },
+            "Suppeneinlagen": {
+              "name": "Suppeneinlagen",
+              "fullPath": [
+                "Grundnahrungsmittel",
+                "Fertiggerichte",
+                "Suppeneinlagen"
+              ],
+              "url": "https://shop.billa.at/warengruppe/grundnahrungsmittel/fertiggerichte2/suppeneinlagen/B2-659",
+              "id": "B2-659",
+              "subGroups": null
+            },
+            "Süßes": {
+              "name": "Süßes",
+              "fullPath": [
+                "Grundnahrungsmittel",
+                "Fertiggerichte",
+                "Süßes"
+              ],
+              "url": "https://shop.billa.at/warengruppe/grundnahrungsmittel/fertiggerichte2/suesses2/B2-65A",
+              "id": "B2-65A",
+              "subGroups": null
+            },
+            "Teigwaren & Beilagen": {
+              "name": "Teigwaren & Beilagen",
+              "fullPath": [
+                "Grundnahrungsmittel",
+                "Fertiggerichte",
+                "Teigwaren & Beilagen"
+              ],
+              "url": "https://shop.billa.at/warengruppe/grundnahrungsmittel/fertiggerichte2/teigwaren-und-beilagen/B2-65B",
+              "id": "B2-65B",
+              "subGroups": null
+            }
+          }
+        },
+        "Gewürze & Würzmittel": {
+          "name": "Gewürze & Würzmittel",
+          "fullPath": [
+            "Grundnahrungsmittel",
+            "Gewürze & Würzmittel"
+          ],
+          "url": "https://shop.billa.at/warengruppe/grundnahrungsmittel/gewuerze-und-wuerzmittel/B2-66",
+          "id": "B2-66",
+          "subGroups": {
+            "Gewürze": {
+              "name": "Gewürze",
+              "fullPath": [
+                "Grundnahrungsmittel",
+                "Gewürze & Würzmittel",
+                "Gewürze"
+              ],
+              "url": "https://shop.billa.at/warengruppe/grundnahrungsmittel/gewuerze-und-wuerzmittel/gewuerze/B2-661",
+              "id": "B2-661",
+              "subGroups": null
+            },
+            "Gewürzgläser & -Packungen": {
+              "name": "Gewürzgläser & -Packungen",
+              "fullPath": [
+                "Grundnahrungsmittel",
+                "Gewürze & Würzmittel",
+                "Gewürzgläser & -Packungen"
+              ],
+              "url": "https://shop.billa.at/warengruppe/grundnahrungsmittel/gewuerze-und-wuerzmittel/gewuerzglaeser-und--packungen/B2-662",
+              "id": "B2-662",
+              "subGroups": null
+            },
+            "Gewürzmischungen": {
+              "name": "Gewürzmischungen",
+              "fullPath": [
+                "Grundnahrungsmittel",
+                "Gewürze & Würzmittel",
+                "Gewürzmischungen"
+              ],
+              "url": "https://shop.billa.at/warengruppe/grundnahrungsmittel/gewuerze-und-wuerzmittel/gewuerzmischungen/B2-663",
+              "id": "B2-663",
+              "subGroups": null
+            },
+            "Gewürzmühlen": {
+              "name": "Gewürzmühlen",
+              "fullPath": [
+                "Grundnahrungsmittel",
+                "Gewürze & Würzmittel",
+                "Gewürzmühlen"
+              ],
+              "url": "https://shop.billa.at/warengruppe/grundnahrungsmittel/gewuerze-und-wuerzmittel/gewuerzmuehlen/B2-664",
+              "id": "B2-664",
+              "subGroups": null
+            },
+            "Salz": {
+              "name": "Salz",
+              "fullPath": [
+                "Grundnahrungsmittel",
+                "Gewürze & Würzmittel",
+                "Salz"
+              ],
+              "url": "https://shop.billa.at/warengruppe/grundnahrungsmittel/gewuerze-und-wuerzmittel/salz/B2-665",
+              "id": "B2-665",
+              "subGroups": null
+            }
+          }
+        },
+        "Honig, Marmelade & Co.": {
+          "name": "Honig, Marmelade & Co.",
+          "fullPath": [
+            "Grundnahrungsmittel",
+            "Honig, Marmelade & Co."
+          ],
+          "url": "https://shop.billa.at/warengruppe/grundnahrungsmittel/honig-marmelade-und-co/B2-67",
+          "id": "B2-67",
+          "subGroups": {
+            "Honig": {
+              "name": "Honig",
+              "fullPath": [
+                "Grundnahrungsmittel",
+                "Honig, Marmelade & Co.",
+                "Honig"
+              ],
+              "url": "https://shop.billa.at/warengruppe/grundnahrungsmittel/honig-marmelade-und-co/honig/B2-671",
+              "id": "B2-671",
+              "subGroups": null
+            },
+            "Marmeladen & Konfitüren": {
+              "name": "Marmeladen & Konfitüren",
+              "fullPath": [
+                "Grundnahrungsmittel",
+                "Honig, Marmelade & Co.",
+                "Marmeladen & Konfitüren"
+              ],
+              "url": "https://shop.billa.at/warengruppe/grundnahrungsmittel/honig-marmelade-und-co/marmeladen-und-konfitueren/B2-672",
+              "id": "B2-672",
+              "subGroups": null
+            },
+            "Süße Aufstriche": {
+              "name": "Süße Aufstriche",
+              "fullPath": [
+                "Grundnahrungsmittel",
+                "Honig, Marmelade & Co.",
+                "Süße Aufstriche"
+              ],
+              "url": "https://shop.billa.at/warengruppe/grundnahrungsmittel/honig-marmelade-und-co/suesse-aufstriche/B2-673",
+              "id": "B2-673",
+              "subGroups": null
+            }
+          }
+        },
+        "Konserven & Sauerwaren": {
+          "name": "Konserven & Sauerwaren",
+          "fullPath": [
+            "Grundnahrungsmittel",
+            "Konserven & Sauerwaren"
+          ],
+          "url": "https://shop.billa.at/warengruppe/grundnahrungsmittel/konserven-und-sauerwaren/B2-68",
+          "id": "B2-68",
+          "subGroups": {
+            "Aufstriche": {
+              "name": "Aufstriche",
+              "fullPath": [
+                "Grundnahrungsmittel",
+                "Konserven & Sauerwaren",
+                "Aufstriche"
+              ],
+              "url": "https://shop.billa.at/warengruppe/grundnahrungsmittel/konserven-und-sauerwaren/aufstriche/B2-681",
+              "id": "B2-681",
+              "subGroups": null
+            },
+            "Fischkonserven": {
+              "name": "Fischkonserven",
+              "fullPath": [
+                "Grundnahrungsmittel",
+                "Konserven & Sauerwaren",
+                "Fischkonserven"
+              ],
+              "url": "https://shop.billa.at/warengruppe/grundnahrungsmittel/konserven-und-sauerwaren/fischkonserven/B2-682",
+              "id": "B2-682",
+              "subGroups": null
+            },
+            "Hülsenfrüchte": {
+              "name": "Hülsenfrüchte",
+              "fullPath": [
+                "Grundnahrungsmittel",
+                "Konserven & Sauerwaren",
+                "Hülsenfrüchte"
+              ],
+              "url": "https://shop.billa.at/warengruppe/grundnahrungsmittel/konserven-und-sauerwaren/huelsenfruechte/B2-683",
+              "id": "B2-683",
+              "subGroups": null
+            },
+            "Obst & Kompotte": {
+              "name": "Obst & Kompotte",
+              "fullPath": [
+                "Grundnahrungsmittel",
+                "Konserven & Sauerwaren",
+                "Obst & Kompotte"
+              ],
+              "url": "https://shop.billa.at/warengruppe/grundnahrungsmittel/konserven-und-sauerwaren/obst-und-kompotte/B2-684",
+              "id": "B2-684",
+              "subGroups": null
+            },
+            "Sauerkraut": {
+              "name": "Sauerkraut",
+              "fullPath": [
+                "Grundnahrungsmittel",
+                "Konserven & Sauerwaren",
+                "Sauerkraut"
+              ],
+              "url": "https://shop.billa.at/warengruppe/grundnahrungsmittel/konserven-und-sauerwaren/sauerkraut/B2-685",
+              "id": "B2-685",
+              "subGroups": null
+            },
+            "Sauerwaren": {
+              "name": "Sauerwaren",
+              "fullPath": [
+                "Grundnahrungsmittel",
+                "Konserven & Sauerwaren",
+                "Sauerwaren"
+              ],
+              "url": "https://shop.billa.at/warengruppe/grundnahrungsmittel/konserven-und-sauerwaren/sauerwaren/B2-686",
+              "id": "B2-686",
+              "subGroups": null
+            },
+            "Tomatenprodukte": {
+              "name": "Tomatenprodukte",
+              "fullPath": [
+                "Grundnahrungsmittel",
+                "Konserven & Sauerwaren",
+                "Tomatenprodukte"
+              ],
+              "url": "https://shop.billa.at/warengruppe/grundnahrungsmittel/konserven-und-sauerwaren/tomatenprodukte/B2-687",
+              "id": "B2-687",
+              "subGroups": null
+            }
+          }
+        },
+        "Kuchen & Co.": {
+          "name": "Kuchen & Co.",
+          "fullPath": [
+            "Grundnahrungsmittel",
+            "Kuchen & Co."
+          ],
+          "url": "https://shop.billa.at/warengruppe/grundnahrungsmittel/kuchen-und-co/B2-69",
+          "id": "B2-69",
+          "subGroups": {
+            "Frischer Plunder & Strudel": {
+              "name": "Frischer Plunder & Strudel",
+              "fullPath": [
+                "Grundnahrungsmittel",
+                "Kuchen & Co.",
+                "Frischer Plunder & Strudel"
+              ],
+              "url": "https://shop.billa.at/warengruppe/grundnahrungsmittel/kuchen-und-co/frischer-plunder-und-strudel/B2-691",
+              "id": "B2-691",
+              "subGroups": null
+            },
+            "Frischer Kuchen": {
+              "name": "Frischer Kuchen",
+              "fullPath": [
+                "Grundnahrungsmittel",
+                "Kuchen & Co.",
+                "Frischer Kuchen"
+              ],
+              "url": "https://shop.billa.at/warengruppe/grundnahrungsmittel/kuchen-und-co/frischer-kuchen2/B2-692",
+              "id": "B2-692",
+              "subGroups": null
+            },
+            "Kuchen, Strudel & Rouladen": {
+              "name": "Kuchen, Strudel & Rouladen",
+              "fullPath": [
+                "Grundnahrungsmittel",
+                "Kuchen & Co.",
+                "Kuchen, Strudel & Rouladen"
+              ],
+              "url": "https://shop.billa.at/warengruppe/grundnahrungsmittel/kuchen-und-co/kuchen-strudel-und-rouladen2/B2-693",
+              "id": "B2-693",
+              "subGroups": null
+            },
+            "Striezel, Brioche & Croissants": {
+              "name": "Striezel, Brioche & Croissants",
+              "fullPath": [
+                "Grundnahrungsmittel",
+                "Kuchen & Co.",
+                "Striezel, Brioche & Croissants"
+              ],
+              "url": "https://shop.billa.at/warengruppe/grundnahrungsmittel/kuchen-und-co/striezel-brioche-und-croissants2/B2-694",
+              "id": "B2-694",
+              "subGroups": null
+            },
+            "Golatschen, Muffins & Co.": {
+              "name": "Golatschen, Muffins & Co.",
+              "fullPath": [
+                "Grundnahrungsmittel",
+                "Kuchen & Co.",
+                "Golatschen, Muffins & Co."
+              ],
+              "url": "https://shop.billa.at/warengruppe/grundnahrungsmittel/kuchen-und-co/golatschen-muffins-und-co2/B2-695",
+              "id": "B2-695",
+              "subGroups": null
+            },
+            "Krapfen & Brandteiggebäck": {
+              "name": "Krapfen & Brandteiggebäck",
+              "fullPath": [
+                "Grundnahrungsmittel",
+                "Kuchen & Co.",
+                "Krapfen & Brandteiggebäck"
+              ],
+              "url": "https://shop.billa.at/warengruppe/grundnahrungsmittel/kuchen-und-co/krapfen-und-brandteiggebaeck2/B2-696",
+              "id": "B2-696",
+              "subGroups": null
+            }
+          }
+        },
+        "Mehl & Getreideprodukte": {
+          "name": "Mehl & Getreideprodukte",
+          "fullPath": [
+            "Grundnahrungsmittel",
+            "Mehl & Getreideprodukte"
+          ],
+          "url": "https://shop.billa.at/warengruppe/grundnahrungsmittel/mehl-und-getreideprodukte/B2-6A",
+          "id": "B2-6A",
+          "subGroups": {
+            "Brotbackmischungen": {
+              "name": "Brotbackmischungen",
+              "fullPath": [
+                "Grundnahrungsmittel",
+                "Mehl & Getreideprodukte",
+                "Brotbackmischungen"
+              ],
+              "url": "https://shop.billa.at/warengruppe/grundnahrungsmittel/mehl-und-getreideprodukte/brotbackmischungen/B2-6A1",
+              "id": "B2-6A1",
+              "subGroups": null
+            },
+            "Getreideprodukte": {
+              "name": "Getreideprodukte",
+              "fullPath": [
+                "Grundnahrungsmittel",
+                "Mehl & Getreideprodukte",
+                "Getreideprodukte"
+              ],
+              "url": "https://shop.billa.at/warengruppe/grundnahrungsmittel/mehl-und-getreideprodukte/getreideprodukte/B2-6A2",
+              "id": "B2-6A2",
+              "subGroups": null
+            },
+            "Mehl": {
+              "name": "Mehl",
+              "fullPath": [
+                "Grundnahrungsmittel",
+                "Mehl & Getreideprodukte",
+                "Mehl"
+              ],
+              "url": "https://shop.billa.at/warengruppe/grundnahrungsmittel/mehl-und-getreideprodukte/mehl2/B2-6A3",
+              "id": "B2-6A3",
+              "subGroups": null
+            }
+          }
+        },
+        "Müsli & Cerealien": {
+          "name": "Müsli & Cerealien",
+          "fullPath": [
+            "Grundnahrungsmittel",
+            "Müsli & Cerealien"
+          ],
+          "url": "https://shop.billa.at/warengruppe/grundnahrungsmittel/muesli-und-cerealien/B2-6B",
+          "id": "B2-6B",
+          "subGroups": {
+            "Cerealien": {
+              "name": "Cerealien",
+              "fullPath": [
+                "Grundnahrungsmittel",
+                "Müsli & Cerealien",
+                "Cerealien"
+              ],
+              "url": "https://shop.billa.at/warengruppe/grundnahrungsmittel/muesli-und-cerealien/cerealien/B2-6B1",
+              "id": "B2-6B1",
+              "subGroups": null
+            },
+            "Müsli": {
+              "name": "Müsli",
+              "fullPath": [
+                "Grundnahrungsmittel",
+                "Müsli & Cerealien",
+                "Müsli"
+              ],
+              "url": "https://shop.billa.at/warengruppe/grundnahrungsmittel/muesli-und-cerealien/muesli/B2-6B2",
+              "id": "B2-6B2",
+              "subGroups": null
+            },
+            "Müsliriegel": {
+              "name": "Müsliriegel",
+              "fullPath": [
+                "Grundnahrungsmittel",
+                "Müsli & Cerealien",
+                "Müsliriegel"
+              ],
+              "url": "https://shop.billa.at/warengruppe/grundnahrungsmittel/muesli-und-cerealien/muesliriegel2/B2-6B3",
+              "id": "B2-6B3",
+              "subGroups": null
+            }
+          }
+        },
+        "Reis, Teigwaren & Sugo": {
+          "name": "Reis, Teigwaren & Sugo",
+          "fullPath": [
+            "Grundnahrungsmittel",
+            "Reis, Teigwaren & Sugo"
+          ],
+          "url": "https://shop.billa.at/warengruppe/grundnahrungsmittel/reis-teigwaren-und-sugo/B2-6C",
+          "id": "B2-6C",
+          "subGroups": {
+            "Reis": {
+              "name": "Reis",
+              "fullPath": [
+                "Grundnahrungsmittel",
+                "Reis, Teigwaren & Sugo",
+                "Reis"
+              ],
+              "url": "https://shop.billa.at/warengruppe/grundnahrungsmittel/reis-teigwaren-und-sugo/reis/B2-6C1",
+              "id": "B2-6C1",
+              "subGroups": null
+            },
+            "Sugo & Pesto": {
+              "name": "Sugo & Pesto",
+              "fullPath": [
+                "Grundnahrungsmittel",
+                "Reis, Teigwaren & Sugo",
+                "Sugo & Pesto"
+              ],
+              "url": "https://shop.billa.at/warengruppe/grundnahrungsmittel/reis-teigwaren-und-sugo/sugo-und-pesto/B2-6C2",
+              "id": "B2-6C2",
+              "subGroups": null
+            },
+            "Teigwaren": {
+              "name": "Teigwaren",
+              "fullPath": [
+                "Grundnahrungsmittel",
+                "Reis, Teigwaren & Sugo",
+                "Teigwaren"
+              ],
+              "url": "https://shop.billa.at/warengruppe/grundnahrungsmittel/reis-teigwaren-und-sugo/teigwaren/B2-6C3",
+              "id": "B2-6C3",
+              "subGroups": null
+            },
+            "Suppeneinlagen": {
+              "name": "Suppeneinlagen",
+              "fullPath": [
+                "Grundnahrungsmittel",
+                "Reis, Teigwaren & Sugo",
+                "Suppeneinlagen"
+              ],
+              "url": "https://shop.billa.at/warengruppe/grundnahrungsmittel/reis-teigwaren-und-sugo/suppeneinlagen2/B2-6C4",
+              "id": "B2-6C4",
+              "subGroups": null
+            }
+          }
+        },
+        "Saucen & Dressings": {
+          "name": "Saucen & Dressings",
+          "fullPath": [
+            "Grundnahrungsmittel",
+            "Saucen & Dressings"
+          ],
+          "url": "https://shop.billa.at/warengruppe/grundnahrungsmittel/saucen-und-dressings/B2-6D",
+          "id": "B2-6D",
+          "subGroups": {
+            "Dressings": {
+              "name": "Dressings",
+              "fullPath": [
+                "Grundnahrungsmittel",
+                "Saucen & Dressings",
+                "Dressings"
+              ],
+              "url": "https://shop.billa.at/warengruppe/grundnahrungsmittel/saucen-und-dressings/dressings/B2-6D1",
+              "id": "B2-6D1",
+              "subGroups": null
+            },
+            "Ketchup & Mayonnaise": {
+              "name": "Ketchup & Mayonnaise",
+              "fullPath": [
+                "Grundnahrungsmittel",
+                "Saucen & Dressings",
+                "Ketchup & Mayonnaise"
+              ],
+              "url": "https://shop.billa.at/warengruppe/grundnahrungsmittel/saucen-und-dressings/ketchup-und-mayonnaise/B2-6D2",
+              "id": "B2-6D2",
+              "subGroups": null
+            },
+            "Saucen": {
+              "name": "Saucen",
+              "fullPath": [
+                "Grundnahrungsmittel",
+                "Saucen & Dressings",
+                "Saucen"
+              ],
+              "url": "https://shop.billa.at/warengruppe/grundnahrungsmittel/saucen-und-dressings/saucen/B2-6D3",
+              "id": "B2-6D3",
+              "subGroups": null
+            },
+            "Senf & Kren": {
+              "name": "Senf & Kren",
+              "fullPath": [
+                "Grundnahrungsmittel",
+                "Saucen & Dressings",
+                "Senf & Kren"
+              ],
+              "url": "https://shop.billa.at/warengruppe/grundnahrungsmittel/saucen-und-dressings/senf-und-kren/B2-6D4",
+              "id": "B2-6D4",
+              "subGroups": null
+            }
+          }
+        },
+        "Spezielle Ernährung": {
+          "name": "Spezielle Ernährung",
+          "fullPath": [
+            "Grundnahrungsmittel",
+            "Spezielle Ernährung"
+          ],
+          "url": "https://shop.billa.at/warengruppe/grundnahrungsmittel/spezielle-ernaehrung/B2-6E",
+          "id": "B2-6E",
+          "subGroups": {
+            "Glutenfrei": {
+              "name": "Glutenfrei",
+              "fullPath": [
+                "Grundnahrungsmittel",
+                "Spezielle Ernährung",
+                "Glutenfrei"
+              ],
+              "url": "https://shop.billa.at/warengruppe/grundnahrungsmittel/spezielle-ernaehrung/glutenfrei/B2-6E2",
+              "id": "B2-6E2",
+              "subGroups": null
+            },
+            "Laktosefrei": {
+              "name": "Laktosefrei",
+              "fullPath": [
+                "Grundnahrungsmittel",
+                "Spezielle Ernährung",
+                "Laktosefrei"
+              ],
+              "url": "https://shop.billa.at/warengruppe/grundnahrungsmittel/spezielle-ernaehrung/laktosefrei/B2-6E3",
+              "id": "B2-6E3",
+              "subGroups": null
+            },
+            "Reiswaffeln & Vollwert": {
+              "name": "Reiswaffeln & Vollwert",
+              "fullPath": [
+                "Grundnahrungsmittel",
+                "Spezielle Ernährung",
+                "Reiswaffeln & Vollwert"
+              ],
+              "url": "https://shop.billa.at/warengruppe/grundnahrungsmittel/spezielle-ernaehrung/reiswaffeln-und-vollwert/B2-6E4",
+              "id": "B2-6E4",
+              "subGroups": null
+            },
+            "Weight Watchers Produkte": {
+              "name": "Weight Watchers Produkte",
+              "fullPath": [
+                "Grundnahrungsmittel",
+                "Spezielle Ernährung",
+                "Weight Watchers Produkte"
+              ],
+              "url": "https://shop.billa.at/warengruppe/grundnahrungsmittel/spezielle-ernaehrung/weight-watchers-produkte/B2-6E6",
+              "id": "B2-6E6",
+              "subGroups": null
+            },
+            "Nahrungsergänzung": {
+              "name": "Nahrungsergänzung",
+              "fullPath": [
+                "Grundnahrungsmittel",
+                "Spezielle Ernährung",
+                "Nahrungsergänzung"
+              ],
+              "url": "https://shop.billa.at/warengruppe/grundnahrungsmittel/spezielle-ernaehrung/nahrungsergaenzung/B2-6E7",
+              "id": "B2-6E7",
+              "subGroups": null
+            },
+            "Soja, Hafer & Reisdrinks": {
+              "name": "Soja, Hafer & Reisdrinks",
+              "fullPath": [
+                "Grundnahrungsmittel",
+                "Spezielle Ernährung",
+                "Soja, Hafer & Reisdrinks"
+              ],
+              "url": "https://shop.billa.at/warengruppe/grundnahrungsmittel/spezielle-ernaehrung/soja-hafer-und-reisdrinks/B2-6E8",
+              "id": "B2-6E8",
+              "subGroups": null
+            }
+          }
+        },
+        "Zucker & Süßstoffe": {
+          "name": "Zucker & Süßstoffe",
+          "fullPath": [
+            "Grundnahrungsmittel",
+            "Zucker & Süßstoffe"
+          ],
+          "url": "https://shop.billa.at/warengruppe/grundnahrungsmittel/zucker-und-suessstoffe/B2-6F",
+          "id": "B2-6F",
+          "subGroups": {
+            "Zucker": {
+              "name": "Zucker",
+              "fullPath": [
+                "Grundnahrungsmittel",
+                "Zucker & Süßstoffe",
+                "Zucker"
+              ],
+              "url": "https://shop.billa.at/warengruppe/grundnahrungsmittel/zucker-und-suessstoffe/zucker/B2-6F1",
+              "id": "B2-6F1",
+              "subGroups": null
+            },
+            "Süßstoffe": {
+              "name": "Süßstoffe",
+              "fullPath": [
+                "Grundnahrungsmittel",
+                "Zucker & Süßstoffe",
+                "Süßstoffe"
+              ],
+              "url": "https://shop.billa.at/warengruppe/grundnahrungsmittel/zucker-und-suessstoffe/suessstoffe/B2-6F2",
+              "id": "B2-6F2",
+              "subGroups": null
+            },
+            "Gelierhilfe & -Zucker": {
+              "name": "Gelierhilfe & -Zucker",
+              "fullPath": [
+                "Grundnahrungsmittel",
+                "Zucker & Süßstoffe",
+                "Gelierhilfe & -Zucker"
+              ],
+              "url": "https://shop.billa.at/warengruppe/grundnahrungsmittel/zucker-und-suessstoffe/gelierhilfe-und--zucker/B2-6F3",
+              "id": "B2-6F3",
+              "subGroups": null
+            }
+          }
+        },
+        "Fixprodukte": {
+          "name": "Fixprodukte",
+          "fullPath": [
+            "Grundnahrungsmittel",
+            "Fixprodukte"
+          ],
+          "url": "https://shop.billa.at/warengruppe/grundnahrungsmittel/fixprodukte/B2-6G",
+          "id": "B2-6G",
+          "subGroups": {
+            "Basisfixprodukte": {
+              "name": "Basisfixprodukte",
+              "fullPath": [
+                "Grundnahrungsmittel",
+                "Fixprodukte",
+                "Basisfixprodukte"
+              ],
+              "url": "https://shop.billa.at/warengruppe/grundnahrungsmittel/fixprodukte/basisfixprodukte/B2-6G1",
+              "id": "B2-6G1",
+              "subGroups": null
+            },
+            "Teige & Püree": {
+              "name": "Teige & Püree",
+              "fullPath": [
+                "Grundnahrungsmittel",
+                "Fixprodukte",
+                "Teige & Püree"
+              ],
+              "url": "https://shop.billa.at/warengruppe/grundnahrungsmittel/fixprodukte/teige-und-pueree/B2-6G2",
+              "id": "B2-6G2",
+              "subGroups": null
+            },
+            "Basis für Süßes": {
+              "name": "Basis für Süßes",
+              "fullPath": [
+                "Grundnahrungsmittel",
+                "Fixprodukte",
+                "Basis für Süßes"
+              ],
+              "url": "https://shop.billa.at/warengruppe/grundnahrungsmittel/fixprodukte/basis-fuer-suesses/B2-6G3",
+              "id": "B2-6G3",
+              "subGroups": null
+            }
+          }
+        }
+      }
+    },
+    "Süßes & Salziges": {
+      "name": "Süßes & Salziges",
+      "fullPath": [
+        "Süßes & Salziges"
+      ],
+      "url": "https://shop.billa.at/warengruppe/suesses-und-salziges/B2-7",
+      "id": "B2-7",
+      "subGroups": {
+        "Biskotten & Eiswaffeln": {
+          "name": "Biskotten & Eiswaffeln",
+          "fullPath": [
+            "Süßes & Salziges",
+            "Biskotten & Eiswaffeln"
+          ],
+          "url": "https://shop.billa.at/warengruppe/suesses-und-salziges/biskotten-und-eiswaffeln/B2-71",
+          "id": "B2-71",
+          "subGroups": null
+        },
+        "Müsliriegel": {
+          "name": "Müsliriegel",
+          "fullPath": [
+            "Süßes & Salziges",
+            "Müsliriegel"
+          ],
+          "url": "https://shop.billa.at/warengruppe/suesses-und-salziges/muesliriegel/B2-73",
+          "id": "B2-73",
+          "subGroups": null
+        },
+        "Chips & Co.": {
+          "name": "Chips & Co.",
+          "fullPath": [
+            "Süßes & Salziges",
+            "Chips & Co."
+          ],
+          "url": "https://shop.billa.at/warengruppe/suesses-und-salziges/chips-und-co/B2-74",
+          "id": "B2-74",
+          "subGroups": {
+            "Chips": {
+              "name": "Chips",
+              "fullPath": [
+                "Süßes & Salziges",
+                "Chips & Co.",
+                "Chips"
+              ],
+              "url": "https://shop.billa.at/warengruppe/suesses-und-salziges/chips-und-co/chips/B2-741",
+              "id": "B2-741",
+              "subGroups": null
+            },
+            "Knabbereien": {
+              "name": "Knabbereien",
+              "fullPath": [
+                "Süßes & Salziges",
+                "Chips & Co.",
+                "Knabbereien"
+              ],
+              "url": "https://shop.billa.at/warengruppe/suesses-und-salziges/chips-und-co/knabbereien/B2-742",
+              "id": "B2-742",
+              "subGroups": null
+            },
+            "Nüsse": {
+              "name": "Nüsse",
+              "fullPath": [
+                "Süßes & Salziges",
+                "Chips & Co.",
+                "Nüsse"
+              ],
+              "url": "https://shop.billa.at/warengruppe/suesses-und-salziges/chips-und-co/nuesse/B2-743",
+              "id": "B2-743",
+              "subGroups": null
+            },
+            "Nachos & Dips": {
+              "name": "Nachos & Dips",
+              "fullPath": [
+                "Süßes & Salziges",
+                "Chips & Co.",
+                "Nachos & Dips"
+              ],
+              "url": "https://shop.billa.at/warengruppe/suesses-und-salziges/chips-und-co/nachos-und-dips/B2-744",
+              "id": "B2-744",
+              "subGroups": null
+            },
+            "Snacks": {
+              "name": "Snacks",
+              "fullPath": [
+                "Süßes & Salziges",
+                "Chips & Co.",
+                "Snacks"
+              ],
+              "url": "https://shop.billa.at/warengruppe/suesses-und-salziges/chips-und-co/snacks/B2-745",
+              "id": "B2-745",
+              "subGroups": null
+            }
+          }
+        },
+        "Süßes": {
+          "name": "Süßes",
+          "fullPath": [
+            "Süßes & Salziges",
+            "Süßes"
+          ],
+          "url": "https://shop.billa.at/warengruppe/suesses-und-salziges/suesses/B2-75",
+          "id": "B2-75",
+          "subGroups": {
+            "Feingebäck & Kekse": {
+              "name": "Feingebäck & Kekse",
+              "fullPath": [
+                "Süßes & Salziges",
+                "Süßes",
+                "Feingebäck & Kekse"
+              ],
+              "url": "https://shop.billa.at/warengruppe/suesses-und-salziges/suesses/feingebaeck-und-kekse/B2-751",
+              "id": "B2-751",
+              "subGroups": null
+            },
+            "Schokoriegel": {
+              "name": "Schokoriegel",
+              "fullPath": [
+                "Süßes & Salziges",
+                "Süßes",
+                "Schokoriegel"
+              ],
+              "url": "https://shop.billa.at/warengruppe/suesses-und-salziges/suesses/schokoriegel/B2-752",
+              "id": "B2-752",
+              "subGroups": null
+            },
+            "Schokoladentafeln": {
+              "name": "Schokoladentafeln",
+              "fullPath": [
+                "Süßes & Salziges",
+                "Süßes",
+                "Schokoladentafeln"
+              ],
+              "url": "https://shop.billa.at/warengruppe/suesses-und-salziges/suesses/schokoladentafeln/B2-753",
+              "id": "B2-753",
+              "subGroups": null
+            },
+            "Schnitten & Waffeln": {
+              "name": "Schnitten & Waffeln",
+              "fullPath": [
+                "Süßes & Salziges",
+                "Süßes",
+                "Schnitten & Waffeln"
+              ],
+              "url": "https://shop.billa.at/warengruppe/suesses-und-salziges/suesses/schnitten-und-waffeln/B2-754",
+              "id": "B2-754",
+              "subGroups": null
+            },
+            "Kaugummi": {
+              "name": "Kaugummi",
+              "fullPath": [
+                "Süßes & Salziges",
+                "Süßes",
+                "Kaugummi"
+              ],
+              "url": "https://shop.billa.at/warengruppe/suesses-und-salziges/suesses/kaugummi/B2-755",
+              "id": "B2-755",
+              "subGroups": null
+            },
+            "Fruchtgummi": {
+              "name": "Fruchtgummi",
+              "fullPath": [
+                "Süßes & Salziges",
+                "Süßes",
+                "Fruchtgummi"
+              ],
+              "url": "https://shop.billa.at/warengruppe/suesses-und-salziges/suesses/fruchtgummi/B2-756",
+              "id": "B2-756",
+              "subGroups": null
+            },
+            "Zuckerl & Bonbons": {
+              "name": "Zuckerl & Bonbons",
+              "fullPath": [
+                "Süßes & Salziges",
+                "Süßes",
+                "Zuckerl & Bonbons"
+              ],
+              "url": "https://shop.billa.at/warengruppe/suesses-und-salziges/suesses/zuckerl-und-bonbons/B2-757",
+              "id": "B2-757",
+              "subGroups": null
+            },
+            "Süße Spezialitäten": {
+              "name": "Süße Spezialitäten",
+              "fullPath": [
+                "Süßes & Salziges",
+                "Süßes",
+                "Süße Spezialitäten"
+              ],
+              "url": "https://shop.billa.at/warengruppe/suesses-und-salziges/suesses/suesse-spezialitaeten/B2-758",
+              "id": "B2-758",
+              "subGroups": null
+            },
+            "Bonbonniere & Spezialitäten": {
+              "name": "Bonbonniere & Spezialitäten",
+              "fullPath": [
+                "Süßes & Salziges",
+                "Süßes",
+                "Bonbonniere & Spezialitäten"
+              ],
+              "url": "https://shop.billa.at/warengruppe/suesses-und-salziges/suesses/bonbonniere-und-spezialitaeten/B2-759",
+              "id": "B2-759",
+              "subGroups": null
+            },
+            "Eiswaffeln & Biskotten": {
+              "name": "Eiswaffeln & Biskotten",
+              "fullPath": [
+                "Süßes & Salziges",
+                "Süßes",
+                "Eiswaffeln & Biskotten"
+              ],
+              "url": "https://shop.billa.at/warengruppe/suesses-und-salziges/suesses/eiswaffeln-und-biskotten/B2-75A",
+              "id": "B2-75A",
+              "subGroups": null
+            }
+          }
+        }
+      }
+    },
+    "Pflege": {
+      "name": "Pflege",
+      "fullPath": [
+        "Pflege"
+      ],
+      "url": "https://shop.billa.at/warengruppe/pflege/B2-8",
+      "id": "B2-8",
+      "subGroups": {
+        "Deodorants": {
+          "name": "Deodorants",
+          "fullPath": [
+            "Pflege",
+            "Deodorants"
+          ],
+          "url": "https://shop.billa.at/warengruppe/pflege/deodorants/B2-83",
+          "id": "B2-83",
+          "subGroups": null
+        },
+        "Pflaster & Verbandsmaterial": {
+          "name": "Pflaster & Verbandsmaterial",
+          "fullPath": [
+            "Pflege",
+            "Pflaster & Verbandsmaterial"
+          ],
+          "url": "https://shop.billa.at/warengruppe/pflege/pflaster-und-verbandsmaterial/B2-85",
+          "id": "B2-85",
+          "subGroups": null
+        },
+        "Verhütungsmittel": {
+          "name": "Verhütungsmittel",
+          "fullPath": [
+            "Pflege",
+            "Verhütungsmittel"
+          ],
+          "url": "https://shop.billa.at/warengruppe/pflege/verhuetungsmittel/B2-8B",
+          "id": "B2-8B",
+          "subGroups": null
+        },
+        "Fußpflege": {
+          "name": "Fußpflege",
+          "fullPath": [
+            "Pflege",
+            "Fußpflege"
+          ],
+          "url": "https://shop.billa.at/warengruppe/pflege/fusspflege/B2-8C",
+          "id": "B2-8C",
+          "subGroups": null
+        },
+        "Strumpfhosen & Socken": {
+          "name": "Strumpfhosen & Socken",
+          "fullPath": [
+            "Pflege",
+            "Strumpfhosen & Socken"
+          ],
+          "url": "https://shop.billa.at/warengruppe/pflege/strumpfhosen-und-socken/B2-8D",
+          "id": "B2-8D",
+          "subGroups": null
+        },
+        "Baby": {
+          "name": "Baby",
+          "fullPath": [
+            "Pflege",
+            "Baby"
+          ],
+          "url": "https://shop.billa.at/warengruppe/pflege/baby2/B2-81",
+          "id": "B2-81",
+          "subGroups": {
+            "Babypflege": {
+              "name": "Babypflege",
+              "fullPath": [
+                "Pflege",
+                "Baby",
+                "Babypflege"
+              ],
+              "url": "https://shop.billa.at/warengruppe/pflege/baby2/babypflege/B2-811",
+              "id": "B2-811",
+              "subGroups": null
+            },
+            "Feuchttücher": {
+              "name": "Feuchttücher",
+              "fullPath": [
+                "Pflege",
+                "Baby",
+                "Feuchttücher"
+              ],
+              "url": "https://shop.billa.at/warengruppe/pflege/baby2/feuchttuecher/B2-812",
+              "id": "B2-812",
+              "subGroups": null
+            },
+            "Windeln": {
+              "name": "Windeln",
+              "fullPath": [
+                "Pflege",
+                "Baby",
+                "Windeln"
+              ],
+              "url": "https://shop.billa.at/warengruppe/pflege/baby2/windeln/B2-813",
+              "id": "B2-813",
+              "subGroups": null
+            }
+          }
+        },
+        "Damenhygiene": {
+          "name": "Damenhygiene",
+          "fullPath": [
+            "Pflege",
+            "Damenhygiene"
+          ],
+          "url": "https://shop.billa.at/warengruppe/pflege/damenhygiene/B2-82",
+          "id": "B2-82",
+          "subGroups": {
+            "Slipeinlagen": {
+              "name": "Slipeinlagen",
+              "fullPath": [
+                "Pflege",
+                "Damenhygiene",
+                "Slipeinlagen"
+              ],
+              "url": "https://shop.billa.at/warengruppe/pflege/damenhygiene/slipeinlagen/B2-821",
+              "id": "B2-821",
+              "subGroups": null
+            },
+            "Binden": {
+              "name": "Binden",
+              "fullPath": [
+                "Pflege",
+                "Damenhygiene",
+                "Binden"
+              ],
+              "url": "https://shop.billa.at/warengruppe/pflege/damenhygiene/binden/B2-822",
+              "id": "B2-822",
+              "subGroups": null
+            },
+            "Tampons": {
+              "name": "Tampons",
+              "fullPath": [
+                "Pflege",
+                "Damenhygiene",
+                "Tampons"
+              ],
+              "url": "https://shop.billa.at/warengruppe/pflege/damenhygiene/tampons/B2-823",
+              "id": "B2-823",
+              "subGroups": null
+            }
+          }
+        },
+        "Haarpflege & Haarfarben": {
+          "name": "Haarpflege & Haarfarben",
+          "fullPath": [
+            "Pflege",
+            "Haarpflege & Haarfarben"
+          ],
+          "url": "https://shop.billa.at/warengruppe/pflege/haarpflege-und-haarfarben/B2-84",
+          "id": "B2-84",
+          "subGroups": {
+            "Shampoo & Balsam": {
+              "name": "Shampoo & Balsam",
+              "fullPath": [
+                "Pflege",
+                "Haarpflege & Haarfarben",
+                "Shampoo & Balsam"
+              ],
+              "url": "https://shop.billa.at/warengruppe/pflege/haarpflege-und-haarfarben/shampoo-und-balsam/B2-841",
+              "id": "B2-841",
+              "subGroups": null
+            },
+            "Haarspray & Gel": {
+              "name": "Haarspray & Gel",
+              "fullPath": [
+                "Pflege",
+                "Haarpflege & Haarfarben",
+                "Haarspray & Gel"
+              ],
+              "url": "https://shop.billa.at/warengruppe/pflege/haarpflege-und-haarfarben/haarspray-und-gel/B2-842",
+              "id": "B2-842",
+              "subGroups": null
+            },
+            "Haarfarben": {
+              "name": "Haarfarben",
+              "fullPath": [
+                "Pflege",
+                "Haarpflege & Haarfarben",
+                "Haarfarben"
+              ],
+              "url": "https://shop.billa.at/warengruppe/pflege/haarpflege-und-haarfarben/haarfarben/B2-843",
+              "id": "B2-843",
+              "subGroups": null
+            }
+          }
+        },
+        "Haut- & Lippenpflege": {
+          "name": "Haut- & Lippenpflege",
+          "fullPath": [
+            "Pflege",
+            "Haut- & Lippenpflege"
+          ],
+          "url": "https://shop.billa.at/warengruppe/pflege/haut--und-lippenpflege/B2-86",
+          "id": "B2-86",
+          "subGroups": {
+            "Lippenpflege": {
+              "name": "Lippenpflege",
+              "fullPath": [
+                "Pflege",
+                "Haut- & Lippenpflege",
+                "Lippenpflege"
+              ],
+              "url": "https://shop.billa.at/warengruppe/pflege/haut--und-lippenpflege/lippenpflege/B2-861",
+              "id": "B2-861",
+              "subGroups": null
+            },
+            "Gesichtspflege": {
+              "name": "Gesichtspflege",
+              "fullPath": [
+                "Pflege",
+                "Haut- & Lippenpflege",
+                "Gesichtspflege"
+              ],
+              "url": "https://shop.billa.at/warengruppe/pflege/haut--und-lippenpflege/gesichtspflege/B2-862",
+              "id": "B2-862",
+              "subGroups": null
+            },
+            "Hand- & Gesichtscremen": {
+              "name": "Hand- & Gesichtscremen",
+              "fullPath": [
+                "Pflege",
+                "Haut- & Lippenpflege",
+                "Hand- & Gesichtscremen"
+              ],
+              "url": "https://shop.billa.at/warengruppe/pflege/haut--und-lippenpflege/hand--und-gesichtscremen/B2-863",
+              "id": "B2-863",
+              "subGroups": null
+            },
+            "Bodylotion": {
+              "name": "Bodylotion",
+              "fullPath": [
+                "Pflege",
+                "Haut- & Lippenpflege",
+                "Bodylotion"
+              ],
+              "url": "https://shop.billa.at/warengruppe/pflege/haut--und-lippenpflege/bodylotion/B2-864",
+              "id": "B2-864",
+              "subGroups": null
+            },
+            "Nagelpflege & Zubehör": {
+              "name": "Nagelpflege & Zubehör",
+              "fullPath": [
+                "Pflege",
+                "Haut- & Lippenpflege",
+                "Nagelpflege & Zubehör"
+              ],
+              "url": "https://shop.billa.at/warengruppe/pflege/haut--und-lippenpflege/nagelpflege-und-zubehoer/B2-865",
+              "id": "B2-865",
+              "subGroups": null
+            }
+          }
+        },
+        "Mund- & Zahnhygiene": {
+          "name": "Mund- & Zahnhygiene",
+          "fullPath": [
+            "Pflege",
+            "Mund- & Zahnhygiene"
+          ],
+          "url": "https://shop.billa.at/warengruppe/pflege/mund--und-zahnhygiene/B2-87",
+          "id": "B2-87",
+          "subGroups": {
+            "Zahnbürsten & Aufsätze": {
+              "name": "Zahnbürsten & Aufsätze",
+              "fullPath": [
+                "Pflege",
+                "Mund- & Zahnhygiene",
+                "Zahnbürsten & Aufsätze"
+              ],
+              "url": "https://shop.billa.at/warengruppe/pflege/mund--und-zahnhygiene/zahnbuersten-und-aufsaetze/B2-871",
+              "id": "B2-871",
+              "subGroups": null
+            },
+            "Zahnpasten": {
+              "name": "Zahnpasten",
+              "fullPath": [
+                "Pflege",
+                "Mund- & Zahnhygiene",
+                "Zahnpasten"
+              ],
+              "url": "https://shop.billa.at/warengruppe/pflege/mund--und-zahnhygiene/zahnpasten/B2-872",
+              "id": "B2-872",
+              "subGroups": null
+            },
+            "Mundwasser & Kukident": {
+              "name": "Mundwasser & Kukident",
+              "fullPath": [
+                "Pflege",
+                "Mund- & Zahnhygiene",
+                "Mundwasser & Kukident"
+              ],
+              "url": "https://shop.billa.at/warengruppe/pflege/mund--und-zahnhygiene/mundwasser-und-kukident/B2-873",
+              "id": "B2-873",
+              "subGroups": null
+            },
+            "Zahnseide & Zahnstocher": {
+              "name": "Zahnseide & Zahnstocher",
+              "fullPath": [
+                "Pflege",
+                "Mund- & Zahnhygiene",
+                "Zahnseide & Zahnstocher"
+              ],
+              "url": "https://shop.billa.at/warengruppe/pflege/mund--und-zahnhygiene/zahnseide-und-zahnstocher/B2-874",
+              "id": "B2-874",
+              "subGroups": null
+            }
+          }
+        },
+        "Rasierbedarf": {
+          "name": "Rasierbedarf",
+          "fullPath": [
+            "Pflege",
+            "Rasierbedarf"
+          ],
+          "url": "https://shop.billa.at/warengruppe/pflege/rasierbedarf/B2-88",
+          "id": "B2-88",
+          "subGroups": {
+            "Rasierer & Klingen": {
+              "name": "Rasierer & Klingen",
+              "fullPath": [
+                "Pflege",
+                "Rasierbedarf",
+                "Rasierer & Klingen"
+              ],
+              "url": "https://shop.billa.at/warengruppe/pflege/rasierbedarf/rasierer-und-klingen/B2-881",
+              "id": "B2-881",
+              "subGroups": null
+            },
+            "Enthaarungsmittel": {
+              "name": "Enthaarungsmittel",
+              "fullPath": [
+                "Pflege",
+                "Rasierbedarf",
+                "Enthaarungsmittel"
+              ],
+              "url": "https://shop.billa.at/warengruppe/pflege/rasierbedarf/enthaarungsmittel/B2-882",
+              "id": "B2-882",
+              "subGroups": null
+            },
+            "Rasierschaum & -Gel": {
+              "name": "Rasierschaum & -Gel",
+              "fullPath": [
+                "Pflege",
+                "Rasierbedarf",
+                "Rasierschaum & -Gel"
+              ],
+              "url": "https://shop.billa.at/warengruppe/pflege/rasierbedarf/rasierschaum-und--gel/B2-883",
+              "id": "B2-883",
+              "subGroups": null
+            },
+            "After Shave": {
+              "name": "After Shave",
+              "fullPath": [
+                "Pflege",
+                "Rasierbedarf",
+                "After Shave"
+              ],
+              "url": "https://shop.billa.at/warengruppe/pflege/rasierbedarf/after-shave/B2-884",
+              "id": "B2-884",
+              "subGroups": null
+            }
+          }
+        },
+        "Seife & Duschbäder": {
+          "name": "Seife & Duschbäder",
+          "fullPath": [
+            "Pflege",
+            "Seife & Duschbäder"
+          ],
+          "url": "https://shop.billa.at/warengruppe/pflege/seife-und-duschbaeder/B2-89",
+          "id": "B2-89",
+          "subGroups": {
+            "Duschgel": {
+              "name": "Duschgel",
+              "fullPath": [
+                "Pflege",
+                "Seife & Duschbäder",
+                "Duschgel"
+              ],
+              "url": "https://shop.billa.at/warengruppe/pflege/seife-und-duschbaeder/duschgel/B2-891",
+              "id": "B2-891",
+              "subGroups": null
+            },
+            "Duschbäder & Badezusätze": {
+              "name": "Duschbäder & Badezusätze",
+              "fullPath": [
+                "Pflege",
+                "Seife & Duschbäder",
+                "Duschbäder & Badezusätze"
+              ],
+              "url": "https://shop.billa.at/warengruppe/pflege/seife-und-duschbaeder/duschbaeder-und-badezusaetze/B2-892",
+              "id": "B2-892",
+              "subGroups": null
+            },
+            "Seifen": {
+              "name": "Seifen",
+              "fullPath": [
+                "Pflege",
+                "Seife & Duschbäder",
+                "Seifen"
+              ],
+              "url": "https://shop.billa.at/warengruppe/pflege/seife-und-duschbaeder/seifen/B2-893",
+              "id": "B2-893",
+              "subGroups": null
+            }
+          }
+        },
+        "Sonnen- & Gelsenschutzmittel": {
+          "name": "Sonnen- & Gelsenschutzmittel",
+          "fullPath": [
+            "Pflege",
+            "Sonnen- & Gelsenschutzmittel"
+          ],
+          "url": "https://shop.billa.at/warengruppe/pflege/sonnen--und-gelsenschutzmittel/B2-8A",
+          "id": "B2-8A",
+          "subGroups": {
+            "Sonnenschutzmittel": {
+              "name": "Sonnenschutzmittel",
+              "fullPath": [
+                "Pflege",
+                "Sonnen- & Gelsenschutzmittel",
+                "Sonnenschutzmittel"
+              ],
+              "url": "https://shop.billa.at/warengruppe/pflege/sonnen--und-gelsenschutzmittel/sonnenschutzmittel/B2-8A1",
+              "id": "B2-8A1",
+              "subGroups": null
+            },
+            "Apres Lotion & Selbstbräuner": {
+              "name": "Apres Lotion & Selbstbräuner",
+              "fullPath": [
+                "Pflege",
+                "Sonnen- & Gelsenschutzmittel",
+                "Apres Lotion & Selbstbräuner"
+              ],
+              "url": "https://shop.billa.at/warengruppe/pflege/sonnen--und-gelsenschutzmittel/apres-lotion-und-selbstbraeuner/B2-8A2",
+              "id": "B2-8A2",
+              "subGroups": null
+            },
+            "Gelsenschutzmittel": {
+              "name": "Gelsenschutzmittel",
+              "fullPath": [
+                "Pflege",
+                "Sonnen- & Gelsenschutzmittel",
+                "Gelsenschutzmittel"
+              ],
+              "url": "https://shop.billa.at/warengruppe/pflege/sonnen--und-gelsenschutzmittel/gelsenschutzmittel/B2-8A3",
+              "id": "B2-8A3",
+              "subGroups": null
+            }
+          }
+        }
+      }
+    },
+    "Haushalt": {
+      "name": "Haushalt",
+      "fullPath": [
+        "Haushalt"
+      ],
+      "url": "https://shop.billa.at/warengruppe/haushalt/B2-9",
+      "id": "B2-9",
+      "subGroups": {
+        "Büro- & Schulartikel": {
+          "name": "Büro- & Schulartikel",
+          "fullPath": [
+            "Haushalt",
+            "Büro- & Schulartikel"
+          ],
+          "url": "https://shop.billa.at/warengruppe/haushalt/buero--und-schulartikel/B2-91",
+          "id": "B2-91",
+          "subGroups": null
+        },
+        "Müllsäcke, Gefrierbeutel & Co.": {
+          "name": "Müllsäcke, Gefrierbeutel & Co.",
+          "fullPath": [
+            "Haushalt",
+            "Müllsäcke, Gefrierbeutel & Co."
+          ],
+          "url": "https://shop.billa.at/warengruppe/haushalt/muellsaecke-gefrierbeutel-und-co/B2-97",
+          "id": "B2-97",
+          "subGroups": null
+        },
+        "Schuhpflege": {
+          "name": "Schuhpflege",
+          "fullPath": [
+            "Haushalt",
+            "Schuhpflege"
+          ],
+          "url": "https://shop.billa.at/warengruppe/haushalt/schuhpflege/B2-9C",
+          "id": "B2-9C",
+          "subGroups": null
+        },
+        "Insektenschutz": {
+          "name": "Insektenschutz",
+          "fullPath": [
+            "Haushalt",
+            "Insektenschutz"
+          ],
+          "url": "https://shop.billa.at/warengruppe/haushalt/insektenschutz/B2-9E",
+          "id": "B2-9E",
+          "subGroups": null
+        },
+        "Spielwaren": {
+          "name": "Spielwaren",
+          "fullPath": [
+            "Haushalt",
+            "Spielwaren"
+          ],
+          "url": "https://shop.billa.at/warengruppe/haushalt/spielwaren/B2-9F",
+          "id": "B2-9F",
+          "subGroups": null
+        },
+        "Hygiene-Schutzartikel": {
+          "name": "Hygiene-Schutzartikel",
+          "fullPath": [
+            "Haushalt",
+            "Hygiene-Schutzartikel"
+          ],
+          "url": "https://shop.billa.at/warengruppe/haushalt/hygiene-schutzartikel/B2-9G",
+          "id": "B2-9G",
+          "subGroups": null
+        },
+        "Garten": {
+          "name": "Garten",
+          "fullPath": [
+            "Haushalt",
+            "Garten"
+          ],
+          "url": "https://shop.billa.at/warengruppe/haushalt/garten/B2-92",
+          "id": "B2-92",
+          "subGroups": {
+            "Pflanzenpflege": {
+              "name": "Pflanzenpflege",
+              "fullPath": [
+                "Haushalt",
+                "Garten",
+                "Pflanzenpflege"
+              ],
+              "url": "https://shop.billa.at/warengruppe/haushalt/garten/pflanzenpflege/B2-922",
+              "id": "B2-922",
+              "subGroups": null
+            },
+            "Blumenerde": {
+              "name": "Blumenerde",
+              "fullPath": [
+                "Haushalt",
+                "Garten",
+                "Blumenerde"
+              ],
+              "url": "https://shop.billa.at/warengruppe/haushalt/garten/blumenerde/B2-925",
+              "id": "B2-925",
+              "subGroups": null
+            }
+          }
+        },
+        "Kleben & Befestigen": {
+          "name": "Kleben & Befestigen",
+          "fullPath": [
+            "Haushalt",
+            "Kleben & Befestigen"
+          ],
+          "url": "https://shop.billa.at/warengruppe/haushalt/kleben-und-befestigen/B2-93",
+          "id": "B2-93",
+          "subGroups": {
+            "Klebstoffe": {
+              "name": "Klebstoffe",
+              "fullPath": [
+                "Haushalt",
+                "Kleben & Befestigen",
+                "Klebstoffe"
+              ],
+              "url": "https://shop.billa.at/warengruppe/haushalt/kleben-und-befestigen/klebstoffe/B2-931",
+              "id": "B2-931",
+              "subGroups": null
+            },
+            "Tesafilm & Klebebänder": {
+              "name": "Tesafilm & Klebebänder",
+              "fullPath": [
+                "Haushalt",
+                "Kleben & Befestigen",
+                "Tesafilm & Klebebänder"
+              ],
+              "url": "https://shop.billa.at/warengruppe/haushalt/kleben-und-befestigen/tesafilm-und-klebebaender/B2-932",
+              "id": "B2-932",
+              "subGroups": null
+            }
+          }
+        },
+        "Küchenartikel": {
+          "name": "Küchenartikel",
+          "fullPath": [
+            "Haushalt",
+            "Küchenartikel"
+          ],
+          "url": "https://shop.billa.at/warengruppe/haushalt/kuechenartikel/B2-94",
+          "id": "B2-94",
+          "subGroups": {
+            "Gläser & Besteck": {
+              "name": "Gläser & Besteck",
+              "fullPath": [
+                "Haushalt",
+                "Küchenartikel",
+                "Gläser & Besteck"
+              ],
+              "url": "https://shop.billa.at/warengruppe/haushalt/kuechenartikel/glaeser-und-besteck/B2-942",
+              "id": "B2-942",
+              "subGroups": null
+            },
+            "Küchenhilfen": {
+              "name": "Küchenhilfen",
+              "fullPath": [
+                "Haushalt",
+                "Küchenartikel",
+                "Küchenhilfen"
+              ],
+              "url": "https://shop.billa.at/warengruppe/haushalt/kuechenartikel/kuechenhilfen/B2-943",
+              "id": "B2-943",
+              "subGroups": null
+            },
+            "Partyartikel": {
+              "name": "Partyartikel",
+              "fullPath": [
+                "Haushalt",
+                "Küchenartikel",
+                "Partyartikel"
+              ],
+              "url": "https://shop.billa.at/warengruppe/haushalt/kuechenartikel/partyartikel/B2-949",
+              "id": "B2-949",
+              "subGroups": null
+            },
+            "Filter & Entkalker": {
+              "name": "Filter & Entkalker",
+              "fullPath": [
+                "Haushalt",
+                "Küchenartikel",
+                "Filter & Entkalker"
+              ],
+              "url": "https://shop.billa.at/warengruppe/haushalt/kuechenartikel/filter-und-entkalker/B2-94A",
+              "id": "B2-94A",
+              "subGroups": null
+            }
+          }
+        },
+        "Küchenrollen & WC-Papier": {
+          "name": "Küchenrollen & WC-Papier",
+          "fullPath": [
+            "Haushalt",
+            "Küchenrollen & WC-Papier"
+          ],
+          "url": "https://shop.billa.at/warengruppe/haushalt/kuechenrollen-und-wc-papier/B2-95",
+          "id": "B2-95",
+          "subGroups": {
+            "WC-Papier": {
+              "name": "WC-Papier",
+              "fullPath": [
+                "Haushalt",
+                "Küchenrollen & WC-Papier",
+                "WC-Papier"
+              ],
+              "url": "https://shop.billa.at/warengruppe/haushalt/kuechenrollen-und-wc-papier/wc-papier/B2-951",
+              "id": "B2-951",
+              "subGroups": null
+            },
+            "Feuchtes WC-Papier": {
+              "name": "Feuchtes WC-Papier",
+              "fullPath": [
+                "Haushalt",
+                "Küchenrollen & WC-Papier",
+                "Feuchtes WC-Papier"
+              ],
+              "url": "https://shop.billa.at/warengruppe/haushalt/kuechenrollen-und-wc-papier/feuchtes-wc-papier/B2-952",
+              "id": "B2-952",
+              "subGroups": null
+            },
+            "Küchenrollen": {
+              "name": "Küchenrollen",
+              "fullPath": [
+                "Haushalt",
+                "Küchenrollen & WC-Papier",
+                "Küchenrollen"
+              ],
+              "url": "https://shop.billa.at/warengruppe/haushalt/kuechenrollen-und-wc-papier/kuechenrollen/B2-953",
+              "id": "B2-953",
+              "subGroups": null
+            }
+          }
+        },
+        "Lampen & Batterien": {
+          "name": "Lampen & Batterien",
+          "fullPath": [
+            "Haushalt",
+            "Lampen & Batterien"
+          ],
+          "url": "https://shop.billa.at/warengruppe/haushalt/lampen-und-batterien/B2-96",
+          "id": "B2-96",
+          "subGroups": {
+            "Batterien": {
+              "name": "Batterien",
+              "fullPath": [
+                "Haushalt",
+                "Lampen & Batterien",
+                "Batterien"
+              ],
+              "url": "https://shop.billa.at/warengruppe/haushalt/lampen-und-batterien/batterien/B2-962",
+              "id": "B2-962",
+              "subGroups": null
+            }
+          }
+        },
+        "Raumsprays & Kerzen": {
+          "name": "Raumsprays & Kerzen",
+          "fullPath": [
+            "Haushalt",
+            "Raumsprays & Kerzen"
+          ],
+          "url": "https://shop.billa.at/warengruppe/haushalt/raumsprays-und-kerzen/B2-98",
+          "id": "B2-98",
+          "subGroups": {
+            "Raumsprays & Lufterfrischer": {
+              "name": "Raumsprays & Lufterfrischer",
+              "fullPath": [
+                "Haushalt",
+                "Raumsprays & Kerzen",
+                "Raumsprays & Lufterfrischer"
+              ],
+              "url": "https://shop.billa.at/warengruppe/haushalt/raumsprays-und-kerzen/raumsprays-und-lufterfrischer/B2-981",
+              "id": "B2-981",
+              "subGroups": null
+            },
+            "Duftkerzen & Kerzen": {
+              "name": "Duftkerzen & Kerzen",
+              "fullPath": [
+                "Haushalt",
+                "Raumsprays & Kerzen",
+                "Duftkerzen & Kerzen"
+              ],
+              "url": "https://shop.billa.at/warengruppe/haushalt/raumsprays-und-kerzen/duftkerzen-und-kerzen/B2-982",
+              "id": "B2-982",
+              "subGroups": null
+            },
+            "Grablichter": {
+              "name": "Grablichter",
+              "fullPath": [
+                "Haushalt",
+                "Raumsprays & Kerzen",
+                "Grablichter"
+              ],
+              "url": "https://shop.billa.at/warengruppe/haushalt/raumsprays-und-kerzen/grablichter/B2-983",
+              "id": "B2-983",
+              "subGroups": null
+            }
+          }
+        },
+        "Reinigen & Pflegen": {
+          "name": "Reinigen & Pflegen",
+          "fullPath": [
+            "Haushalt",
+            "Reinigen & Pflegen"
+          ],
+          "url": "https://shop.billa.at/warengruppe/haushalt/reinigen-und-pflegen/B2-99",
+          "id": "B2-99",
+          "subGroups": {
+            "Geschirrspülmittel": {
+              "name": "Geschirrspülmittel",
+              "fullPath": [
+                "Haushalt",
+                "Reinigen & Pflegen",
+                "Geschirrspülmittel"
+              ],
+              "url": "https://shop.billa.at/warengruppe/haushalt/reinigen-und-pflegen/geschirrspuelmittel/B2-991",
+              "id": "B2-991",
+              "subGroups": null
+            },
+            "Diverse Haushaltsreiniger": {
+              "name": "Diverse Haushaltsreiniger",
+              "fullPath": [
+                "Haushalt",
+                "Reinigen & Pflegen",
+                "Diverse Haushaltsreiniger"
+              ],
+              "url": "https://shop.billa.at/warengruppe/haushalt/reinigen-und-pflegen/diverse-haushaltsreiniger/B2-992",
+              "id": "B2-992",
+              "subGroups": null
+            },
+            "WC- & Badreiniger": {
+              "name": "WC- & Badreiniger",
+              "fullPath": [
+                "Haushalt",
+                "Reinigen & Pflegen",
+                "WC- & Badreiniger"
+              ],
+              "url": "https://shop.billa.at/warengruppe/haushalt/reinigen-und-pflegen/wc--und-badreiniger/B2-993",
+              "id": "B2-993",
+              "subGroups": null
+            },
+            "Reinigungsgeräte & Tücher": {
+              "name": "Reinigungsgeräte & Tücher",
+              "fullPath": [
+                "Haushalt",
+                "Reinigen & Pflegen",
+                "Reinigungsgeräte & Tücher"
+              ],
+              "url": "https://shop.billa.at/warengruppe/haushalt/reinigen-und-pflegen/reinigungsgeraete-und-tuecher/B2-994",
+              "id": "B2-994",
+              "subGroups": null
+            }
+          }
+        },
+        "Taschentücher & Servietten": {
+          "name": "Taschentücher & Servietten",
+          "fullPath": [
+            "Haushalt",
+            "Taschentücher & Servietten"
+          ],
+          "url": "https://shop.billa.at/warengruppe/haushalt/taschentuecher-und-servietten/B2-9A",
+          "id": "B2-9A",
+          "subGroups": {
+            "Taschentücher": {
+              "name": "Taschentücher",
+              "fullPath": [
+                "Haushalt",
+                "Taschentücher & Servietten",
+                "Taschentücher"
+              ],
+              "url": "https://shop.billa.at/warengruppe/haushalt/taschentuecher-und-servietten/taschentuecher/B2-9A1",
+              "id": "B2-9A1",
+              "subGroups": null
+            },
+            "Servietten": {
+              "name": "Servietten",
+              "fullPath": [
+                "Haushalt",
+                "Taschentücher & Servietten",
+                "Servietten"
+              ],
+              "url": "https://shop.billa.at/warengruppe/haushalt/taschentuecher-und-servietten/servietten/B2-9A2",
+              "id": "B2-9A2",
+              "subGroups": null
+            }
+          }
+        },
+        "Waschmittel & Weichspüler": {
+          "name": "Waschmittel & Weichspüler",
+          "fullPath": [
+            "Haushalt",
+            "Waschmittel & Weichspüler"
+          ],
+          "url": "https://shop.billa.at/warengruppe/haushalt/waschmittel-und-weichspueler/B2-9B",
+          "id": "B2-9B",
+          "subGroups": {
+            "Waschmittel": {
+              "name": "Waschmittel",
+              "fullPath": [
+                "Haushalt",
+                "Waschmittel & Weichspüler",
+                "Waschmittel"
+              ],
+              "url": "https://shop.billa.at/warengruppe/haushalt/waschmittel-und-weichspueler/waschmittel/B2-9B1",
+              "id": "B2-9B1",
+              "subGroups": null
+            },
+            "Weichspüler": {
+              "name": "Weichspüler",
+              "fullPath": [
+                "Haushalt",
+                "Waschmittel & Weichspüler",
+                "Weichspüler"
+              ],
+              "url": "https://shop.billa.at/warengruppe/haushalt/waschmittel-und-weichspueler/weichspueler/B2-9B2",
+              "id": "B2-9B2",
+              "subGroups": null
+            },
+            "Flecken- & Vorwaschmittel": {
+              "name": "Flecken- & Vorwaschmittel",
+              "fullPath": [
+                "Haushalt",
+                "Waschmittel & Weichspüler",
+                "Flecken- & Vorwaschmittel"
+              ],
+              "url": "https://shop.billa.at/warengruppe/haushalt/waschmittel-und-weichspueler/flecken--und-vorwaschmittel/B2-9B3",
+              "id": "B2-9B3",
+              "subGroups": null
+            },
+            "Pflege": {
+              "name": "Pflege",
+              "fullPath": [
+                "Haushalt",
+                "Waschmittel & Weichspüler",
+                "Pflege"
+              ],
+              "url": "https://shop.billa.at/warengruppe/haushalt/waschmittel-und-weichspueler/pflege2/B2-9B4",
+              "id": "B2-9B4",
+              "subGroups": null
+            }
+          }
+        }
+      }
+    },
+    "Haustier": {
+      "name": "Haustier",
+      "fullPath": [
+        "Haustier"
+      ],
+      "url": "https://shop.billa.at/warengruppe/haustier/B2-A",
+      "id": "B2-A",
+      "subGroups": {
+        "Nager": {
+          "name": "Nager",
+          "fullPath": [
+            "Haustier",
+            "Nager"
+          ],
+          "url": "https://shop.billa.at/warengruppe/haustier/nager/B2-A3",
+          "id": "B2-A3",
+          "subGroups": null
+        },
+        "Vögel": {
+          "name": "Vögel",
+          "fullPath": [
+            "Haustier",
+            "Vögel"
+          ],
+          "url": "https://shop.billa.at/warengruppe/haustier/voegel/B2-A4",
+          "id": "B2-A4",
+          "subGroups": null
+        },
+        "Hunde": {
+          "name": "Hunde",
+          "fullPath": [
+            "Haustier",
+            "Hunde"
+          ],
+          "url": "https://shop.billa.at/warengruppe/haustier/hunde/B2-A1",
+          "id": "B2-A1",
+          "subGroups": {
+            "Nassfutter": {
+              "name": "Nassfutter",
+              "fullPath": [
+                "Haustier",
+                "Hunde",
+                "Nassfutter"
+              ],
+              "url": "https://shop.billa.at/warengruppe/haustier/hunde/nassfutter2/B2-A11",
+              "id": "B2-A11",
+              "subGroups": null
+            },
+            "Trockenfutter": {
+              "name": "Trockenfutter",
+              "fullPath": [
+                "Haustier",
+                "Hunde",
+                "Trockenfutter"
+              ],
+              "url": "https://shop.billa.at/warengruppe/haustier/hunde/trockenfutter2/B2-A12",
+              "id": "B2-A12",
+              "subGroups": null
+            },
+            "Hunde Snacks": {
+              "name": "Hunde Snacks",
+              "fullPath": [
+                "Haustier",
+                "Hunde",
+                "Hunde Snacks"
+              ],
+              "url": "https://shop.billa.at/warengruppe/haustier/hunde/hunde-snacks/B2-A13",
+              "id": "B2-A13",
+              "subGroups": null
+            }
+          }
+        },
+        "Katzen": {
+          "name": "Katzen",
+          "fullPath": [
+            "Haustier",
+            "Katzen"
+          ],
+          "url": "https://shop.billa.at/warengruppe/haustier/katzen/B2-A2",
+          "id": "B2-A2",
+          "subGroups": {
+            "Nassfutter": {
+              "name": "Nassfutter",
+              "fullPath": [
+                "Haustier",
+                "Katzen",
+                "Nassfutter"
+              ],
+              "url": "https://shop.billa.at/warengruppe/haustier/katzen/nassfutter/B2-A21",
+              "id": "B2-A21",
+              "subGroups": null
+            },
+            "Trockenfutter": {
+              "name": "Trockenfutter",
+              "fullPath": [
+                "Haustier",
+                "Katzen",
+                "Trockenfutter"
+              ],
+              "url": "https://shop.billa.at/warengruppe/haustier/katzen/trockenfutter/B2-A22",
+              "id": "B2-A22",
+              "subGroups": null
+            },
+            "Katzenstreu": {
+              "name": "Katzenstreu",
+              "fullPath": [
+                "Haustier",
+                "Katzen",
+                "Katzenstreu"
+              ],
+              "url": "https://shop.billa.at/warengruppe/haustier/katzen/katzenstreu/B2-A23",
+              "id": "B2-A23",
+              "subGroups": null
+            },
+            "Katzen Snacks": {
+              "name": "Katzen Snacks",
+              "fullPath": [
+                "Haustier",
+                "Katzen",
+                "Katzen Snacks"
+              ],
+              "url": "https://shop.billa.at/warengruppe/haustier/katzen/katzen-snacks/B2-A24",
+              "id": "B2-A24",
+              "subGroups": null
+            },
+            "Katzenzubehör": {
+              "name": "Katzenzubehör",
+              "fullPath": [
+                "Haustier",
+                "Katzen",
+                "Katzenzubehör"
+              ],
+              "url": "https://shop.billa.at/warengruppe/haustier/katzen/katzenzubehoer/B2-A25",
+              "id": "B2-A25",
+              "subGroups": null
+            }
+          }
+        }
+      }
+    },
+    "Geschenkideen": {
+      "name": "Geschenkideen",
+      "fullPath": [
+        "Geschenkideen"
+      ],
+      "url": "https://shop.billa.at/warengruppe/geschenkideen/B2-E",
+      "id": "B2-E",
+      "subGroups": {
+        "Geschenksideen": {
+          "name": "Geschenksideen",
+          "fullPath": [
+            "Geschenkideen",
+            "Geschenksideen"
+          ],
+          "url": "https://shop.billa.at/warengruppe/geschenkideen/geschenksideen/B2-E2",
+          "id": "B2-E2",
+          "subGroups": {
+            "Sekt & Champagner": {
+              "name": "Sekt & Champagner",
+              "fullPath": [
+                "Geschenkideen",
+                "Geschenksideen",
+                "Sekt & Champagner"
+              ],
+              "url": "https://shop.billa.at/warengruppe/geschenkideen/geschenksideen/sekt-und-champagner2/B2-E20",
+              "id": "B2-E20",
+              "subGroups": null
+            },
+            "Bonbonniere": {
+              "name": "Bonbonniere",
+              "fullPath": [
+                "Geschenkideen",
+                "Geschenksideen",
+                "Bonbonniere"
+              ],
+              "url": "https://shop.billa.at/warengruppe/geschenkideen/geschenksideen/bonbonniere/B2-E21",
+              "id": "B2-E21",
+              "subGroups": null
+            },
+            "Spirituosen": {
+              "name": "Spirituosen",
+              "fullPath": [
+                "Geschenkideen",
+                "Geschenksideen",
+                "Spirituosen"
+              ],
+              "url": "https://shop.billa.at/warengruppe/geschenkideen/geschenksideen/spirituosen/B2-E24",
+              "id": "B2-E24",
+              "subGroups": null
+            }
+          }
+        }
+      }
+    }
+  }
