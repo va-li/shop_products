@@ -1,17 +1,15 @@
-from itertools import product
-from turtle import down
 import scrapy
 import json
 
 
-class BillaProductsSpider(scrapy.Spider):
-    name = 'billa_products'
+class BillaProductDetailsSpider(scrapy.Spider):
+    name = 'billa_product_details'
 
     def start_requests(self):
         yield scrapy.Request('http://checkip.dyndns.org/', callback=self.log_ip)
         
         product_groups = None
-        with open('./billa_product_groups_flat.json', 'r') as file:
+        with open('./resources/billa_product_groups_flat.json', 'r') as file:
             product_groups = json.load(file)
         
         for g_name, g in product_groups.items():

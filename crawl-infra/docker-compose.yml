@@ -1,14 +1,13 @@
 version: "3.4"
 services:
 
-  
   crawler:
-    build: ./shop_products
+    build: ./crawler
     network_mode: service:openvpn-client
     depends_on:
       - openvpn-client
     volumes:
-      - products:/usr/src/app/shop_products/data
+      - crawler_downloads:/usr/src/crawler/downloads
 
   openvpn-client:
     image: ghcr.io/wfg/openvpn-client
@@ -20,8 +19,8 @@ services:
     environment:
       - VPN_CONFIG_FILE=config.ovpn
     volumes:
-      - /home/vbauer/Mega/Projects/BillaProducts/vpn:/data/vpn
+      - /home/vbauer/Mega/Projects/shop_products/crawl-infra/vpn:/data/vpn
     restart: unless-stopped
 
 volumes:
-  products:
+  crawler_downloads:

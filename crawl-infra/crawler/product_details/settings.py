@@ -1,4 +1,4 @@
-# Scrapy settings for shop_products project
+# Scrapy settings for product_details project
 #
 # For simplicity, this file contains only settings considered important or
 # commonly used. You can find more settings consulting the documentation:
@@ -7,15 +7,15 @@
 #     https://docs.scrapy.org/en/latest/topics/downloader-middleware.html
 #     https://docs.scrapy.org/en/latest/topics/spider-middleware.html
 
-BOT_NAME = 'shop_products'
+BOT_NAME = 'product_details'
 
-SPIDER_MODULES = ['shop_products.spiders']
-NEWSPIDER_MODULE = 'shop_products.spiders'
+SPIDER_MODULES = ['product_details.spiders']
+NEWSPIDER_MODULE = 'product_details.spiders'
 
 LOG_LEVEL = 'INFO'
 
 # Crawl responsibly by identifying yourself (and your website) on the user-agent
-#USER_AGENT = 'shop_products (+http://www.yourdomain.com)'
+#USER_AGENT = 'product_details (+http://www.yourdomain.com)'
 
 # Obey robots.txt rules
 ROBOTSTXT_OBEY = True
@@ -46,13 +46,13 @@ CONCURRENT_REQUESTS_PER_DOMAIN = 16
 # Enable or disable spider middlewares
 # See https://docs.scrapy.org/en/latest/topics/spider-middleware.html
 #SPIDER_MIDDLEWARES = {
-#    'shop_products.middlewares.ShopProductsSpiderMiddleware': 543,
+#    'product_details.middlewares.ProductDetailsSpiderMiddleware': 543,
 #}
 
 # Enable or disable downloader middlewares
 # See https://docs.scrapy.org/en/latest/topics/downloader-middleware.html
 #DOWNLOADER_MIDDLEWARES = {
-#    'shop_products.middlewares.ShopProductsDownloaderMiddleware': 543,
+#    'product_details.middlewares.ProductDetailsDownloaderMiddleware': 543,
 #}
 
 # Enable or disable extensions
@@ -64,7 +64,7 @@ CONCURRENT_REQUESTS_PER_DOMAIN = 16
 # Configure item pipelines
 # See https://docs.scrapy.org/en/latest/topics/item-pipeline.html
 #ITEM_PIPELINES = {
-#    'shop_products.pipelines.ShopProductsPipeline': 300,
+#    'product_details.pipelines.ProductDetailsPipeline': 300,
 #}
 
 # Enable and configure the AutoThrottle extension (disabled by default)
