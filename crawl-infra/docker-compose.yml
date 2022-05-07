@@ -10,7 +10,7 @@ services:
       - /home/vbauer/Mega/Projects/shop_products/crawler_downloads:/usr/src/crawler/downloads
 
   openvpn-client:
-    image: ghcr.io/wfg/openvpn-client
+    build: ./vpn
     container_name: openvpn-client
     cap_add:
       - NET_ADMIN
@@ -18,6 +18,4 @@ services:
       - /dev/net/tun
     environment:
       - VPN_CONFIG_FILE=config.ovpn
-    volumes:
-      - /home/vbauer/Mega/Projects/shop_products/crawl-infra/vpn:/data/vpn
     restart: unless-stopped
