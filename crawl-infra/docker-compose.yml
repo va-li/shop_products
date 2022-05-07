@@ -7,7 +7,10 @@ services:
     depends_on:
       - openvpn-client
     volumes:
-      - /home/vbauer/Mega/Projects/shop_products/crawler_downloads:/usr/src/crawler/downloads
+      - /home/vbauer/crawler/data:/crawler/data
+    environment:
+      - PRODUCTS_BILLA_DB=/crawler/data/products_billa.sqlite3
+      - SCRAPY_DELAY=5
 
   openvpn-client:
     build: ./vpn
