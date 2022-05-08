@@ -12,4 +12,4 @@ RUN pip install --no-cache-dir -r requirements.txt
 
 COPY . .
 
-CMD sleep $SCRAPY_DELAY && scrapy crawl billa_product_prices
+CMD ["python3", "crawl_scheduler.py"]

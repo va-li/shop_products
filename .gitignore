@@ -3,3 +3,5 @@ passfile
 config.ovpn
 config.ovpn.modified
 crawler_downloads/
+dev-data/
+**/__pycache__/

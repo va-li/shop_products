@@ -14,7 +14,7 @@ import time
 class StoreBillaProductPriceSqlite(object):
     def open_spider(self, spider):
         
-        db_path         = os.getenv('PRODUCTS_BILLA_DB')
+        db_path         = os.getenv('PRODUCTS_BILLA_DB', '/home/vbauer/Mega/Projects/shop_products/crawl-infra/crawler/products/dev-data/products_billa.sqlite3')
         db_mode         = 'rw'
         db_uri          = f'file:{db_path}?mode={db_mode}'
         
@@ -61,5 +61,5 @@ class StoreBillaProductPriceSqlite(object):
                 ''',
                 (articleId, unix_time_now, price_normal, price_sale))
 
-        spider.logger.debug('Product price stored : {articleId}')
+        spider.logger.debug(f'Product price stored for "{articleId}"')
         return product

@@ -10,7 +10,8 @@ services:
       - /home/vbauer/crawler/data:/crawler/data
     environment:
       - PRODUCTS_BILLA_DB=/crawler/data/products_billa.sqlite3
-      - SCRAPY_DELAY=5
+      - INITIAL_SCHEDULE_DELAY=5
+      - CHECK_SCHEDULE_INTERVAL=10
 
   openvpn-client:
     build: ./vpn

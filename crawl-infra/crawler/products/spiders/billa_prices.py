@@ -5,10 +5,11 @@ import sqlite3
 
 class BillaProductsSpider(scrapy.Spider):
     name = 'billa_product_prices'
+    download_timeout = 5
     
     def start_requests(self):
         
-        db_path     = os.getenv('PRODUCTS_BILLA_DB')
+        db_path     = os.getenv('PRODUCTS_BILLA_DB', '/home/vbauer/Mega/Projects/shop_products/crawl-infra/crawler/products/dev-data/products_billa.sqlite3')
         db_mode     = 'ro'
         db_uri      = f'file:{db_path}?mode={db_mode}'
         
