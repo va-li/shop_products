@@ -1,0 +1,2 @@
+# every day at 5:51am
+51 5 * * * /crawler/start_crawler.sh > /proc/1/fd/1 2>/proc/1/fd/2
