@@ -10,6 +10,7 @@ services:
       - /home/vbauer/crawler/data:/crawler/data
     environment:
       - PRODUCTS_BILLA_DB=/crawler/data/products_billa.sqlite3
+    restart: unless-stopped
 
   openvpn-client:
     build: ./vpn
