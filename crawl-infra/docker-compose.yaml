@@ -22,3 +22,11 @@ services:
     environment:
       - VPN_CONFIG_FILE=config.ovpn
     restart: unless-stopped
+
+  metabase:
+    image: metabase/metabase
+    container_name: metabase
+    ports:
+      - 3000:3000
+    volumes:
+      - /home/vbauer/crawler/data:/crawler/data
