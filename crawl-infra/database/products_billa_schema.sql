@@ -21,7 +21,8 @@ CREATE TABLE IF NOT EXISTS prices (
     FOREIGN KEY (prod_id) REFERENCES products(id)
 );
 
-CREATE VIEW IF NOT EXISTS price_changes_from_last_recorded (
+DROP VIEW IF EXISTS price_changes;
+CREATE VIEW IF NOT EXISTS price_changes (
     prod_id,
     timestamp,
     week,
@@ -37,15 +38,21 @@ SELECT
     ( LAG(price_normal, 1, price_normal) OVER (PARTITION BY prod_id ORDER BY timestamp) ) AS price_last_recorded,
     ( price_normal - LAG(price_normal, 1, price_normal) OVER (PARTITION BY prod_id ORDER BY timestamp) ) AS price_change_from_last_recorded
 FROM prices;
-        
+
+DROP VIEW IF EXISTS price_changes_weekly;
 CREATE VIEW IF NOT EXISTS price_changes_weekly (
     prod_id,
     week,
+    closing_price_last_week,
+    closing_price_this_week,
     price_change_from_prev_week
 ) AS
-SELECT
+SELECT DISTINCT
     prod_id,
     week,
-    SUM(price_change_from_last_recorded) AS price_change_from_prev_week
-FROM price_changes_daily
-GROUP BY prod_id, week;
+    ( FIRST_VALUE(price_last_recorded) OVER week_window ) AS closing_price_last_week,
+    ( LAST_VALUE(price_now) OVER week_window ) AS closing_price_this_week,
+    ( SUM(price_change_from_last_recorded) OVER week_window ) AS price_change_from_prev_week
+FROM price_changes
+WINDOW week_window AS (PARTITION BY prod_id, week ORDER BY timestamp ASC ROWS BETWEEN UNBOUNDED PRECEDING AND UNBOUNDED FOLLOWING)
+ORDER BY prod_id, week ASC
