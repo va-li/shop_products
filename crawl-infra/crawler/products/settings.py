@@ -14,7 +14,7 @@ BOT_NAME = 'products'
 SPIDER_MODULES = ['products.spiders']
 NEWSPIDER_MODULE = 'products.spiders'
 
-LOG_LEVEL = 'INFO'
+LOG_LEVEL = 'DEBUG'
 #LOG_FILE = os.getenv('LOG_FILE', '/home/vbauer/Mega/Projects/shop_products/crawl-infra/crawler/products/dev-data/spider.log')
 
 # Crawl responsibly by identifying yourself (and your website) on the user-agent

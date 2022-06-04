@@ -4,13 +4,14 @@
 # See: https://docs.scrapy.org/en/latest/topics/item-pipeline.html
 
 
+import json
 from scrapy.exceptions import DropItem
 
 import sqlite3
 import os
 import time
 
-# This pipeline takes the Item and stuffs it into scrapedata.db
+# This pipeline takes the Item and stuffs it into an sqlite database
 class StoreBillaProductPriceSqlite(object):
     def open_spider(self, spider):
         
@@ -21,7 +22,6 @@ class StoreBillaProductPriceSqlite(object):
         spider.logger.info(f'Using database URI {db_uri}')
         
         self.connection = sqlite3.connect(db_uri, uri=True)
-        #self.cursor = self.connection.cursor()
         
         self.connection.execute('''
             CREATE TABLE IF NOT EXISTS prices (
@@ -40,8 +40,7 @@ class StoreBillaProductPriceSqlite(object):
         if ('articleId' not in product or len(product['articleId']) == 0):
             raise DropItem('Missing articleId')
         
-        articleId: str = product['articleId']
-        
+        product_id: str = product['articleId']
         try:
             price_normal = float(product['price']['normal'])
         except ValueError:
@@ -55,11 +54,35 @@ class StoreBillaProductPriceSqlite(object):
             price_sale = None
         
         with self.connection:
-            self.connection.execute('''
-                INSERT INTO prices (prod_id, timestamp, price_normal, price_sale)
+            
+            if product['_is_new']:
+                values = [
+                    product_id,
+                    product['name'],
+                    product['description'],
+                    product['brand'],
+                    product['category'],
+                    product['product_group_id'],
+                    product['grammage'],
+                    product['vatCode'],
+                    product['rank'],
+                    json.dumps(product['attributes']),
+                    json.dumps(product['eanCodes'])
+                ]
+                
+                self.connection.execute(''' INSERT INTO products
+                    (id, name, description, brand, category, product_group_id, grammage, vatCode, rank, attributes, eanCodes)
+                    VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
+                    ''',
+                    values)
+                
+                spider.logger.debug(f'New product stored: "{product_id}"')
+            
+            self.connection.execute('''INSERT INTO prices
+                (prod_id, timestamp, price_normal, price_sale)
                 VALUES (?, ?, ?, ?)
                 ''',
-                (articleId, unix_time_now, price_normal, price_sale))
+                [ product_id, unix_time_now, price_normal, price_sale ])
 
-        spider.logger.debug(f'Product price stored for "{articleId}"')
+        spider.logger.debug(f'Product price stored for "{product_id}"')
         return product
