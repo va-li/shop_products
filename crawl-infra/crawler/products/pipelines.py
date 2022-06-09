@@ -11,8 +11,27 @@ import sqlite3
 import os
 import time
 
-# This pipeline takes the Item and stuffs it into an sqlite database
+class DuplicateProductDropPipeline:
+    """
+    Drops all products that have already been updated.
+    """
+    def __init__(self):
+        self.ids_seen = set()
+
+    def process_item(self, item, spider):
+        product = item
+        product_id: str = product['articleId']
+        
+        if product_id in self.ids_seen:
+            raise DropItem(f'Duplicate product found: "{product_id}"')
+        else:
+            self.ids_seen.add(product_id)
+            return product
+
 class StoreBillaProductPriceSqlite(object):
+    """
+    Takes the product and stuffs it into an sqlite database
+    """
     def open_spider(self, spider):
         
         db_path         = os.getenv('PRODUCTS_BILLA_DB', '/home/vbauer/Mega/Projects/shop_products/crawl-infra/crawler/products/dev-data/products_billa.sqlite3')

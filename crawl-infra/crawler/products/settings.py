@@ -72,7 +72,8 @@ DOWNLOAD_DELAY = 1
 # Configure item pipelines
 # See https://docs.scrapy.org/en/latest/topics/item-pipeline.html
 ITEM_PIPELINES = {
-    'products.pipelines.StoreBillaProductPriceSqlite': 400,
+    'products.pipelines.DuplicateProductDropPipeline': 300, # first drop duplicates
+    'products.pipelines.StoreBillaProductPriceSqlite': 400, # then store in sqlite
 }
 
 # Enable and configure the AutoThrottle extension (disabled by default)
