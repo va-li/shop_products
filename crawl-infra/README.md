@@ -1,26 +1,26 @@
-# Product crawler
+# Shop product webcrawler components
 
-## Run the crawler (currently only billa)
+## Crawler
 
-```
-$ pwd
-/home/vbauer/Mega/Projects/shop_products
-$ docker-compose up --build
-...
-```
+Everything in [./crawler/](./crawler/).
 
-## Watch progress
+A docker image using python [Scrapy](https://scrapy.org/) to crawl online shop websites. The crawler is periodically executed by leveraging cron inside the docker container.
 
-```
-$ sudo ls /var/lib/docker/volumes/crawl-infra_crawler_downloads/_data/billa
-20220504_152756_products.jl
-```
+## VPN
 
-Find latest file.
+Everything in [./vpn/](./vpn/).
 
-```
-$ watch -n 1 "sudo wc -l  /var/lib/docker/volumes/crawl-infra_crawler_downloads/_data/billa/20220504_152756_products.jl"
-Every 1,0s: sudo wc -l  /var/lib/docker/volumes/crawl-infra_crawler_downloads/_data/billa/20220504_152756_products.jl
+A docker image connecting to an OpenVPN server to hide the IP of the server running the crawler program, so my server does not get blocked by any online shop websites. Leverages the pre-made docker image [ghcr.io/wfg/openvpn-client](ghcr.io/wfg/openvpn-client) to tunnel all network traffic through OpenVPN.
 
-132 /var/lib/docker/volumes/crawl-infra_crawler_downloads/_data/billa/20220504_152756_products.jl
+## Tying VPN and Crawler together
+
+Happens in the [./docker-compose.yaml](./docker-compose.yaml) by putting the crawler docker container and the vpn docker container on the same virtual network.
+
+```yaml
+services:
+  openvpn-client:
+    ...
+  crawler:
+    network_mode: service:openvpn-client
+    ...
 ```
