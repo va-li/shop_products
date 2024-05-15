@@ -1,0 +1,100 @@
+{
+    "seoTitle": "Pearls of Samarkand Bio Mandeln aus Sizilien online bestellen",
+    "seoDescription": "Pearls of Samarkand Bio Mandeln aus Sizilien online kaufen im BILLA Online Shop! \u2714 gro\u00dfe Produktauswahl \u2714 gleiche Preise wie im Markt >> bestellen Sie jetzt!",
+    "descriptionShort": null,
+    "supplierText": null,
+    "modificationDate": null,
+    "eanCodes": [
+        "9001604372426"
+    ],
+    "isAvailable": true,
+    "recommendedArticles": null,
+    "foodInformation": null,
+    "weightOptions": null,
+    "category": "Grundnahrungsmittel",
+    "availability": 4,
+    "url": "/produkte/pearls-of-samarkand-bio-mandeln-aus-sizilien/00-861409",
+    "articleOnlyCanonicalPath": "/produkte/pearls-of-samarkand-bio-mandeln-aus-sizilien/00-861409",
+    "canonicalPath": "/produkte/pearls-of-samarkand-bio-mandeln-aus-sizilien/00-861409",
+    "paths": [
+        "~/warengruppe/grundnahrungsmittel/backen/nuesse-und-kerne/B2-636/produkte/pearls-of-samarkand-bio-mandeln-aus-sizilien/00-861409",
+        "~/warengruppe/obst-und-gemuese/trockenfruechte-und-nuesse/B2-14/produkte/pearls-of-samarkand-bio-mandeln-aus-sizilien/00-861409"
+    ],
+    "recipeID": null,
+    "articleId": "00-861409",
+    "name": "Pearls of Samarkand Bio Mandeln aus Sizilien",
+    "description": "Ein echtes Superfood sind die Bio-Mandeln von Pearls of Samarkand. Die naturbelassenen Mandeln begeistern mit ihrer intensiv aromatischen Geschmacksnote.<li>vegan und bio<li>sorgf\u00e4ltig geerntet per Hand",
+    "hasDescription": true,
+    "productText": null,
+    "articleGroupIds": [
+        "B2-636",
+        "B2-14"
+    ],
+    "slug": "pearls-of-samarkand-bio-mandeln-aus-sizilien",
+    "brand": "Pearls of Samarkand",
+    "brandPath": null,
+    "hasBrandTab": false,
+    "video": "",
+    "authenticatedOnly": false,
+    "hasSpecialDeliveryWindows": false,
+    "isDelicatessen": false,
+    "isSugarFree": false,
+    "isSugarReduced": false,
+    "recommendationArticleIds": [],
+    "grammageBadge": null,
+    "grammageUnit": "",
+    "grammagePriceFactor": 1.0,
+    "grammage": "200 Gramm Beutel",
+    "minimalOrderQuantity": 0.0,
+    "maximalOrderQuantity": 6.0,
+    "quantitySteps": [],
+    "orderQuantityStepSize": 1.0,
+    "score": null,
+    "articleTypeIndicator": null,
+    "isWeightArticle": false,
+    "price": {
+        "normal": 4.79,
+        "sale": 4.79,
+        "unit": "1 kg 23.95",
+        "final": 4.79,
+        "priceTypeDefinitions": [],
+        "isQuantityDiscount": false,
+        "priceAdditionalInfo": {},
+        "bulkDiscountPriceTypes": [],
+        "defaultPriceTypes": [],
+        "isPlusPromotion": false
+    },
+    "loyaltyPrice": {
+        "normal": 4.79,
+        "sale": 4.79,
+        "unit": "1 kg 23.95",
+        "final": 4.79,
+        "priceTypeDefinitions": [],
+        "isQuantityDiscount": false,
+        "priceAdditionalInfo": {},
+        "bulkDiscountPriceTypes": [],
+        "defaultPriceTypes": [],
+        "isPlusPromotion": false
+    },
+    "vatCode": "10",
+    "storeAvalibility": [
+        "00-99202",
+        "00-10"
+    ],
+    "badges": [
+        "s_bio"
+    ],
+    "attributes": [
+        "s_bio",
+        "s_marke",
+        "mengehaus",
+        "s_ranking",
+        "s_spezeig",
+        "s_spezern",
+        "s_guetesie"
+    ],
+    "properties": [],
+    "rank": 83990,
+    "isMedical": false,
+    "product_group_id": "B2-14"
+}
